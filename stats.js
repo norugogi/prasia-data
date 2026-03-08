@@ -1,3 +1,7 @@
+document.addEventListener("DOMContentLoaded", function(){
+initStats()
+})
+
 fetch("players.json")
 
 .then(res=>res.json())
@@ -228,3 +232,4 @@ document.getElementById(name).classList.add("active")
 event.target.classList.add("active")
 
 }
+
