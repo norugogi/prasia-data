@@ -188,8 +188,9 @@ Object.values(levelData)
 
 const gradeData = countBy(players,"grade")
 
-const gradeLabels = Object.keys(gradeData)
-const gradeValues = Object.values(gradeData)
+const gradeLabels = Object.keys(gradeData).sort((a,b)=>a-b)
+
+const gradeValues = gradeLabels.map(g => gradeData[g])
 
 /* 그래프용 필터 */
 
@@ -203,7 +204,7 @@ gradeLabelsFiltered,
 gradeValuesFiltered
 )
 
-/* 표는 전체 유지 */
+/* 표는 전체 */
 
 renderTable(
 "gradeTable",
