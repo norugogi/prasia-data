@@ -1,117 +1,34 @@
-<!DOCTYPE html>
-<html lang="ko">
+<div class="tabs">
 
-<head>
+<button class="tab active" onclick="showTab('level')">레벨</button>
+<button class="tab" onclick="showTab('grade')">등급</button>
+<button class="tab" onclick="showTab('class')">직업</button>
 
-<meta charset="UTF-8">
-<title>결사 통계</title>
-
-<link rel="stylesheet" href="style.css">
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-</head>
+</div>
 
 
-<body>
+<div id="level" class="tab-content active">
 
-<div class="container">
-
-<h1>결사 통계 대시보드</h1>
-
-
-<section>
-
-<h2>레벨별 통계</h2>
-
-<div class="statBox">
-
+<h2>레벨 통계</h2>
 <canvas id="levelChart"></canvas>
-
-<table id="levelTable">
-
-<thead>
-
-<tr>
-<th>구분</th>
-<th>수치</th>
-<th>%</th>
-</tr>
-
-</thead>
-
-<tbody></tbody>
-
-</table>
+<div id="levelTable"></div>
 
 </div>
 
-</section>
 
+<div id="grade" class="tab-content">
 
-
-<section>
-
-<h2>등급별 통계</h2>
-
-<div class="statBox">
-
+<h2>등급 통계</h2>
 <canvas id="gradeChart"></canvas>
-
-<table id="gradeTable">
-
-<thead>
-
-<tr>
-<th>구분</th>
-<th>수치</th>
-<th>%</th>
-</tr>
-
-</thead>
-
-<tbody></tbody>
-
-</table>
+<div id="gradeTable"></div>
 
 </div>
 
-</section>
 
+<div id="class" class="tab-content">
 
-
-<section>
-
-<h2>직업별 통계</h2>
-
-<div class="statBox">
-
+<h2>직업 통계</h2>
 <canvas id="classChart"></canvas>
-
-<table id="classTable">
-
-<thead>
-
-<tr>
-<th>구분</th>
-<th>수치</th>
-<th>%</th>
-</tr>
-
-</thead>
-
-<tbody></tbody>
-
-</table>
+<div id="classTable"></div>
 
 </div>
-
-</section>
-
-
-</div>
-
-<script src="stats.js"></script>
-
-</body>
-</html>
