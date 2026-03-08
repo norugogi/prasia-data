@@ -2,45 +2,44 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>Prasia Ranking</title>
+<title>프라시아 전기 통계</title>
 <link rel="stylesheet" href="style.css">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
 
-<h1>Prasia Ranking</h1>
+<h1>프라시아 전기 랭킹 통계</h1>
 
-<div class="controls">
+<div class="filters">
 
-<select id="guildFilter">
-<option value="ALL">전체</option>
-<option value="DOG">DOG</option>
-<option value="CAT">CAT</option>
+<label>레벨</label>
+<select id="levelFilter">
+<option value="all">전체</option>
 </select>
 
-<input type="text" id="searchBox" placeholder="닉네임 검색">
+<label>등급</label>
+<select id="gradeFilter">
+<option value="all">전체</option>
+</select>
+
+<label>직업</label>
+<select id="classFilter">
+<option value="all">전체</option>
+</select>
 
 </div>
 
-<table id="rankingTable">
+<div class="charts">
 
-<thead>
-<tr>
-<th>랭킹</th>
-<th>닉네임</th>
-<th>레벨</th>
-<th>직업</th>
-<th>결사</th>
-<th>서버</th>
-</tr>
-</thead>
+<canvas id="levelChart"></canvas>
+<canvas id="gradeChart"></canvas>
+<canvas id="classChart"></canvas>
 
-<tbody>
-</tbody>
+</div>
 
-</table>
-
-<script src="ranking.js"></script>
+<script src="stats.js"></script>
 
 </body>
 </html>
