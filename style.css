@@ -1,51 +1,81 @@
 body{
+
 background:#212121;
 color:white;
 font-family:Arial;
+
 margin:0;
 padding:20px;
+
 }
+
 
 .container{
+
 max-width:1200px;
 margin:auto;
+
 }
+
 
 h1{
+
 text-align:center;
 margin-bottom:40px;
+
 }
 
-.statSection{
-margin-bottom:50px;
+
+section{
+
+margin-bottom:60px;
+
 }
+
 
 .statBox{
+
 display:flex;
 gap:40px;
 align-items:flex-start;
+
 }
+
 
 canvas{
+
 width:500px;
 height:350px;
+
 background:#2a2a2a;
+
 padding:10px;
+
 border-radius:10px;
+
 }
 
+
 table{
+
 border-collapse:collapse;
 width:300px;
 background:#2a2a2a;
+
 }
 
+
 th,td{
+
 padding:10px;
 text-align:center;
 border-bottom:1px solid #444;
+
 }
 
+
 th{
+
 background:#333;
+
 }
