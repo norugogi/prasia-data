@@ -33,23 +33,58 @@ fetch("players.json")
 .then(res=>res.json())
 .then(players=>{
 
-function countBy(key){
+
+function countLevel(){
 
 const map={}
 
 players.forEach(p=>{
 
-let value=p[key]
+const level=p.gc_level
 
-if(key==="grade"){
+if(!level) return
 
-value=p.string_map?.grade
+map[level]=(map[level]||0)+1
+
+})
+
+return map
 
 }
 
-if(value===undefined) return
 
-map[value]=(map[value]||0)+1
+
+function countGrade(){
+
+const map={}
+
+players.forEach(p=>{
+
+const grade=p.string_map?.grade
+
+if(!grade) return
+
+map[grade]=(map[grade]||0)+1
+
+})
+
+return map
+
+}
+
+
+
+function countClass(){
+
+const map={}
+
+players.forEach(p=>{
+
+const c=p.class
+
+if(!c) return
+
+map[c]=(map[c]||0)+1
 
 })
 
@@ -61,37 +96,23 @@ return map
 
 function renderChart(id,labels,data){
 
-new Chart(
-
-document.getElementById(id),
-
-{
+new Chart(document.getElementById(id),{
 
 type:"bar",
 
 data:{
-
 labels:labels,
-
 datasets:[{
-
 label:"인원",
-
 data:data
-
 }]
-
 },
 
 options:{
-
 plugins:{legend:{display:false}}
-
 }
 
-}
-
-)
+})
 
 }
 
@@ -115,7 +136,6 @@ html+=`<th>${l}</th>`
 
 html+="</tr>"
 
-
 html+="<tr><td>인원</td>"
 
 data.forEach(v=>{
@@ -125,7 +145,6 @@ html+=`<td>${v}</td>`
 })
 
 html+="</tr>"
-
 
 html+="<tr><td>%</td>"
 
@@ -147,39 +166,29 @@ div.innerHTML=html
 
 
 
-const levelData=countBy("gc_level")
+const levelData=countLevel()
 
 const levelLabels=Object.keys(levelData).sort((a,b)=>a-b)
 
 const levelValues=levelLabels.map(l=>levelData[l])
 
-const levelFiltered=levelLabels.filter(l=>Number(l)>=80)
-
-const levelFilteredValues=levelFiltered.map(l=>levelData[l])
-
-renderChart("levelChart",levelFiltered,levelFilteredValues)
-
+renderChart("levelChart",levelLabels,levelValues)
 renderTable("levelTable",levelLabels,levelValues)
 
 
 
-const gradeData=countBy("grade")
+const gradeData=countGrade()
 
 const gradeLabels=Object.keys(gradeData).sort((a,b)=>a-b)
 
 const gradeValues=gradeLabels.map(l=>gradeData[l])
 
-const gradeFiltered=gradeLabels.filter(l=>Number(l)>=15)
-
-const gradeFilteredValues=gradeFiltered.map(l=>gradeData[l])
-
-renderChart("gradeChart",gradeFiltered,gradeFilteredValues)
-
+renderChart("gradeChart",gradeLabels,gradeValues)
 renderTable("gradeTable",gradeLabels,gradeValues)
 
 
 
-const classData=countBy("class")
+const classData=countClass()
 
 const classKeys=Object.keys(classData)
 
@@ -188,7 +197,6 @@ const classLabels=classKeys.map(c=>classKR[c]||c)
 const classValues=classKeys.map(c=>classData[c])
 
 renderChart("classChart",classLabels,classValues)
-
 renderTable("classTable",classLabels,classValues)
 
 })
