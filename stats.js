@@ -1,13 +1,17 @@
 fetch("players.json")
+
 .then(res=>res.json())
+
 .then(data=>{
 
 let players=data.map(p=>({
 
-name:p.gc_name,
-level:Number(p.gc_level),
-grade:Number(p.string_map.grade),
-class:p.class
+name:p.name,
+level:Number(p.level),
+grade:Number(p.grade),
+class:p.class,
+guild:p.guild,
+world:p.world
 
 }))
 
@@ -25,92 +29,89 @@ Runescribe:"주문각인사"
 
 
 players.forEach(p=>{
+
 p.class=classMap[p.class] || p.class
+
 })
 
-const levelRanges={
-"86":0,
-"87":0,
-"88":0,
-"89":0,
-"90":0,
-"91":0,
-"92":0
+
+const total=players.length
+
+
+
+function countBy(arr,key){
+
+let result={}
+
+arr.forEach(p=>{
+
+let v=p[key]
+
+if(!result[v]) result[v]=0
+
+result[v]++
+
+})
+
+return result
+
 }
-
-players.forEach(p=>{
-if(levelRanges[p.level]!==undefined)
-levelRanges[p.level]++
-})
-
-
-let gradeCount={}
-
-players.forEach(p=>{
-
-let g=p.grade
-
-if(!gradeCount[g]) gradeCount[g]=0
-
-gradeCount[g]++
-
-})
-
-
-let classCount={}
-
-players.forEach(p=>{
-
-let c=p.class
-
-if(!classCount[c]) classCount[c]=0
-
-classCount[c]++
-
-})
 
 
 function renderChart(canvasId,labels,data){
 
 new Chart(
+
 document.getElementById(canvasId),
 
 {
+
 type:"bar",
 
 data:{
+
 labels:labels,
 
 datasets:[{
+
 label:"인원",
-data:data
+
+data:data,
+
+backgroundColor:"#4e79ff"
+
 }]
+
 },
 
 options:{
+
 plugins:{
-legend:{
-labels:{color:"white"}
-}
+
+legend:{display:false}
+
 },
 
 scales:{
+
 x:{ticks:{color:"white"}},
+
 y:{ticks:{color:"white"}}
-}
 
 }
 
 }
 
-)
+})
 
 }
 
 
-function renderTable(tableId,labels,data,total){
+function renderTable(tableId,labels,data){
 
 let tbody=document.querySelector("#"+tableId+" tbody")
+
+tbody.innerHTML=""
 
 labels.forEach((l,i)=>{
 
@@ -119,11 +120,17 @@ let count=data[i]
 let percent=((count/total)*100).toFixed(1)
 
 tbody.innerHTML+=`
+
 <tr>
+
 <td>${l}</td>
+
 <td>${count}</td>
+
 <td>${percent}%</td>
+
 </tr>
+
 `
 
 })
@@ -131,30 +138,77 @@ tbody.innerHTML+=`
 }
 
 
-const total=players.length
+
+const levelData=countBy(players,"level")
+
+renderChart(
+
+"levelChart",
+
+Object.keys(levelData),
+
+Object.values(levelData)
+
+)
+
+renderTable(
+
+"levelTable",
+
+Object.keys(levelData),
+
+Object.values(levelData)
+
+)
 
 
 
-const levelLabels=Object.keys(levelRanges)
-const levelValues=Object.values(levelRanges)
+const gradeData=countBy(players,"grade")
 
-renderChart("levelChart",levelLabels,levelValues)
-renderTable("levelTable",levelLabels,levelValues,total)
+renderChart(
+
+"gradeChart",
+
+Object.keys(gradeData),
+
+Object.values(gradeData)
+
+)
+
+renderTable(
+
+"gradeTable",
+
+Object.keys(gradeData),
+
+Object.values(gradeData)
+
+)
 
 
 
-const gradeLabels=Object.keys(gradeCount)
-const gradeValues=Object.values(gradeCount)
+const classData=countBy(players,"class")
 
-renderChart("gradeChart",gradeLabels,gradeValues)
-renderTable("gradeTable",gradeLabels,gradeValues,total)
+renderChart(
+
+"classChart",
+
+Object.keys(classData),
+
+Object.values(classData)
+
+)
+
+renderTable(
+
+"classTable",
+
+Object.keys(classData),
+
+Object.values(classData)
+
+)
 
 
-
-const classLabels=Object.keys(classCount)
-const classValues=Object.values(classCount)
-
-renderChart("classChart",classLabels,classValues)
-renderTable("classTable",classLabels,classValues,total)
 
 })
