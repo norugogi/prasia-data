@@ -1,5 +1,9 @@
 let players = []
 
+let levelChart
+let gradeChart
+let classChart
+
 fetch("players.json")
 .then(r => r.json())
 .then(data => {
@@ -22,15 +26,18 @@ levels.sort((a,b)=>a-b)
 grades.sort((a,b)=>a-b)
 
 levels.forEach(l=>{
-levelFilter.innerHTML += `<option value="${l}">${l}</option>`
+document.getElementById("levelFilter")
+.innerHTML += `<option value="${l}">${l}</option>`
 })
 
 grades.forEach(g=>{
-gradeFilter.innerHTML += `<option value="${g}">${g}</option>`
+document.getElementById("gradeFilter")
+.innerHTML += `<option value="${g}">${g}</option>`
 })
 
 classes.forEach(c=>{
-classFilter.innerHTML += `<option value="${c}">${c}</option>`
+document.getElementById("classFilter")
+.innerHTML += `<option value="${c}">${c}</option>`
 })
 
 levelFilter.onchange = updateCharts
@@ -78,7 +85,9 @@ function drawChart(id,stats,title){
 let labels = Object.keys(stats)
 let values = Object.values(stats)
 
-new Chart(document.getElementById(id),{
+if(window[id]) window[id].destroy()
+
+window[id] = new Chart(document.getElementById(id),{
 
 type:"bar",
 
@@ -88,6 +97,12 @@ datasets:[{
 label:title,
 data:values
 }]
+},
+
+options:{
+plugins:{
+legend:{display:false}
+}
 }
 
 })
