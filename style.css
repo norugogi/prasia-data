@@ -5,6 +5,10 @@ font-family:Arial;
 margin:30px;
 }
 
+h1{
+color:white;
+}
+
 .tabs{
 display:flex;
 gap:6px;
@@ -30,6 +34,11 @@ display:none;
 
 .tab-content.active{
 display:block;
+}
+
+canvas{
+max-width:800px;
+margin-bottom:20px;
 }
 
 table{
