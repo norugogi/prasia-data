@@ -1,67 +1,69 @@
 body{
+
 background:#212121;
-color:#fff;
+color:white;
 font-family:Segoe UI;
 margin:0;
 padding:20px;
+
 }
 
 .container{
-max-width:1200px;
+
+max-width:1100px;
 margin:auto;
+
 }
 
 h1{
+
 text-align:center;
-margin-bottom:20px;
-}
+margin-bottom:30px;
 
-.filters{
-display:flex;
-gap:10px;
-justify-content:center;
-margin-bottom:20px;
-}
-
-select,button{
-padding:6px 10px;
-background:#2b2b2b;
-border:1px solid #444;
-color:white;
-}
-
-button{
-cursor:pointer;
 }
 
 .stats-layout{
+
 display:flex;
 gap:40px;
+
 }
 
 .chart-area{
+
 flex:1;
+
 }
 
 .table-area{
-width:300px;
+
+width:320px;
+
 }
 
 table{
+
 width:100%;
 border-collapse:collapse;
+
 }
 
 th,td{
+
 border:1px solid #444;
 padding:8px;
 text-align:center;
+
 }
 
 th{
-background:#2a2a2a;
+
+background:#2b2b2b;
+
 }
 
 tr:nth-child(even){
+
 background:#262626;
+
 }
