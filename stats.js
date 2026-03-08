@@ -140,30 +140,6 @@ tbody.innerHTML+=`
 
 
 const levelData=countBy(players,"level")
-const levelData = countBy(players,"level")
-
-const levelLabels = Object.keys(levelData)
-const levelValues = Object.values(levelData)
-
-/* 그래프용 필터 */
-
-const levelLabelsFiltered = levelLabels.filter(l => Number(l) >= 80)
-
-const levelValuesFiltered = levelLabelsFiltered.map(l => levelData[l])
-
-renderChart(
-"levelChart",
-levelLabelsFiltered,
-levelValuesFiltered
-)
-
-/* 표는 전체 유지 */
-
-renderTable(
-"levelTable",
-levelLabels,
-levelValues
-)
 
 renderChart(
 
@@ -236,3 +212,4 @@ Object.values(classData)
 
 
 })
+
