@@ -16,25 +16,40 @@ event.target.classList.add("active")
 
 
 
+const classKR = {
+
+SolarSentinel:"태양감시자",
+Enforcer:"집행관",
+IncenseArcher:"향사수",
+MirageBlade:"환영검사",
+RuneScribe:"주문각인사",
+AbyssRevenant:"심연추방자"
+
+}
+
+
+
 fetch("players.json")
-.then(res => res.json())
-.then(players => {
+.then(res=>res.json())
+.then(players=>{
 
 function countBy(key){
 
-const map = {}
+const map={}
 
 players.forEach(p=>{
 
-let value = p[key]
+let value=p[key]
 
 if(key==="grade"){
-value = p.string_map?.grade
+
+value=p.string_map?.grade
+
 }
 
 if(value===undefined) return
 
-map[value] = (map[value] || 0) + 1
+map[value]=(map[value]||0)+1
 
 })
 
@@ -44,40 +59,85 @@ return map
 
 
 
-function renderChart(id, labels, data){
+function renderChart(id,labels,data){
 
 new Chart(
+
 document.getElementById(id),
+
 {
+
 type:"bar",
+
 data:{
+
 labels:labels,
+
 datasets:[{
+
 label:"인원",
+
 data:data
+
 }]
+
 },
+
 options:{
-plugins:{
-legend:{display:false}
+
+plugins:{legend:{display:false}}
+
 }
+
 }
+
+)
+
+}
+
+
+
+function renderTable(id,labels,data){
+
+const total=data.reduce((a,b)=>a+b,0)
+
+const div=document.getElementById(id)
+
+let html="<table class='statTable'>"
+
+html+="<tr><th></th>"
+
+labels.forEach(l=>{
+
+html+=`<th>${l}</th>`
+
 })
 
-}
+html+="</tr>"
 
 
+html+="<tr><td>인원</td>"
 
-function renderTable(id, labels, data){
+data.forEach(v=>{
 
-const div = document.getElementById(id)
+html+=`<td>${v}</td>`
 
-let html="<table>"
-html+="<tr><th>값</th><th>인원</th></tr>"
-
-labels.forEach((l,i)=>{
-html+=`<tr><td>${l}</td><td>${data[i]}</td></tr>`
 })
+
+html+="</tr>"
+
+
+html+="<tr><td>%</td>"
+
+data.forEach(v=>{
+
+const p=((v/total)*100).toFixed(1)
+
+html+=`<td>${p}%</td>`
+
+})
+
+html+="</tr>"
 
 html+="</table>"
 
@@ -90,12 +150,15 @@ div.innerHTML=html
 const levelData=countBy("gc_level")
 
 const levelLabels=Object.keys(levelData).sort((a,b)=>a-b)
+
 const levelValues=levelLabels.map(l=>levelData[l])
 
 const levelFiltered=levelLabels.filter(l=>Number(l)>=80)
+
 const levelFilteredValues=levelFiltered.map(l=>levelData[l])
 
 renderChart("levelChart",levelFiltered,levelFilteredValues)
+
 renderTable("levelTable",levelLabels,levelValues)
 
 
@@ -103,22 +166,29 @@ renderTable("levelTable",levelLabels,levelValues)
 const gradeData=countBy("grade")
 
 const gradeLabels=Object.keys(gradeData).sort((a,b)=>a-b)
+
 const gradeValues=gradeLabels.map(l=>gradeData[l])
 
 const gradeFiltered=gradeLabels.filter(l=>Number(l)>=15)
+
 const gradeFilteredValues=gradeFiltered.map(l=>gradeData[l])
 
 renderChart("gradeChart",gradeFiltered,gradeFilteredValues)
+
 renderTable("gradeTable",gradeLabels,gradeValues)
 
 
 
 const classData=countBy("class")
 
-const classLabels=Object.keys(classData)
-const classValues=classLabels.map(l=>classData[l])
+const classKeys=Object.keys(classData)
+
+const classLabels=classKeys.map(c=>classKR[c]||c)
+
+const classValues=classKeys.map(c=>classData[c])
 
 renderChart("classChart",classLabels,classValues)
+
 renderTable("classTable",classLabels,classValues)
 
 })
