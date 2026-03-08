@@ -139,7 +139,30 @@ tbody.innerHTML+=`
 
 
 
-const levelData=countBy(players,"level")
+const levelData = countBy(players,"level")
+
+const levelLabels = Object.keys(levelData)
+const levelValues = Object.values(levelData)
+
+/* 그래프용 필터 */
+
+const levelLabelsFiltered = levelLabels.filter(l => Number(l) >= 80)
+
+const levelValuesFiltered = levelLabelsFiltered.map(l => levelData[l])
+
+renderChart(
+"levelChart",
+levelLabelsFiltered,
+levelValuesFiltered
+)
+
+/* 표는 전체 유지 */
+
+renderTable(
+"levelTable",
+levelLabels,
+levelValues
+)
 
 renderChart(
 
@@ -163,8 +186,30 @@ Object.values(levelData)
 
 
 
-const gradeData=countBy(players,"grade")
+const gradeData = countBy(players,"grade")
 
+const gradeLabels = Object.keys(gradeData)
+const gradeValues = Object.values(gradeData)
+
+/* 그래프용 필터 */
+
+const gradeLabelsFiltered = gradeLabels.filter(g => Number(g) >= 15)
+
+const gradeValuesFiltered = gradeLabelsFiltered.map(g => gradeData[g])
+
+renderChart(
+"gradeChart",
+gradeLabelsFiltered,
+gradeValuesFiltered
+)
+
+/* 표는 전체 유지 */
+
+renderTable(
+"gradeTable",
+gradeLabels,
+gradeValues
+)
 renderChart(
 
 "gradeChart",
@@ -212,4 +257,5 @@ Object.values(classData)
 
 
 })
+
 
