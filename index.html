@@ -1,72 +1,52 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
+
 <meta charset="UTF-8">
+
 <title>결사 통계</title>
 
 <link rel="stylesheet" href="style.css">
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
 </head>
 
 <body>
 
 <div class="container">
 
-<h1>결사 통계</h1>
-
-<div class="filters">
-
-<select id="levelFilter">
-<option value="all">레벨 전체</option>
-<option value="86">86+</option>
-<option value="87">87+</option>
-<option value="88">88+</option>
-<option value="89">89+</option>
-<option value="90">90+</option>
-</select>
-
-<select id="gradeFilter">
-<option value="all">등급 전체</option>
-<option value="20">20+</option>
-<option value="22">22+</option>
-<option value="24">24+</option>
-</select>
-
-<select id="classFilter">
-<option value="all">직업 전체</option>
-<option value="태양감시자">태양감시자</option>
-<option value="심연추방자">심연추방자</option>
-<option value="환영검사">환영검사</option>
-<option value="집행관">집행관</option>
-<option value="향사수">향사수</option>
-<option value="주문각인사">주문각인사</option>
-</select>
-
-<button onclick="updateCharts()">적용</button>
-
-</div>
-
+<h1>결사 레벨 통계</h1>
 
 <div class="stats-layout">
 
 <div class="chart-area">
+
 <canvas id="levelChart"></canvas>
+
 </div>
 
 <div class="table-area">
+
 <table id="statsTable">
+
 <thead>
+
 <tr>
+
 <th>구분</th>
 <th>수치</th>
 <th>%</th>
+
 </tr>
+
 </thead>
 
 <tbody></tbody>
 
 </table>
+
 </div>
 
 </div>
@@ -76,4 +56,5 @@
 <script src="stats.js"></script>
 
 </body>
+
 </html>
