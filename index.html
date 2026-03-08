@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html lang="ko">
-
 <head>
 
 <meta charset="UTF-8">
-
 <title>결사 통계</title>
 
 <link rel="stylesheet" href="style.css">
@@ -17,44 +15,80 @@
 
 <div class="container">
 
-<h1>결사 레벨 통계</h1>
+<h1>결사 통계 대시보드</h1>
 
-<div class="stats-layout">
 
-<div class="chart-area">
+<div class="statSection">
 
+<h2>레벨별 통계</h2>
+
+<div class="statBox">
 <canvas id="levelChart"></canvas>
 
-</div>
-
-<div class="table-area">
-
-<table id="statsTable">
-
+<table id="levelTable">
 <thead>
-
 <tr>
-
 <th>구분</th>
 <th>수치</th>
 <th>%</th>
-
 </tr>
-
 </thead>
-
 <tbody></tbody>
-
 </table>
-
 </div>
 
 </div>
+
+
+
+<div class="statSection">
+
+<h2>등급별 통계</h2>
+
+<div class="statBox">
+<canvas id="gradeChart"></canvas>
+
+<table id="gradeTable">
+<thead>
+<tr>
+<th>구분</th>
+<th>수치</th>
+<th>%</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+</div>
+
+</div>
+
+
+
+<div class="statSection">
+
+<h2>직업별 통계</h2>
+
+<div class="statBox">
+<canvas id="classChart"></canvas>
+
+<table id="classTable">
+<thead>
+<tr>
+<th>구분</th>
+<th>수치</th>
+<th>%</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+</div>
+
+</div>
+
 
 </div>
 
 <script src="stats.js"></script>
 
 </body>
-
 </html>
