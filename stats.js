@@ -1,139 +1,135 @@
 let players = []
 
-let levelChart
-let gradeChart
-let classChart
+const classMap = {
 
-// 직업 영문 → 한글 변환
-const classNames = {
-
-SolarSentinel: "태양감시자",
-AbyssRevenant: "심연추방자",
-MirageBlade: "환영검사",
-Enforcer: "집행관",
-IncenseArcher: "향사수",
-Runescribe: "주문각인사"
+SolarSentinel : "태양감시자",
+AbyssRevenant : "심연추방자",
+MirageBlade : "환영검사",
+Enforcer : "집행관",
+IncenseArcher : "향사수",
+Runescribe : "주문각인사"
 
 }
 
-// 데이터 로드
 fetch("players.json")
-.then(r => r.json())
-.then(data => {
+.then(res=>res.json())
+.then(data=>{
 
-players = data
+players = data.map(p=>({
 
-initFilters()
+name:p.gc_name,
+level:p.gc_level,
+grade:Number(p.string_map.grade),
+class:classMap[p.class] || p.class
+
+}))
 
 updateCharts()
 
 })
 
-function initFilters(){
 
-let levels = [...new Set(players.map(p=>p.level))]
-let grades = [...new Set(players.map(p=>p.grade))]
-let classes = [...new Set(players.map(p=>p.class))]
 
-levels.sort((a,b)=>a-b)
-grades.sort((a,b)=>a-b)
+let chart
 
-const levelFilter = document.getElementById("levelFilter")
-const gradeFilter = document.getElementById("gradeFilter")
-const classFilter = document.getElementById("classFilter")
-
-levels.forEach(l=>{
-levelFilter.innerHTML += `<option value="${l}">${l}</option>`
-})
-
-grades.forEach(g=>{
-gradeFilter.innerHTML += `<option value="${g}">${g}</option>`
-})
-
-classes.forEach(c=>{
-
-let name = classNames[c] || c
-
-classFilter.innerHTML += `<option value="${c}">${name}</option>`
-
-})
-
-levelFilter.onchange = updateCharts
-gradeFilter.onchange = updateCharts
-classFilter.onchange = updateCharts
-
-}
 
 function updateCharts(){
 
-const levelFilter = document.getElementById("levelFilter")
-const gradeFilter = document.getElementById("gradeFilter")
-const classFilter = document.getElementById("classFilter")
+const levelFilter=document.getElementById("levelFilter")
+const gradeFilter=document.getElementById("gradeFilter")
+const classFilter=document.getElementById("classFilter")
 
-let filtered = players.filter(p=>{
+let filtered=players.filter(p=>{
 
-return (levelFilter.value=="all" || p.level==levelFilter.value)
-&& (gradeFilter.value=="all" || p.grade==gradeFilter.value)
+return (levelFilter.value=="all" || p.level>=levelFilter.value)
+&& (gradeFilter.value=="all" || p.grade>=gradeFilter.value)
 && (classFilter.value=="all" || p.class==classFilter.value)
 
 })
 
-drawCharts(filtered)
+buildLevelChart(filtered)
+buildTable(filtered)
 
 }
 
-function drawCharts(data){
 
-let levelStats = {}
-let gradeStats = {}
-let classStats = {}
 
-data.forEach(p=>{
+function buildLevelChart(list){
 
-levelStats[p.level] = (levelStats[p.level]||0) + 1
-gradeStats[p.grade] = (gradeStats[p.grade]||0) + 1
+let counts={}
 
-let className = classNames[p.class] || p.class
-classStats[className] = (classStats[className]||0) + 1
+list.forEach(p=>{
+
+counts[p.level]=(counts[p.level]||0)+1
 
 })
 
-drawChart("levelChart",levelStats,"레벨 분포")
-drawChart("gradeChart",gradeStats,"등급 분포")
-drawChart("classChart",classStats,"직업 분포")
+let labels=Object.keys(counts).sort((a,b)=>a-b)
+let values=labels.map(l=>counts[l])
 
-}
 
-function drawChart(canvasId,stats,title){
+if(chart) chart.destroy()
 
-let labels = Object.keys(stats)
-let values = Object.values(stats)
-
-if(window[canvasId]) window[canvasId].destroy()
-
-window[canvasId] = new Chart(document.getElementById(canvasId),{
+chart=new Chart(document.getElementById("levelChart"),{
 
 type:"bar",
 
 data:{
 labels:labels,
 datasets:[{
-label:title,
+label:"레벨 분포",
 data:values,
-backgroundColor:"#4CAF50"
+backgroundColor:"#4fc3f7"
 }]
 },
 
 options:{
-responsive:true,
 plugins:{
-legend:{display:false},
-title:{
-display:true,
-text:title
+legend:{display:false}
+},
+scales:{
+x:{ticks:{color:"white"}},
+y:{ticks:{color:"white"}}
 }
 }
+
+})
+
 }
+
+
+
+function buildTable(list){
+
+let tbody=document.querySelector("#statsTable tbody")
+
+tbody.innerHTML=""
+
+let total=list.length
+
+let levelCounts={}
+
+list.forEach(p=>{
+levelCounts[p.level]=(levelCounts[p.level]||0)+1
+})
+
+Object.keys(levelCounts)
+.sort((a,b)=>a-b)
+.forEach(level=>{
+
+let count=levelCounts[level]
+
+let percent=((count/total)*100).toFixed(1)
+
+let row=document.createElement("tr")
+
+row.innerHTML=`
+<td>Lv ${level}</td>
+<td>${count}</td>
+<td>${percent}%</td>
+`
+
+tbody.appendChild(row)
 
 })
 
