@@ -25,11 +25,21 @@ function countBy(key){
 const map = {}
 
 players.forEach(p=>{
-const v = p[key]
-map[v] = (map[v] || 0) + 1
+
+let value = p[key]
+
+if(key==="grade"){
+value = p.string_map?.grade
+}
+
+if(value===undefined) return
+
+map[value] = (map[value] || 0) + 1
+
 })
 
 return map
+
 }
 
 
@@ -46,6 +56,11 @@ datasets:[{
 label:"인원",
 data:data
 }]
+},
+options:{
+plugins:{
+legend:{display:false}
+}
 }
 })
 
@@ -57,51 +72,51 @@ function renderTable(id, labels, data){
 
 const div = document.getElementById(id)
 
-let html = "<table>"
-html += "<tr><th>값</th><th>인원</th></tr>"
+let html="<table>"
+html+="<tr><th>값</th><th>인원</th></tr>"
 
 labels.forEach((l,i)=>{
-html += "<tr><td>"+l+"</td><td>"+data[i]+"</td></tr>"
+html+=`<tr><td>${l}</td><td>${data[i]}</td></tr>`
 })
 
-html += "</table>"
+html+="</table>"
 
-div.innerHTML = html
+div.innerHTML=html
 
 }
 
 
 
-const levelData = countBy("level")
+const levelData=countBy("gc_level")
 
-const levelLabels = Object.keys(levelData).sort((a,b)=>a-b)
-const levelValues = levelLabels.map(l=>levelData[l])
+const levelLabels=Object.keys(levelData).sort((a,b)=>a-b)
+const levelValues=levelLabels.map(l=>levelData[l])
 
-const levelLabelsFiltered = levelLabels.filter(l=>Number(l)>=80)
-const levelValuesFiltered = levelLabelsFiltered.map(l=>levelData[l])
+const levelFiltered=levelLabels.filter(l=>Number(l)>=80)
+const levelFilteredValues=levelFiltered.map(l=>levelData[l])
 
-renderChart("levelChart",levelLabelsFiltered,levelValuesFiltered)
+renderChart("levelChart",levelFiltered,levelFilteredValues)
 renderTable("levelTable",levelLabels,levelValues)
 
 
 
-const gradeData = countBy("grade")
+const gradeData=countBy("grade")
 
-const gradeLabels = Object.keys(gradeData).sort((a,b)=>a-b)
-const gradeValues = gradeLabels.map(l=>gradeData[l])
+const gradeLabels=Object.keys(gradeData).sort((a,b)=>a-b)
+const gradeValues=gradeLabels.map(l=>gradeData[l])
 
-const gradeLabelsFiltered = gradeLabels.filter(l=>Number(l)>=15)
-const gradeValuesFiltered = gradeLabelsFiltered.map(l=>gradeData[l])
+const gradeFiltered=gradeLabels.filter(l=>Number(l)>=15)
+const gradeFilteredValues=gradeFiltered.map(l=>gradeData[l])
 
-renderChart("gradeChart",gradeLabelsFiltered,gradeValuesFiltered)
+renderChart("gradeChart",gradeFiltered,gradeFilteredValues)
 renderTable("gradeTable",gradeLabels,gradeValues)
 
 
 
-const classData = countBy("class")
+const classData=countBy("class")
 
-const classLabels = Object.keys(classData)
-const classValues = classLabels.map(l=>classData[l])
+const classLabels=Object.keys(classData)
+const classValues=classLabels.map(l=>classData[l])
 
 renderChart("classChart",classLabels,classValues)
 renderTable("classTable",classLabels,classValues)
