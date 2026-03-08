@@ -33,58 +33,31 @@ fetch("players.json")
 .then(res=>res.json())
 .then(players=>{
 
+function getLevel(p){
+return p.gc_level ?? p.level
+}
 
-function countLevel(){
+function getGrade(p){
+return p.string_map?.grade ?? p.grade
+}
 
-const map={}
-
-players.forEach(p=>{
-
-const level=p.gc_level
-
-if(!level) return
-
-map[level]=(map[level]||0)+1
-
-})
-
-return map
-
+function getClass(p){
+return p.class
 }
 
 
 
-function countGrade(){
+function count(fn){
 
 const map={}
 
 players.forEach(p=>{
 
-const grade=p.string_map?.grade
+const v=fn(p)
 
-if(!grade) return
+if(v===undefined) return
 
-map[grade]=(map[grade]||0)+1
-
-})
-
-return map
-
-}
-
-
-
-function countClass(){
-
-const map={}
-
-players.forEach(p=>{
-
-const c=p.class
-
-if(!c) return
-
-map[c]=(map[c]||0)+1
+map[v]=(map[v]||0)+1
 
 })
 
@@ -96,10 +69,12 @@ return map
 
 function renderChart(id,labels,data){
 
-new Chart(document.getElementById(id),{
+const el=document.getElementById(id)
 
+if(!el) return
+
+new Chart(el,{
 type:"bar",
-
 data:{
 labels:labels,
 datasets:[{
@@ -107,11 +82,9 @@ label:"인원",
 data:data
 }]
 },
-
 options:{
 plugins:{legend:{display:false}}
 }
-
 })
 
 }
@@ -120,18 +93,18 @@ plugins:{legend:{display:false}}
 
 function renderTable(id,labels,data){
 
-const total=data.reduce((a,b)=>a+b,0)
-
 const div=document.getElementById(id)
+
+if(!div) return
+
+const total=data.reduce((a,b)=>a+b,0)
 
 let html="<table class='statTable'>"
 
 html+="<tr><th></th>"
 
 labels.forEach(l=>{
-
 html+=`<th>${l}</th>`
-
 })
 
 html+="</tr>"
@@ -139,9 +112,7 @@ html+="</tr>"
 html+="<tr><td>인원</td>"
 
 data.forEach(v=>{
-
 html+=`<td>${v}</td>`
-
 })
 
 html+="</tr>"
@@ -149,11 +120,8 @@ html+="</tr>"
 html+="<tr><td>%</td>"
 
 data.forEach(v=>{
-
 const p=((v/total)*100).toFixed(1)
-
 html+=`<td>${p}%</td>`
-
 })
 
 html+="</tr>"
@@ -166,10 +134,9 @@ div.innerHTML=html
 
 
 
-const levelData=countLevel()
+const levelData=count(getLevel)
 
 const levelLabels=Object.keys(levelData).sort((a,b)=>a-b)
-
 const levelValues=levelLabels.map(l=>levelData[l])
 
 renderChart("levelChart",levelLabels,levelValues)
@@ -177,10 +144,9 @@ renderTable("levelTable",levelLabels,levelValues)
 
 
 
-const gradeData=countGrade()
+const gradeData=count(getGrade)
 
 const gradeLabels=Object.keys(gradeData).sort((a,b)=>a-b)
-
 const gradeValues=gradeLabels.map(l=>gradeData[l])
 
 renderChart("gradeChart",gradeLabels,gradeValues)
@@ -188,12 +154,11 @@ renderTable("gradeTable",gradeLabels,gradeValues)
 
 
 
-const classData=countClass()
+const classData=count(getClass)
 
 const classKeys=Object.keys(classData)
 
 const classLabels=classKeys.map(c=>classKR[c]||c)
-
 const classValues=classKeys.map(c=>classData[c])
 
 renderChart("classChart",classLabels,classValues)
