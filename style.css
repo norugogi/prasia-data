@@ -1,0 +1,19 @@
+body{
+ background:#212121;
+ color:#e0e0e0;
+ font-family:Arial;
+ text-align:center;
+}
+
+.stats{
+ display:flex;
+ justify-content:center;
+ gap:20px;
+}
+
+.card{
+ background:#2a2a2a;
+ padding:20px;
+ border-radius:8px;
+ width:150px;
+}
