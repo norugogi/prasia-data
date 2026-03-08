@@ -23,7 +23,7 @@ AbyssRevenant:"심연추방자",
 MirageBlade:"환영검사",
 Enforcer:"집행관",
 IncenseArcher:"향사수",
-Runescribe:"주문각인사"
+RuneScribe:"주문각인사"
 
 }
 
@@ -212,3 +212,4 @@ Object.values(classData)
 
 
 })
+
