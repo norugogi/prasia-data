@@ -4,6 +4,19 @@ let levelChart
 let gradeChart
 let classChart
 
+// 직업 영문 → 한글 변환
+const classNames = {
+
+SolarSentinel: "태양감시자",
+AbyssRevenant: "심연추방자",
+MirageBlade: "환영검사",
+Enforcer: "집행관",
+IncenseArcher: "향사수",
+Runescribe: "주문각인사"
+
+}
+
+// 데이터 로드
 fetch("players.json")
 .then(r => r.json())
 .then(data => {
@@ -25,19 +38,24 @@ let classes = [...new Set(players.map(p=>p.class))]
 levels.sort((a,b)=>a-b)
 grades.sort((a,b)=>a-b)
 
+const levelFilter = document.getElementById("levelFilter")
+const gradeFilter = document.getElementById("gradeFilter")
+const classFilter = document.getElementById("classFilter")
+
 levels.forEach(l=>{
-document.getElementById("levelFilter")
-.innerHTML += `<option value="${l}">${l}</option>`
+levelFilter.innerHTML += `<option value="${l}">${l}</option>`
 })
 
 grades.forEach(g=>{
-document.getElementById("gradeFilter")
-.innerHTML += `<option value="${g}">${g}</option>`
+gradeFilter.innerHTML += `<option value="${g}">${g}</option>`
 })
 
 classes.forEach(c=>{
-document.getElementById("classFilter")
-.innerHTML += `<option value="${c}">${c}</option>`
+
+let name = classNames[c] || c
+
+classFilter.innerHTML += `<option value="${c}">${name}</option>`
+
 })
 
 levelFilter.onchange = updateCharts
@@ -47,6 +65,10 @@ classFilter.onchange = updateCharts
 }
 
 function updateCharts(){
+
+const levelFilter = document.getElementById("levelFilter")
+const gradeFilter = document.getElementById("gradeFilter")
+const classFilter = document.getElementById("classFilter")
 
 let filtered = players.filter(p=>{
 
@@ -68,9 +90,11 @@ let classStats = {}
 
 data.forEach(p=>{
 
-levelStats[p.level]=(levelStats[p.level]||0)+1
-gradeStats[p.grade]=(gradeStats[p.grade]||0)+1
-classStats[p.class]=(classStats[p.class]||0)+1
+levelStats[p.level] = (levelStats[p.level]||0) + 1
+gradeStats[p.grade] = (gradeStats[p.grade]||0) + 1
+
+let className = classNames[p.class] || p.class
+classStats[className] = (classStats[className]||0) + 1
 
 })
 
@@ -80,14 +104,14 @@ drawChart("classChart",classStats,"직업 분포")
 
 }
 
-function drawChart(id,stats,title){
+function drawChart(canvasId,stats,title){
 
 let labels = Object.keys(stats)
 let values = Object.values(stats)
 
-if(window[id]) window[id].destroy()
+if(window[canvasId]) window[canvasId].destroy()
 
-window[id] = new Chart(document.getElementById(id),{
+window[canvasId] = new Chart(document.getElementById(canvasId),{
 
 type:"bar",
 
@@ -95,13 +119,19 @@ data:{
 labels:labels,
 datasets:[{
 label:title,
-data:values
+data:values,
+backgroundColor:"#4CAF50"
 }]
 },
 
 options:{
+responsive:true,
 plugins:{
-legend:{display:false}
+legend:{display:false},
+title:{
+display:true,
+text:title
+}
 }
 }
 
