@@ -1,69 +1,51 @@
 body{
-
 background:#212121;
 color:white;
-font-family:Segoe UI;
+font-family:Arial;
 margin:0;
 padding:20px;
-
 }
 
 .container{
-
-max-width:1100px;
+max-width:1200px;
 margin:auto;
-
 }
 
 h1{
-
 text-align:center;
-margin-bottom:30px;
-
+margin-bottom:40px;
 }
 
-.stats-layout{
+.statSection{
+margin-bottom:50px;
+}
 
+.statBox{
 display:flex;
 gap:40px;
-
+align-items:flex-start;
 }
 
-.chart-area{
-
-flex:1;
-
-}
-
-.table-area{
-
-width:320px;
-
+canvas{
+width:500px;
+height:350px;
+background:#2a2a2a;
+padding:10px;
+border-radius:10px;
 }
 
 table{
-
-width:100%;
 border-collapse:collapse;
-
+width:300px;
+background:#2a2a2a;
 }
 
 th,td{
-
-border:1px solid #444;
-padding:8px;
+padding:10px;
 text-align:center;
-
+border-bottom:1px solid #444;
 }
 
 th{
-
-background:#2b2b2b;
-
-}
-
-tr:nth-child(even){
-
-background:#262626;
-
+background:#333;
 }
