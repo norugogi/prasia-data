@@ -2,273 +2,78 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>프라시아 전기 통계</title>
+<title>결사 통계</title>
+
+<link rel="stylesheet" href="style.css">
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-<style>
-
-body{
-background:#212121;
-color:white;
-font-family:Arial;
-padding:40px;
-}
-
-h1{
-text-align:center;
-margin-bottom:40px;
-}
-
-.filters{
-display:flex;
-gap:20px;
-justify-content:center;
-margin-bottom:40px;
-}
-
-select{
-padding:6px;
-}
-
-.charts{
-display:flex;
-flex-direction:column;
-gap:60px;
-}
-
-.chartBlock{
-display:flex;
-gap:40px;
-align-items:flex-start;
-}
-
-canvas{
-width:600px !important;
-}
-
-table{
-border-collapse:collapse;
-background:#2b2b2b;
-}
-
-td,th{
-border:1px solid #444;
-padding:6px 10px;
-text-align:center;
-}
-
-th{
-background:#333;
-}
-
-</style>
-
 </head>
 
 <body>
 
-<h1>프라시아 전기 랭킹 통계</h1>
+<div class="container">
+
+<h1>결사 통계</h1>
 
 <div class="filters">
 
-<label>레벨</label>
 <select id="levelFilter">
-<option value="all">전체</option>
+<option value="all">레벨 전체</option>
+<option value="86">86+</option>
+<option value="87">87+</option>
+<option value="88">88+</option>
+<option value="89">89+</option>
+<option value="90">90+</option>
 </select>
 
-<label>등급</label>
 <select id="gradeFilter">
-<option value="all">전체</option>
+<option value="all">등급 전체</option>
+<option value="20">20+</option>
+<option value="22">22+</option>
+<option value="24">24+</option>
 </select>
 
-<label>직업</label>
 <select id="classFilter">
-<option value="all">전체</option>
+<option value="all">직업 전체</option>
+<option value="태양감시자">태양감시자</option>
+<option value="심연추방자">심연추방자</option>
+<option value="환영검사">환영검사</option>
+<option value="집행관">집행관</option>
+<option value="향사수">향사수</option>
+<option value="주문각인사">주문각인사</option>
 </select>
 
+<button onclick="updateCharts()">적용</button>
+
 </div>
 
-<div class="charts">
 
-<div class="chartBlock">
+<div class="stats-layout">
 
+<div class="chart-area">
 <canvas id="levelChart"></canvas>
-<table id="levelTable"></table>
+</div>
+
+<div class="table-area">
+<table id="statsTable">
+<thead>
+<tr>
+<th>구분</th>
+<th>수치</th>
+<th>%</th>
+</tr>
+</thead>
+
+<tbody></tbody>
+
+</table>
+</div>
 
 </div>
 
-<div class="chartBlock">
-
-<canvas id="gradeChart"></canvas>
-<table id="gradeTable"></table>
-
 </div>
 
-<div class="chartBlock">
-
-<canvas id="classChart"></canvas>
-<table id="classTable"></table>
-
-</div>
-
-</div>
-
-<script>
-
-let players=[]
-
-let levelChart
-let gradeChart
-let classChart
-
-const classNames={
-SolarSentinel:"태양감시자",
-AbyssRevenant:"심연추방자",
-MirageBlade:"환영검사",
-Enforcer:"집행관",
-IncenseArcher:"향사수",
-Runescribe:"주문각인사"
-}
-
-fetch("players.json")
-.then(r=>r.json())
-.then(data=>{
-
-players=data
-
-initFilters()
-
-updateCharts()
-
-})
-
-function initFilters(){
-
-let levels=[...new Set(players.map(p=>p.level))]
-let grades=[...new Set(players.map(p=>p.grade))]
-let classes=[...new Set(players.map(p=>p.class))]
-
-levels.sort((a,b)=>a-b)
-grades.sort((a,b)=>a-b)
-
-levels.forEach(l=>{
-levelFilter.innerHTML+=`<option value="${l}">${l}</option>`
-})
-
-grades.forEach(g=>{
-gradeFilter.innerHTML+=`<option value="${g}">${g}</option>`
-})
-
-classes.forEach(c=>{
-
-let name=classNames[c]||c
-
-classFilter.innerHTML+=`<option value="${c}">${name}</option>`
-
-})
-
-levelFilter.onchange=updateCharts
-gradeFilter.onchange=updateCharts
-classFilter.onchange=updateCharts
-
-}
-
-function updateCharts(){
-
-let filtered=players.filter(p=>{
-
-return (levelFilter.value=="all"||p.level==levelFilter.value)
-&&(gradeFilter.value=="all"||p.grade==gradeFilter.value)
-&&(classFilter.value=="all"||p.class==classFilter.value)
-
-})
-
-drawCharts(filtered)
-
-}
-
-function drawCharts(data){
-
-let levelStats={}
-let gradeStats={}
-let classStats={}
-
-data.forEach(p=>{
-
-levelStats[p.level]=(levelStats[p.level]||0)+1
-gradeStats[p.grade]=(gradeStats[p.grade]||0)+1
-
-let className=classNames[p.class]||p.class
-classStats[className]=(classStats[className]||0)+1
-
-})
-
-drawChart("levelChart",levelStats,"레벨 분포")
-drawChart("gradeChart",gradeStats,"등급 분포")
-drawChart("classChart",classStats,"직업 분포")
-
-drawTable("levelTable",levelStats)
-drawTable("gradeTable",gradeStats)
-drawTable("classTable",classStats)
-
-}
-
-function drawChart(id,stats,title){
-
-let labels=Object.keys(stats)
-let values=Object.values(stats)
-
-if(window[id])window[id].destroy()
-
-window[id]=new Chart(document.getElementById(id),{
-
-type:"bar",
-
-data:{
-labels:labels,
-datasets:[{
-data:values,
-backgroundColor:"#4CAF50"
-}]
-},
-
-options:{
-plugins:{
-legend:{display:false},
-title:{display:true,text:title}
-}
-}
-
-})
-
-}
-
-function drawTable(id,stats){
-
-let total=Object.values(stats).reduce((a,b)=>a+b,0)
-
-let html="<tr><th>구분</th><th>인원</th><th>%</th></tr>"
-
-Object.entries(stats)
-.sort((a,b)=>b[1]-a[1])
-.forEach(([k,v])=>{
-
-let percent=((v/total)*100).toFixed(1)
-
-html+=`<tr>
-<td>${k}</td>
-<td>${v}</td>
-<td>${percent}%</td>
-</tr>`
-
-})
-
-document.getElementById(id).innerHTML=html
-
-}
-
-</script>
+<script src="stats.js"></script>
 
 </body>
 </html>
