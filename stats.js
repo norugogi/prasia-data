@@ -212,3 +212,18 @@ Object.values(classData)
 
 
 })
+function showTab(name){
+
+document.querySelectorAll(".tab-content").forEach(el=>{
+el.classList.remove("active")
+})
+
+document.querySelectorAll(".tab").forEach(el=>{
+el.classList.remove("active")
+})
+
+document.getElementById(name).classList.add("active")
+
+event.target.classList.add("active")
+
+}
