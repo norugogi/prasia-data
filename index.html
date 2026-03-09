@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-
 <meta charset="UTF-8">
-<title>결사 통계</title>
+<title>프라시아 랭킹 통계</title>
 
 <link rel="stylesheet" href="style.css">
 
@@ -13,43 +12,70 @@
 
 <body>
 
-<h1>결사 통계</h1>
+<div class="container">
+
+<h1>프라시아 전기 랭킹 통계</h1>
 
 <div class="tabs">
+<button onclick="showTab('level')">레벨별 통계</button>
+<button onclick="showTab('grade')">토벌등급 통계</button>
+<button onclick="showTab('class')">직업별 통계</button>
+</div>
 
-<button class="tab active" onclick="showTab('level')">레벨</button>
-<button class="tab" onclick="showTab('grade')">등급</button>
-<button class="tab" onclick="showTab('class')">직업</button>
+<div class="toolbar">
+<label>
+<input type="checkbox" id="showGraph" onchange="toggleGraph()">
+그래프 보기
+</label>
+</div>
+
+<div class="main">
+
+<div class="tablePanel">
+
+<table>
+
+<thead>
+<tr>
+<th id="col1">구분</th>
+<th>인원</th>
+<th>%</th>
+</tr>
+</thead>
+
+<tbody id="statsTable"></tbody>
+
+</table>
 
 </div>
 
-<div id="level" class="tab-content active">
-
-<h2>레벨 통계</h2>
-<canvas id="levelChart"></canvas>
-<div id="levelTable"></div>
+<div class="graphPanel" id="graphPanel">
+<canvas id="chart"></canvas>
+</div>
 
 </div>
 
+<h2 id="detailTitle">캐릭터 목록</h2>
 
-<div id="grade" class="tab-content">
+<table>
 
-<h2>등급 통계</h2>
-<canvas id="gradeChart"></canvas>
-<div id="gradeTable"></div>
+<thead>
+<tr>
+<th>닉네임</th>
+<th>결사</th>
+<th>직업</th>
+<th>레벨</th>
+<th>토벌등급</th>
+</tr>
+</thead>
+
+<tbody id="playerList"></tbody>
+
+</table>
 
 </div>
 
-
-<div id="class" class="tab-content">
-
-<h2>직업 통계</h2>
-<canvas id="classChart"></canvas>
-<div id="classTable"></div>
-
-</div>
-
-<script src="stats.js"></script>
+<script src="script.js"></script>
 
 </body>
 </html>
