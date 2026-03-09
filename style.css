@@ -1,56 +1,102 @@
 body{
-background:#212121;
-color:#e0e0e0;
-font-family:Arial;
-margin:30px;
+
+background:#1e1e1e;
+color:#e6e6e6;
+font-family:Consolas;
+margin:0;
+
+}
+
+.container{
+
+width:1200px;
+margin:auto;
+padding:20px;
+
+}
+
+h1{
+
+text-align:center;
+
 }
 
 .tabs{
-display:flex;
-gap:6px;
-margin-bottom:20px;
-}
 
-.tab{
-background:#2c2c2c;
-border:1px solid #444;
-padding:6px 14px;
-cursor:pointer;
-color:#ddd;
-}
-
-.tab.active{
-background:#3a3a3a;
-border-bottom:2px solid #4CAF50;
-}
-
-.tab-content{
-display:none;
-}
-
-.tab-content.active{
-display:block;
-}
-
-canvas{
-max-width:900px;
-margin-bottom:20px;
-}
-
-.statTable{
-border-collapse:collapse;
-margin-top:15px;
-}
-
-.statTable th{
-background:#333;
-padding:8px 12px;
-border:1px solid #444;
-}
-
-.statTable td{
-background:#2b2b2b;
-padding:8px 12px;
-border:1px solid #444;
 text-align:center;
+margin-bottom:20px;
+
+}
+
+.tabs button{
+
+background:#2a2a2a;
+border:1px solid #444;
+color:#e6e6e6;
+padding:10px 20px;
+margin:5px;
+cursor:pointer;
+border-radius:4px;
+
+}
+
+.tabs button:hover{
+
+background:#3a3a3a;
+
+}
+
+.toolbar{
+
+margin-bottom:10px;
+
+}
+
+.main{
+
+display:flex;
+gap:20px;
+
+}
+
+.tablePanel{
+
+flex:1;
+
+}
+
+.graphPanel{
+
+flex:1;
+display:none;
+
+}
+
+table{
+
+width:100%;
+border-collapse:collapse;
+background:#2a2a2a;
+
+}
+
+th,td{
+
+padding:8px;
+border-bottom:1px solid #444;
+text-align:center;
+
+}
+
+tr:hover{
+
+background:#333;
+cursor:pointer;
+
+}
+
+h2{
+
+margin-top:30px;
+
 }
