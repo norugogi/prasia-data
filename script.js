@@ -1,16 +1,3 @@
-const DATA_URL = "https://raw.githubusercontent.com/norugogi/prasia-data/main/all_servers_ranking.json";
-
-async function loadData(){
-
-    const response = await fetch(DATA_URL);
-    const data = await response.json();
-
-    console.log("데이터 개수:", data.length);
-    console.log(data[0]);
-
-}
-
-loadData();
 
 let data=[];
 
@@ -210,4 +197,5 @@ panel.style.display="none";
 }
 
 }
+
 
