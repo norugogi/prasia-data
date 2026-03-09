@@ -1,4 +1,3 @@
-
 let data=[];
 
 let chart;
@@ -48,6 +47,8 @@ document.getElementById("col1").innerText="토벌등급";
 
 data.forEach(p=>{
 
+if(p.grade<20) return;
+
 stats[p.grade]=(stats[p.grade]||0)+1;
 
 });
@@ -81,9 +82,19 @@ let html="";
 let labels=[];
 let values=[];
 
-Object.keys(stats)
-.sort((a,b)=>a-b)
-.forEach(key=>{
+let keys=Object.keys(stats);
+
+if(type==="class"){
+
+keys.sort();
+
+}else{
+
+keys.sort((a,b)=>b-a); // 숫자 내림차순
+
+}
+
+keys.forEach(key=>{
 
 let count=stats[key];
 let percent=(count/total*100).toFixed(2);
@@ -197,5 +208,3 @@ panel.style.display="none";
 }
 
 }
-
-
