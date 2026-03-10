@@ -8,7 +8,7 @@ fetch("all_servers_ranking.json")
 
 data=json;
 
-let count=data.filter(p=>p.grade>=25).length;
+let count=data.filter(p=>p.grade>=24).length;
 
 let now=new Date();
 
@@ -27,4 +27,5 @@ document.getElementById("counter").innerText=
 
 update();
 
-setInterval(update,30000);
+
+setInterval(update,300000);
