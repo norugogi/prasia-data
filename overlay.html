@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<style>
+body {
+  margin: 0;
+  background: transparent;
+  font-family: 'Pretendard', sans-serif;
+  color: white;
+}
+
+.container {
+  padding: 10px 14px;
+  background: rgba(0,0,0,0.4);
+  border-radius: 10px;
+  width: fit-content;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 30px 120px 50px 70px;
+  font-size: 14px;
+  margin: 2px 0;
+}
+
+.rank {
+  color: #ffd700;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+  <div class="title" id="title">로딩중...</div>
+  <div id="list"></div>
+</div>
+
+<script>
+async function loadData() {
+  const res = await fetch("clear_log.json?cache=" + new Date().getTime());
+  const data = await res.json();
+
+  const entries = Object.entries(data)
+    .sort((a,b) => new Date(a[1].time) - new Date(b[1].time))
+    .slice(0, 7);
+
+  // 상단 텍스트
+  const now = new Date();
+  const timeStr = `${String(now.getMonth()+1).padStart(2,'0')}/${String(now.getDate()).padStart(2,'0')} ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+
+  document.getElementById("title").innerText =
+    `토벌 25 달성 현황 : ${entries.length}명 (${timeStr} 기준)`;
+
+  // 리스트
+  const listHTML = entries.map((x, i) => {
+    return `
+      <div class="row">
+        <div class="rank">${i+1}</div>
+        <div>${x[0]}</div>
+        <div>${x[1].server}</div>
+        <div>${x[1].time}</div>
+      </div>
+    `;
+  }).join("");
+
+  document.getElementById("list").innerHTML = listHTML;
+}
+
+// 10초마다 갱신
+setInterval(loadData, 10000);
+loadData();
+</script>
+
+</body>
+</html>
