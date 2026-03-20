@@ -3832,19 +3832,19 @@
     "world": "2-5"
   },
   {
-    "name": "손망치",
-    "level": 79,
-    "grade": 15,
-    "class": "MirageBlade",
-    "guild": "우로테",
-    "world": "2-5"
-  },
-  {
     "name": "호법",
     "level": 79,
     "grade": 16,
     "class": "IncenseArcher",
     "guild": "크롱이",
+    "world": "2-5"
+  },
+  {
+    "name": "손망치",
+    "level": 79,
+    "grade": 15,
+    "class": "MirageBlade",
+    "guild": "우로테",
     "world": "2-5"
   },
   {
@@ -6824,19 +6824,19 @@
     "world": "3-4"
   },
   {
-    "name": "히피",
-    "level": 86,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "개",
-    "world": "3-4"
-  },
-  {
     "name": "링쿠",
     "level": 86,
     "grade": 21,
     "class": "IncenseArcher",
     "guild": "심판",
+    "world": "3-4"
+  },
+  {
+    "name": "히피",
+    "level": 86,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "개",
     "world": "3-4"
   },
   {
@@ -14896,19 +14896,19 @@
     "world": "8-4"
   },
   {
-    "name": "마유",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "노터치",
-    "world": "8-4"
-  },
-  {
     "name": "사내",
     "level": 88,
     "grade": 23,
     "class": "MirageBlade",
     "guild": "악연",
+    "world": "8-4"
+  },
+  {
+    "name": "마유",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "노터치",
     "world": "8-4"
   },
   {
@@ -15976,19 +15976,19 @@
     "world": "8-5"
   },
   {
-    "name": "무한",
-    "level": 89,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "풀떼기언니",
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "무한",
+    "level": 89,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -19168,19 +19168,19 @@
     "world": "10-4"
   },
   {
-    "name": "김리딩",
-    "level": 81,
-    "grade": 18,
-    "class": "MirageBlade",
-    "guild": null,
-    "world": "10-4"
-  },
-  {
     "name": "엽긔궁",
     "level": 81,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "야옹",
+    "world": "10-4"
+  },
+  {
+    "name": "김리딩",
+    "level": 81,
+    "grade": 18,
+    "class": "MirageBlade",
+    "guild": null,
     "world": "10-4"
   },
   {
@@ -20760,19 +20760,19 @@
     "world": "11-1"
   },
   {
-    "name": "집토끼",
-    "level": 81,
-    "grade": 16,
-    "class": "AbyssRevenant",
-    "guild": "거대부랄탕후루",
-    "world": "11-1"
-  },
-  {
     "name": "쿠데타",
     "level": 81,
     "grade": 16,
     "class": "IncenseArcher",
     "guild": "지암",
+    "world": "11-1"
+  },
+  {
+    "name": "집토끼",
+    "level": 81,
+    "grade": 16,
+    "class": "AbyssRevenant",
+    "guild": "거대부랄탕후루",
     "world": "11-1"
   },
   {
@@ -36008,18 +36008,18 @@
     "world": "27-1"
   },
   {
-    "name": "대마법사",
-    "level": 88,
-    "grade": 23,
-    "class": "AbyssRevenant",
-    "guild": "탑",
-    "world": "27-1"
-  },
-  {
     "name": "셋쇼마루",
     "level": 88,
     "grade": 24,
     "class": "MirageBlade",
+    "guild": "탑",
+    "world": "27-1"
+  },
+  {
+    "name": "대마법사",
+    "level": 88,
+    "grade": 23,
+    "class": "AbyssRevenant",
     "guild": "탑",
     "world": "27-1"
   },
@@ -36680,18 +36680,18 @@
     "world": "27-1"
   },
   {
-    "name": "카지노",
-    "level": 79,
-    "grade": 18,
-    "class": "SolarSentinel",
-    "guild": "탑",
-    "world": "27-1"
-  },
-  {
     "name": "공짜",
     "level": 79,
     "grade": 17,
     "class": "AbyssRevenant",
+    "guild": "탑",
+    "world": "27-1"
+  },
+  {
+    "name": "카지노",
+    "level": 79,
+    "grade": 18,
+    "class": "SolarSentinel",
     "guild": "탑",
     "world": "27-1"
   },
@@ -39784,19 +39784,19 @@
     "world": "27-5"
   },
   {
-    "name": "영웅",
-    "level": 78,
-    "grade": 16,
-    "class": "Enforcer",
-    "guild": "아퀴",
-    "world": "27-5"
-  },
-  {
     "name": "만찬",
     "level": 78,
     "grade": 15,
     "class": "SolarSentinel",
     "guild": "봄도둑",
+    "world": "27-5"
+  },
+  {
+    "name": "영웅",
+    "level": 78,
+    "grade": 16,
+    "class": "Enforcer",
+    "guild": "아퀴",
     "world": "27-5"
   },
   {
