@@ -47,18 +47,22 @@ async function loadData() {
   const res = await fetch("clear_log.json?cache=" + new Date().getTime());
   const data = await res.json();
 
-  const entries = Object.entries(data)
-    .sort((a,b) => new Date(a[1].time) - new Date(b[1].time))
-    .slice(0, 7);
+  // ✅ 전체 정렬 (최초 달성 순)
+  const allEntries = Object.entries(data)
+    .sort((a,b) => new Date(a[1].time) - new Date(b[1].time));
 
-  // 상단 텍스트
+  // ✅ 최초 7명만 표시
+  const entries = allEntries.slice(0, 7);
+
+  // 상단 시간
   const now = new Date();
   const timeStr = `${String(now.getMonth()+1).padStart(2,'0')}/${String(now.getDate()).padStart(2,'0')} ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
 
+  // ✅ 전체 누적 인원 표시
   document.getElementById("title").innerText =
-    `토벌 25 달성 현황 : ${entries.length}명 (${timeStr} 기준)`;
+    `토벌 25 달성 현황 : ${allEntries.length}명 (${timeStr} 기준)`;
 
-  // 리스트
+  // 리스트 (최초 7명)
   const listHTML = entries.map((x, i) => {
     return `
       <div class="row">
