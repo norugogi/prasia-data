@@ -5216,18 +5216,18 @@
     "world": "3-2"
   },
   {
-    "name": "하마",
-    "level": 88,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "MAD",
-    "world": "3-2"
-  },
-  {
     "name": "재생할래요",
     "level": 88,
     "grade": 24,
     "class": "RuneScribe",
+    "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "하마",
+    "level": 88,
+    "grade": 23,
+    "class": "IncenseArcher",
     "guild": "MAD",
     "world": "3-2"
   },
@@ -8384,6 +8384,14 @@
     "world": "5-1"
   },
   {
+    "name": "이스을",
+    "level": 88,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "미깡",
+    "world": "5-1"
+  },
+  {
     "name": "테이",
     "level": 88,
     "grade": 24,
@@ -8412,14 +8420,6 @@
     "level": 88,
     "grade": 24,
     "class": "RuneScribe",
-    "guild": "미깡",
-    "world": "5-1"
-  },
-  {
-    "name": "이스을",
-    "level": 88,
-    "grade": 24,
-    "class": "IncenseArcher",
     "guild": "미깡",
     "world": "5-1"
   },
@@ -11640,18 +11640,18 @@
     "world": "5-5"
   },
   {
-    "name": "머두",
-    "level": 88,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "더킹",
-    "world": "5-5"
-  },
-  {
     "name": "기묘한이호와벚꽃엔딩",
     "level": 88,
     "grade": 24,
     "class": "RuneScribe",
+    "guild": "더킹",
+    "world": "5-5"
+  },
+  {
+    "name": "머두",
+    "level": 88,
+    "grade": 23,
+    "class": "Enforcer",
     "guild": "더킹",
     "world": "5-5"
   },
@@ -15648,19 +15648,19 @@
     "world": "8-5"
   },
   {
-    "name": "청불돌체",
-    "level": 90,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "은쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "흑곰형",
     "level": 90,
     "grade": 24,
     "class": "Enforcer",
     "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "청불돌체",
+    "level": 90,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "은쪽이",
     "world": "8-5"
   },
   {
@@ -15816,6 +15816,14 @@
     "world": "8-5"
   },
   {
+    "name": "명검",
+    "level": 90,
+    "grade": 24,
+    "class": "MirageBlade",
+    "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
     "name": "베르형",
     "level": 90,
     "grade": 24,
@@ -15877,14 +15885,6 @@
     "grade": 23,
     "class": "Enforcer",
     "guild": "골드중독",
-    "world": "8-5"
-  },
-  {
-    "name": "명검",
-    "level": 89,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "CodeName",
     "world": "8-5"
   },
   {
@@ -21472,18 +21472,18 @@
     "world": "11-2"
   },
   {
-    "name": "별사탕",
-    "level": 82,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "동물구조대",
-    "world": "11-2"
-  },
-  {
     "name": "술취한하마",
     "level": 82,
     "grade": 19,
     "class": "MirageBlade",
+    "guild": "동물구조대",
+    "world": "11-2"
+  },
+  {
+    "name": "별사탕",
+    "level": 82,
+    "grade": 19,
+    "class": "IncenseArcher",
     "guild": "동물구조대",
     "world": "11-2"
   },
@@ -31544,19 +31544,19 @@
     "world": "14-5"
   },
   {
-    "name": "스켈",
-    "level": 84,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "shadow",
-    "world": "14-5"
-  },
-  {
     "name": "무민",
     "level": 84,
     "grade": 20,
     "class": "SolarSentinel",
     "guild": "핑크좀비",
+    "world": "14-5"
+  },
+  {
+    "name": "스켈",
+    "level": 84,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "shadow",
     "world": "14-5"
   },
   {
