@@ -994,7 +994,7 @@
   {
     "name": "오월",
     "level": 83,
-    "grade": 19,
+    "grade": 20,
     "class": "AbyssRevenant",
     "guild": "사탕",
     "world": "2-2"
@@ -2184,19 +2184,19 @@
     "world": "2-3"
   },
   {
-    "name": "별빛청하",
-    "level": 78,
-    "grade": 16,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "2-3"
-  },
-  {
     "name": "불량배",
     "level": 78,
     "grade": 17,
     "class": "Enforcer",
     "guild": "레무",
+    "world": "2-3"
+  },
+  {
+    "name": "별빛청하",
+    "level": 78,
+    "grade": 16,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "2-3"
   },
   {
@@ -18128,19 +18128,19 @@
     "world": "10-3"
   },
   {
-    "name": "수몽이",
-    "level": 78,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": "에덴",
-    "world": "10-3"
-  },
-  {
     "name": "츠카사",
     "level": 78,
     "grade": 15,
     "class": "SolarSentinel",
     "guild": "패",
+    "world": "10-3"
+  },
+  {
+    "name": "수몽이",
+    "level": 78,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": "에덴",
     "world": "10-3"
   },
   {
@@ -24400,19 +24400,19 @@
     "world": "12-1"
   },
   {
-    "name": "김도영",
-    "level": 82,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "빛",
-    "world": "12-1"
-  },
-  {
     "name": "악마의커피",
     "level": 82,
     "grade": 19,
     "class": "AbyssRevenant",
     "guild": "룰렛",
+    "world": "12-1"
+  },
+  {
+    "name": "김도영",
+    "level": 82,
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "빛",
     "world": "12-1"
   },
   {
@@ -25232,19 +25232,19 @@
     "world": "12-2"
   },
   {
-    "name": "크렌",
-    "level": 85,
-    "grade": 21,
-    "class": "AbyssRevenant",
-    "guild": "전당포",
-    "world": "12-2"
-  },
-  {
     "name": "프로월드컵",
     "level": 85,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
+    "name": "크렌",
+    "level": 84,
+    "grade": 21,
+    "class": "AbyssRevenant",
+    "guild": "전당포",
     "world": "12-2"
   },
   {
@@ -33120,19 +33120,19 @@
     "world": "16-2"
   },
   {
-    "name": "아저씨왕",
-    "level": 85,
-    "grade": 21,
-    "class": "MirageBlade",
-    "guild": "과거의상어사자",
-    "world": "16-2"
-  },
-  {
     "name": "오해원",
     "level": 85,
     "grade": 20,
     "class": "Enforcer",
     "guild": "연예인결사",
+    "world": "16-2"
+  },
+  {
+    "name": "아저씨왕",
+    "level": 85,
+    "grade": 21,
+    "class": "MirageBlade",
+    "guild": "과거의상어사자",
     "world": "16-2"
   },
   {
@@ -33864,19 +33864,19 @@
     "world": "16-3"
   },
   {
-    "name": "프라이",
-    "level": 84,
-    "grade": 21,
-    "class": "SolarSentinel",
-    "guild": "치맥",
-    "world": "16-3"
-  },
-  {
     "name": "광복절특사",
     "level": 84,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "교도소",
+    "world": "16-3"
+  },
+  {
+    "name": "프라이",
+    "level": 84,
+    "grade": 21,
+    "class": "SolarSentinel",
+    "guild": "치맥",
     "world": "16-3"
   },
   {
@@ -34968,19 +34968,19 @@
     "world": "16-4"
   },
   {
-    "name": "치플레",
-    "level": 82,
-    "grade": 15,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "16-4"
-  },
-  {
     "name": "공격",
     "level": 82,
     "grade": 19,
     "class": "Enforcer",
     "guild": "샴페인",
+    "world": "16-4"
+  },
+  {
+    "name": "치플레",
+    "level": 82,
+    "grade": 15,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "16-4"
   },
   {
@@ -37824,19 +37824,19 @@
     "world": "27-3"
   },
   {
-    "name": "똘이장군",
-    "level": 83,
-    "grade": 20,
-    "class": "SolarSentinel",
-    "guild": "수호",
-    "world": "27-3"
-  },
-  {
     "name": "유우",
     "level": 83,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "월하익송",
+    "world": "27-3"
+  },
+  {
+    "name": "똘이장군",
+    "level": 83,
+    "grade": 20,
+    "class": "SolarSentinel",
+    "guild": "수호",
     "world": "27-3"
   },
   {
@@ -39752,19 +39752,19 @@
     "world": "27-5"
   },
   {
-    "name": "코코",
-    "level": 78,
-    "grade": 15,
-    "class": "SolarSentinel",
-    "guild": "수지",
-    "world": "27-5"
-  },
-  {
     "name": "토리",
     "level": 78,
     "grade": 14,
     "class": "SolarSentinel",
     "guild": "봄도둑",
+    "world": "27-5"
+  },
+  {
+    "name": "코코",
+    "level": 78,
+    "grade": 15,
+    "class": "SolarSentinel",
+    "guild": "수지",
     "world": "27-5"
   },
   {
