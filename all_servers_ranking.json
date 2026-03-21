@@ -6000,14 +6000,6 @@
     "world": "3-3"
   },
   {
-    "name": "김단풍",
-    "level": 87,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "가을",
-    "world": "3-3"
-  },
-  {
     "name": "블레오",
     "level": 87,
     "grade": 23,
@@ -6021,6 +6013,14 @@
     "grade": 23,
     "class": "RuneScribe",
     "guild": "광란",
+    "world": "3-3"
+  },
+  {
+    "name": "김단풍",
+    "level": 87,
+    "grade": 23,
+    "class": "IncenseArcher",
+    "guild": "가을",
     "world": "3-3"
   },
   {
@@ -10466,7 +10466,7 @@
   {
     "name": "공존",
     "level": 86,
-    "grade": 21,
+    "grade": 22,
     "class": "Enforcer",
     "guild": "헌터",
     "world": "5-4"
