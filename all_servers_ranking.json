@@ -18640,18 +18640,18 @@
     "world": "10-4"
   },
   {
-    "name": "해운대온천",
-    "level": 85,
-    "grade": 21,
-    "class": "IncenseArcher",
-    "guild": "힐싸개",
-    "world": "10-4"
-  },
-  {
     "name": "여진",
     "level": 85,
     "grade": 22,
     "class": "Enforcer",
+    "guild": "힐싸개",
+    "world": "10-4"
+  },
+  {
+    "name": "해운대온천",
+    "level": 85,
+    "grade": 21,
+    "class": "IncenseArcher",
     "guild": "힐싸개",
     "world": "10-4"
   },
@@ -36688,19 +36688,19 @@
     "world": "27-1"
   },
   {
-    "name": "소때려잡기",
-    "level": 79,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "유기농",
-    "world": "27-1"
-  },
-  {
     "name": "RON",
     "level": 79,
     "grade": 18,
     "class": "AbyssRevenant",
     "guild": "탑",
+    "world": "27-1"
+  },
+  {
+    "name": "소때려잡기",
+    "level": 79,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "유기농",
     "world": "27-1"
   },
   {
@@ -38152,19 +38152,19 @@
     "world": "27-3"
   },
   {
-    "name": "심연포차",
-    "level": 81,
-    "grade": 18,
-    "class": "AbyssRevenant",
-    "guild": "수호",
-    "world": "27-3"
-  },
-  {
     "name": "자하드",
     "level": 81,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "월하익송",
+    "world": "27-3"
+  },
+  {
+    "name": "심연포차",
+    "level": 81,
+    "grade": 18,
+    "class": "AbyssRevenant",
+    "guild": "수호",
     "world": "27-3"
   },
   {
@@ -38856,17 +38856,17 @@
     "world": "27-4"
   },
   {
-    "name": "타니에",
+    "name": "카를레스",
     "level": 80,
-    "grade": 17,
+    "grade": 18,
     "class": "SolarSentinel",
     "guild": "로하",
     "world": "27-4"
   },
   {
-    "name": "카를레스",
+    "name": "타니에",
     "level": 80,
-    "grade": 18,
+    "grade": 17,
     "class": "SolarSentinel",
     "guild": "로하",
     "world": "27-4"
