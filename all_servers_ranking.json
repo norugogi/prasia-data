@@ -600,19 +600,19 @@
     "world": "2-1"
   },
   {
-    "name": "십오",
-    "level": 80,
-    "grade": 16,
-    "class": "MirageBlade",
-    "guild": "시골집",
-    "world": "2-1"
-  },
-  {
     "name": "이별여행",
     "level": 80,
     "grade": 15,
     "class": "IncenseArcher",
     "guild": "자유",
+    "world": "2-1"
+  },
+  {
+    "name": "십오",
+    "level": 80,
+    "grade": 16,
+    "class": "MirageBlade",
+    "guild": "시골집",
     "world": "2-1"
   },
   {
@@ -2736,19 +2736,19 @@
     "world": "2-4"
   },
   {
-    "name": "산도깨비",
-    "level": 81,
-    "grade": 15,
-    "class": "SolarSentinel",
-    "guild": null,
-    "world": "2-4"
-  },
-  {
     "name": "절망",
     "level": 81,
     "grade": 18,
     "class": "AbyssRevenant",
     "guild": "까마귀",
+    "world": "2-4"
+  },
+  {
+    "name": "산도깨비",
+    "level": 81,
+    "grade": 15,
+    "class": "SolarSentinel",
+    "guild": null,
     "world": "2-4"
   },
   {
@@ -10192,14 +10192,6 @@
     "world": "5-3"
   },
   {
-    "name": "니가좋아",
-    "level": 77,
-    "grade": 14,
-    "class": "RuneScribe",
-    "guild": "YouTube",
-    "world": "5-3"
-  },
-  {
     "name": "앙마프라",
     "level": 77,
     "grade": 13,
@@ -10213,6 +10205,14 @@
     "grade": 14,
     "class": "AbyssRevenant",
     "guild": "백",
+    "world": "5-3"
+  },
+  {
+    "name": "니가좋아",
+    "level": 77,
+    "grade": 14,
+    "class": "RuneScribe",
+    "guild": "YouTube",
     "world": "5-3"
   },
   {
@@ -15648,19 +15648,19 @@
     "world": "8-5"
   },
   {
-    "name": "흑곰형",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "CodeName",
-    "world": "8-5"
-  },
-  {
     "name": "청불돌체",
     "level": 90,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "은쪽이",
+    "world": "8-5"
+  },
+  {
+    "name": "흑곰형",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "CodeName",
     "world": "8-5"
   },
   {
@@ -21568,19 +21568,19 @@
     "world": "11-2"
   },
   {
-    "name": "무케",
-    "level": 82,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "11-2"
-  },
-  {
     "name": "마징카이저",
     "level": 82,
     "grade": 18,
     "class": "Enforcer",
     "guild": "오리온",
+    "world": "11-2"
+  },
+  {
+    "name": "무케",
+    "level": 82,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "11-2"
   },
   {
@@ -23465,7 +23465,7 @@
   },
   {
     "name": "삼호",
-    "level": 80,
+    "level": 81,
     "grade": 18,
     "class": "RuneScribe",
     "guild": "솔라스톤",
@@ -28082,7 +28082,7 @@
   {
     "name": "검혼",
     "level": 85,
-    "grade": 20,
+    "grade": 21,
     "class": "IncenseArcher",
     "guild": "당근마트",
     "world": "14-1"
@@ -28536,19 +28536,19 @@
     "world": "14-1"
   },
   {
-    "name": "조운",
-    "level": 80,
-    "grade": 16,
-    "class": "MirageBlade",
-    "guild": "TT",
-    "world": "14-1"
-  },
-  {
     "name": "잉어킹",
     "level": 80,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "인벌",
+    "world": "14-1"
+  },
+  {
+    "name": "조운",
+    "level": 80,
+    "grade": 16,
+    "class": "MirageBlade",
+    "guild": "TT",
     "world": "14-1"
   },
   {
@@ -29112,19 +29112,19 @@
     "world": "14-2"
   },
   {
-    "name": "다이야",
-    "level": 84,
-    "grade": 20,
-    "class": "AbyssRevenant",
-    "guild": "드라마",
-    "world": "14-2"
-  },
-  {
     "name": "챌린지",
     "level": 84,
     "grade": 20,
     "class": "Enforcer",
     "guild": "아기고양이",
+    "world": "14-2"
+  },
+  {
+    "name": "다이야",
+    "level": 84,
+    "grade": 20,
+    "class": "AbyssRevenant",
+    "guild": "드라마",
     "world": "14-2"
   },
   {
@@ -38752,14 +38752,6 @@
     "world": "27-4"
   },
   {
-    "name": "추성훈",
-    "level": 81,
-    "grade": 16,
-    "class": "AbyssRevenant",
-    "guild": "Nan",
-    "world": "27-4"
-  },
-  {
     "name": "하모",
     "level": 81,
     "grade": 18,
@@ -38781,6 +38773,14 @@
     "grade": 18,
     "class": "Enforcer",
     "guild": "로하",
+    "world": "27-4"
+  },
+  {
+    "name": "추성훈",
+    "level": 81,
+    "grade": 16,
+    "class": "AbyssRevenant",
+    "guild": "Nan",
     "world": "27-4"
   },
   {
