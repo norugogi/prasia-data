@@ -4816,14 +4816,6 @@
     "world": "3-2"
   },
   {
-    "name": "제왕",
-    "level": 91,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "MAD",
-    "world": "3-2"
-  },
-  {
     "name": "제히",
     "level": 91,
     "grade": 24,
@@ -4836,6 +4828,14 @@
     "level": 91,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "제왕",
+    "level": 91,
+    "grade": 24,
+    "class": "Enforcer",
     "guild": "MAD",
     "world": "3-2"
   },
@@ -4856,19 +4856,19 @@
     "world": "3-2"
   },
   {
-    "name": "제드",
-    "level": 90,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "ZED",
-    "world": "3-2"
-  },
-  {
     "name": "털보",
     "level": 90,
     "grade": 24,
     "class": "Enforcer",
     "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "제드",
+    "level": 90,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "ZED",
     "world": "3-2"
   },
   {
@@ -5224,19 +5224,19 @@
     "world": "3-2"
   },
   {
-    "name": "재생할래요",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "MAD",
-    "world": "3-2"
-  },
-  {
     "name": "제프",
     "level": 88,
     "grade": 23,
     "class": "Enforcer",
     "guild": "ZED",
+    "world": "3-2"
+  },
+  {
+    "name": "재생할래요",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "MAD",
     "world": "3-2"
   },
   {
@@ -5256,19 +5256,19 @@
     "world": "3-2"
   },
   {
-    "name": "상어",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "ZED",
-    "world": "3-2"
-  },
-  {
     "name": "히스",
     "level": 88,
     "grade": 24,
     "class": "Enforcer",
     "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "상어",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "ZED",
     "world": "3-2"
   },
   {
@@ -5888,19 +5888,19 @@
     "world": "3-3"
   },
   {
-    "name": "금강불괴",
-    "level": 88,
-    "grade": 22,
-    "class": "SolarSentinel",
-    "guild": "가을",
-    "world": "3-3"
-  },
-  {
     "name": "도솔산낙지볶음밥",
     "level": 88,
     "grade": 24,
     "class": "MirageBlade",
     "guild": "광란",
+    "world": "3-3"
+  },
+  {
+    "name": "금강불괴",
+    "level": 88,
+    "grade": 22,
+    "class": "SolarSentinel",
+    "guild": "가을",
     "world": "3-3"
   },
   {
@@ -6192,18 +6192,18 @@
     "world": "3-3"
   },
   {
-    "name": "님이십할",
-    "level": 86,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "광혼",
-    "world": "3-3"
-  },
-  {
     "name": "제키엘",
     "level": 86,
     "grade": 23,
     "class": "IncenseArcher",
+    "guild": "광혼",
+    "world": "3-3"
+  },
+  {
+    "name": "님이십할",
+    "level": 86,
+    "grade": 23,
+    "class": "RuneScribe",
     "guild": "광혼",
     "world": "3-3"
   },
@@ -14680,19 +14680,19 @@
     "world": "8-4"
   },
   {
-    "name": "눈뜨니열두시",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "쿼카",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "눈뜨니열두시",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -15072,18 +15072,18 @@
     "world": "8-4"
   },
   {
-    "name": "김힐성",
-    "level": 88,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "노터치",
-    "world": "8-4"
-  },
-  {
     "name": "흑염룡",
     "level": 88,
     "grade": 23,
     "class": "IncenseArcher",
+    "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "김힐성",
+    "level": 88,
+    "grade": 23,
+    "class": "RuneScribe",
     "guild": "노터치",
     "world": "8-4"
   },
@@ -15304,19 +15304,19 @@
     "world": "8-5"
   },
   {
-    "name": "유비형",
-    "level": 91,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "블랙중독",
-    "world": "8-5"
-  },
-  {
     "name": "토리형",
     "level": 91,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "유비형",
+    "level": 91,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "블랙중독",
     "world": "8-5"
   },
   {
@@ -15704,6 +15704,14 @@
     "world": "8-5"
   },
   {
+    "name": "말랑쫀득형",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "블랙중독",
+    "world": "8-5"
+  },
+  {
     "name": "사도형",
     "level": 90,
     "grade": 24,
@@ -15717,14 +15725,6 @@
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "CodeName",
-    "world": "8-5"
-  },
-  {
-    "name": "말랑쫀득형",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "블랙중독",
     "world": "8-5"
   },
   {
@@ -22056,14 +22056,6 @@
     "world": "11-3"
   },
   {
-    "name": "비질란테",
-    "level": 81,
-    "grade": 17,
-    "class": "SolarSentinel",
-    "guild": "HERO",
-    "world": "11-3"
-  },
-  {
     "name": "우리동네특공대",
     "level": 81,
     "grade": 16,
@@ -22077,6 +22069,14 @@
     "grade": 17,
     "class": "Enforcer",
     "guild": null,
+    "world": "11-3"
+  },
+  {
+    "name": "비질란테",
+    "level": 81,
+    "grade": 17,
+    "class": "SolarSentinel",
+    "guild": "HERO",
     "world": "11-3"
   },
   {
@@ -39144,19 +39144,19 @@
     "world": "27-4"
   },
   {
-    "name": "가브리엘",
-    "level": 78,
-    "grade": 16,
-    "class": "Enforcer",
-    "guild": "키자미x1분",
-    "world": "27-4"
-  },
-  {
     "name": "파천",
     "level": 78,
     "grade": 15,
     "class": "AbyssRevenant",
     "guild": "로하",
+    "world": "27-4"
+  },
+  {
+    "name": "가브리엘",
+    "level": 78,
+    "grade": 16,
+    "class": "Enforcer",
+    "guild": "키자미x1분",
     "world": "27-4"
   },
   {
@@ -39176,19 +39176,19 @@
     "world": "27-4"
   },
   {
-    "name": "딴딴",
-    "level": 78,
-    "grade": 15,
-    "class": "Enforcer",
-    "guild": "yyds",
-    "world": "27-4"
-  },
-  {
     "name": "삐약",
     "level": 78,
     "grade": 15,
     "class": "AbyssRevenant",
     "guild": "로하",
+    "world": "27-4"
+  },
+  {
+    "name": "딴딴",
+    "level": 78,
+    "grade": 15,
+    "class": "Enforcer",
+    "guild": "yyds",
     "world": "27-4"
   },
   {
