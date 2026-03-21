@@ -1056,19 +1056,19 @@
     "world": "2-2"
   },
   {
-    "name": "태양쭌",
-    "level": 82,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "태양쭌",
-    "world": "2-2"
-  },
-  {
     "name": "츄릅",
     "level": 82,
     "grade": 18,
     "class": "RuneScribe",
     "guild": "솔플러만",
+    "world": "2-2"
+  },
+  {
+    "name": "태양쭌",
+    "level": 82,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "태양쭌",
     "world": "2-2"
   },
   {
@@ -1832,19 +1832,19 @@
     "world": "2-3"
   },
   {
-    "name": "콩지야",
-    "level": 81,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "이디야",
-    "world": "2-3"
-  },
-  {
     "name": "CU",
     "level": 81,
     "grade": 19,
     "class": "Enforcer",
     "guild": "중립",
+    "world": "2-3"
+  },
+  {
+    "name": "콩지야",
+    "level": 81,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "이디야",
     "world": "2-3"
   },
   {
@@ -4393,7 +4393,7 @@
   },
   {
     "name": "이상한신촌",
-    "level": 86,
+    "level": 87,
     "grade": 23,
     "class": "Enforcer",
     "guild": "이상해",
@@ -24936,19 +24936,19 @@
     "world": "12-2"
   },
   {
-    "name": "인노",
-    "level": 87,
-    "grade": 22,
-    "class": "IncenseArcher",
-    "guild": "전당포",
-    "world": "12-2"
-  },
-  {
     "name": "하이볼탄산수조절장인",
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
     "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
+    "name": "인노",
+    "level": 87,
+    "grade": 22,
+    "class": "IncenseArcher",
+    "guild": "전당포",
     "world": "12-2"
   },
   {
@@ -28464,19 +28464,19 @@
     "world": "14-1"
   },
   {
-    "name": "리스테린",
-    "level": 81,
-    "grade": 16,
-    "class": "MirageBlade",
-    "guild": null,
-    "world": "14-1"
-  },
-  {
     "name": "이찌고",
     "level": 81,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "당근마트",
+    "world": "14-1"
+  },
+  {
+    "name": "리스테린",
+    "level": 81,
+    "grade": 16,
+    "class": "MirageBlade",
+    "guild": null,
     "world": "14-1"
   },
   {
@@ -29112,19 +29112,19 @@
     "world": "14-2"
   },
   {
-    "name": "챌린지",
-    "level": 84,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "아기고양이",
-    "world": "14-2"
-  },
-  {
     "name": "다이야",
     "level": 84,
     "grade": 20,
     "class": "AbyssRevenant",
     "guild": "드라마",
+    "world": "14-2"
+  },
+  {
+    "name": "챌린지",
+    "level": 84,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "아기고양이",
     "world": "14-2"
   },
   {
@@ -34233,7 +34233,7 @@
   },
   {
     "name": "방화범",
-    "level": 81,
+    "level": 82,
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "교도소",
