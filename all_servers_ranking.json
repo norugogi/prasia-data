@@ -860,7 +860,7 @@
     "level": 85,
     "grade": 20,
     "class": "MirageBlade",
-    "guild": null,
+    "guild": "Gelli",
     "world": "2-2"
   },
   {
@@ -2192,19 +2192,19 @@
     "world": "2-3"
   },
   {
-    "name": "스탠더",
-    "level": 78,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": "해결사",
-    "world": "2-3"
-  },
-  {
     "name": "불량배",
     "level": 78,
     "grade": 17,
     "class": "Enforcer",
     "guild": "레무",
+    "world": "2-3"
+  },
+  {
+    "name": "스탠더",
+    "level": 78,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": "해결사",
     "world": "2-3"
   },
   {
@@ -4856,19 +4856,19 @@
     "world": "3-2"
   },
   {
-    "name": "털보",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "MAD",
-    "world": "3-2"
-  },
-  {
     "name": "제드",
     "level": 90,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "ZED",
+    "world": "3-2"
+  },
+  {
+    "name": "털보",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "MAD",
     "world": "3-2"
   },
   {
@@ -9824,11 +9824,11 @@
     "world": "5-3"
   },
   {
-    "name": "소서",
+    "name": "그저목소리하나",
     "level": 81,
-    "grade": 17,
-    "class": "RuneScribe",
-    "guild": "파랑새",
+    "grade": 18,
+    "class": "MirageBlade",
+    "guild": "결사명없음",
     "world": "5-3"
   },
   {
@@ -9840,11 +9840,11 @@
     "world": "5-3"
   },
   {
-    "name": "그저목소리하나",
+    "name": "소서",
     "level": 81,
-    "grade": 18,
-    "class": "MirageBlade",
-    "guild": "결사명없음",
+    "grade": 17,
+    "class": "RuneScribe",
+    "guild": "파랑새",
     "world": "5-3"
   },
   {
@@ -9857,7 +9857,7 @@
   },
   {
     "name": "으리으리",
-    "level": 81,
+    "level": 80,
     "grade": 17,
     "class": "RuneScribe",
     "guild": "베르사유",
@@ -15960,14 +15960,6 @@
     "world": "8-5"
   },
   {
-    "name": "강너굴",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "강북",
-    "world": "8-5"
-  },
-  {
     "name": "무한",
     "level": 89,
     "grade": 24,
@@ -15997,6 +15989,14 @@
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "강너굴",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "강북",
     "world": "8-5"
   },
   {
@@ -21392,19 +21392,19 @@
     "world": "11-2"
   },
   {
-    "name": "윈터",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "프로",
-    "world": "11-2"
-  },
-  {
     "name": "쪽제비",
     "level": 83,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "동물구조대",
+    "world": "11-2"
+  },
+  {
+    "name": "윈터",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "프로",
     "world": "11-2"
   },
   {
@@ -28856,18 +28856,18 @@
     "world": "14-2"
   },
   {
-    "name": "꼬마",
-    "level": 88,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "오브",
-    "world": "14-2"
-  },
-  {
     "name": "미쿠",
     "level": 88,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "오브",
+    "world": "14-2"
+  },
+  {
+    "name": "꼬마",
+    "level": 88,
+    "grade": 24,
+    "class": "Enforcer",
     "guild": "오브",
     "world": "14-2"
   },
@@ -33456,19 +33456,19 @@
     "world": "16-2"
   },
   {
-    "name": "인생",
-    "level": 83,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "감전주의보",
-    "world": "16-2"
-  },
-  {
     "name": "혜교",
     "level": 83,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "연예인결사",
+    "world": "16-2"
+  },
+  {
+    "name": "인생",
+    "level": 83,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": "감전주의보",
     "world": "16-2"
   },
   {
@@ -33952,19 +33952,19 @@
     "world": "16-3"
   },
   {
-    "name": "갑오징어",
-    "level": 84,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "조선의활잡이",
-    "world": "16-3"
-  },
-  {
     "name": "올라",
     "level": 84,
     "grade": 19,
     "class": "Enforcer",
     "guild": "피스",
+    "world": "16-3"
+  },
+  {
+    "name": "갑오징어",
+    "level": 84,
+    "grade": 20,
+    "class": "IncenseArcher",
+    "guild": "조선의활잡이",
     "world": "16-3"
   },
   {
