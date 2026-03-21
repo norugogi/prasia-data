@@ -112,18 +112,18 @@
     "world": "2-1"
   },
   {
-    "name": "짐승실장",
-    "level": 85,
-    "grade": 21,
-    "class": "SolarSentinel",
-    "guild": "미르",
-    "world": "2-1"
-  },
-  {
     "name": "영무",
     "level": 85,
     "grade": 21,
     "class": "IncenseArcher",
+    "guild": "미르",
+    "world": "2-1"
+  },
+  {
+    "name": "짐승실장",
+    "level": 85,
+    "grade": 21,
+    "class": "SolarSentinel",
     "guild": "미르",
     "world": "2-1"
   },
@@ -7256,14 +7256,6 @@
     "world": "3-5"
   },
   {
-    "name": "사악해",
-    "level": 91,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "광기",
-    "world": "3-5"
-  },
-  {
     "name": "제토",
     "level": 91,
     "grade": 24,
@@ -7276,6 +7268,14 @@
     "level": 91,
     "grade": 24,
     "class": "Enforcer",
+    "guild": "광기",
+    "world": "3-5"
+  },
+  {
+    "name": "사악해",
+    "level": 91,
+    "grade": 24,
+    "class": "RuneScribe",
     "guild": "광기",
     "world": "3-5"
   },
@@ -12896,19 +12896,19 @@
     "world": "8-2"
   },
   {
-    "name": "계두식",
-    "level": 86,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "홀리데이",
-    "world": "8-2"
-  },
-  {
     "name": "베이비",
     "level": 86,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "스프라이트",
+    "world": "8-2"
+  },
+  {
+    "name": "계두식",
+    "level": 86,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "홀리데이",
     "world": "8-2"
   },
   {
@@ -14808,14 +14808,6 @@
     "world": "8-4"
   },
   {
-    "name": "자라나라모발공주",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "나야월드",
     "level": 89,
     "grade": 24,
@@ -14844,6 +14836,14 @@
     "level": 89,
     "grade": 24,
     "class": "MirageBlade",
+    "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
+    "name": "자라나라모발공주",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
     "guild": "GOAT",
     "world": "8-4"
   },
@@ -15592,14 +15592,6 @@
     "world": "8-5"
   },
   {
-    "name": "어둠라미",
-    "level": 90,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "영철이",
     "level": 90,
     "grade": 24,
@@ -15621,6 +15613,14 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "강남",
+    "world": "8-5"
+  },
+  {
+    "name": "어둠라미",
+    "level": 90,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -25264,19 +25264,19 @@
     "world": "12-2"
   },
   {
-    "name": "정교수",
-    "level": 84,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "전당포",
-    "world": "12-2"
-  },
-  {
     "name": "인생원샷",
     "level": 84,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "페리카나주문진점",
+    "world": "12-2"
+  },
+  {
+    "name": "정교수",
+    "level": 84,
+    "grade": 20,
+    "class": "IncenseArcher",
+    "guild": "전당포",
     "world": "12-2"
   },
   {
@@ -26928,19 +26928,19 @@
     "world": "12-4"
   },
   {
-    "name": "사인각문주",
-    "level": 82,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "냐오",
-    "world": "12-4"
-  },
-  {
     "name": "수문장",
     "level": 82,
     "grade": 17,
     "class": "Enforcer",
     "guild": "브레인시티",
+    "world": "12-4"
+  },
+  {
+    "name": "사인각문주",
+    "level": 82,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "냐오",
     "world": "12-4"
   },
   {
@@ -31544,19 +31544,19 @@
     "world": "14-5"
   },
   {
-    "name": "무민",
-    "level": 84,
-    "grade": 20,
-    "class": "SolarSentinel",
-    "guild": "핑크좀비",
-    "world": "14-5"
-  },
-  {
     "name": "스켈",
     "level": 84,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "shadow",
+    "world": "14-5"
+  },
+  {
+    "name": "무민",
+    "level": 84,
+    "grade": 20,
+    "class": "SolarSentinel",
+    "guild": "핑크좀비",
     "world": "14-5"
   },
   {
@@ -37800,19 +37800,19 @@
     "world": "27-3"
   },
   {
-    "name": "기억니은디귿리을미음",
-    "level": 84,
-    "grade": 21,
-    "class": "Enforcer",
-    "guild": "수호",
-    "world": "27-3"
-  },
-  {
     "name": "구휘",
     "level": 84,
     "grade": 20,
     "class": "Enforcer",
     "guild": "라스트댄스",
+    "world": "27-3"
+  },
+  {
+    "name": "기억니은디귿리을미음",
+    "level": 84,
+    "grade": 21,
+    "class": "Enforcer",
+    "guild": "수호",
     "world": "27-3"
   },
   {
