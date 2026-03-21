@@ -52,7 +52,7 @@ async function loadData() {
     .sort((a,b) => new Date(a[1].time) - new Date(b[1].time));
 
   // ✅ 최초 7명만 표시
-  const entries = allEntries.slice(0, 7);
+  const entries = allEntries.slice(0, 5);
 
   // 상단 시간
   const now = new Date();
