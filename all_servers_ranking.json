@@ -5136,14 +5136,6 @@
     "world": "3-2"
   },
   {
-    "name": "제모",
-    "level": 88,
-    "grade": 23,
-    "class": "SolarSentinel",
-    "guild": "ZED",
-    "world": "3-2"
-  },
-  {
     "name": "빛두루",
     "level": 88,
     "grade": 23,
@@ -5173,6 +5165,14 @@
     "grade": 24,
     "class": "RuneScribe",
     "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "제모",
+    "level": 88,
+    "grade": 23,
+    "class": "SolarSentinel",
+    "guild": "ZED",
     "world": "3-2"
   },
   {
@@ -11977,7 +11977,7 @@
   },
   {
     "name": "어피치",
-    "level": 86,
+    "level": 87,
     "grade": 21,
     "class": "AbyssRevenant",
     "guild": "CATT",
@@ -12320,19 +12320,19 @@
     "world": "8-1"
   },
   {
-    "name": "메이드",
-    "level": 89,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "유니크",
-    "world": "8-1"
-  },
-  {
     "name": "고노미",
     "level": 89,
     "grade": 24,
     "class": "Enforcer",
     "guild": "츄",
+    "world": "8-1"
+  },
+  {
+    "name": "메이드",
+    "level": 89,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "유니크",
     "world": "8-1"
   },
   {
@@ -14672,6 +14672,14 @@
     "world": "8-4"
   },
   {
+    "name": "눈뜨니열두시",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
     "name": "흑구",
     "level": 89,
     "grade": 24,
@@ -14696,19 +14704,19 @@
     "world": "8-4"
   },
   {
-    "name": "현읭",
-    "level": 89,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "진뻬이",
     "level": 89,
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "악연",
+    "world": "8-4"
+  },
+  {
+    "name": "현읭",
+    "level": 89,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -14765,14 +14773,6 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "노터치",
-    "world": "8-4"
-  },
-  {
-    "name": "눈뜨니열두시",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -15816,6 +15816,14 @@
     "world": "8-5"
   },
   {
+    "name": "명검",
+    "level": 90,
+    "grade": 24,
+    "class": "MirageBlade",
+    "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
     "name": "베르형",
     "level": 90,
     "grade": 24,
@@ -15853,14 +15861,6 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "우루루",
-    "world": "8-5"
-  },
-  {
-    "name": "명검",
-    "level": 89,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "CodeName",
     "world": "8-5"
   },
   {
@@ -17528,19 +17528,19 @@
     "world": "10-2"
   },
   {
-    "name": "강모비노기",
-    "level": 82,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "10-2"
-  },
-  {
     "name": "여귀검",
     "level": 82,
     "grade": 20,
     "class": "MirageBlade",
     "guild": "우왕",
+    "world": "10-2"
+  },
+  {
+    "name": "강모비노기",
+    "level": 82,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "10-2"
   },
   {
@@ -19265,7 +19265,7 @@
   },
   {
     "name": "그라펜",
-    "level": 86,
+    "level": 85,
     "grade": 21,
     "class": "Enforcer",
     "guild": "요양원",
@@ -34224,19 +34224,19 @@
     "world": "16-3"
   },
   {
-    "name": "곤니찌와",
-    "level": 82,
-    "grade": 18,
-    "class": "AbyssRevenant",
-    "guild": "디아블로",
-    "world": "16-3"
-  },
-  {
     "name": "방화범",
     "level": 82,
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "교도소",
+    "world": "16-3"
+  },
+  {
+    "name": "곤니찌와",
+    "level": 82,
+    "grade": 18,
+    "class": "AbyssRevenant",
+    "guild": "디아블로",
     "world": "16-3"
   },
   {
@@ -35464,19 +35464,19 @@
     "world": "16-5"
   },
   {
-    "name": "간장공장공장장",
-    "level": 85,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "16-5"
-  },
-  {
     "name": "햄스터",
     "level": 85,
     "grade": 21,
     "class": "AbyssRevenant",
     "guild": "마왕군",
+    "world": "16-5"
+  },
+  {
+    "name": "간장공장공장장",
+    "level": 85,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "16-5"
   },
   {
@@ -38480,19 +38480,19 @@
     "world": "27-4"
   },
   {
-    "name": "돈키호태",
-    "level": 84,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "노다지",
-    "world": "27-4"
-  },
-  {
     "name": "자린고비",
     "level": 84,
     "grade": 21,
     "class": "Enforcer",
     "guild": "Mystery",
+    "world": "27-4"
+  },
+  {
+    "name": "돈키호태",
+    "level": 84,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "노다지",
     "world": "27-4"
   },
   {
@@ -39520,19 +39520,19 @@
     "world": "27-5"
   },
   {
-    "name": "목돌아간비둘기",
-    "level": 79,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "프로서준",
     "level": 79,
     "grade": 17,
     "class": "MirageBlade",
     "guild": "운빨",
+    "world": "27-5"
+  },
+  {
+    "name": "목돌아간비둘기",
+    "level": 79,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
