@@ -6000,6 +6000,14 @@
     "world": "3-3"
   },
   {
+    "name": "김단풍",
+    "level": 87,
+    "grade": 23,
+    "class": "IncenseArcher",
+    "guild": "가을",
+    "world": "3-3"
+  },
+  {
     "name": "블레오",
     "level": 87,
     "grade": 23,
@@ -6013,14 +6021,6 @@
     "grade": 23,
     "class": "RuneScribe",
     "guild": "광란",
-    "world": "3-3"
-  },
-  {
-    "name": "김단풍",
-    "level": 87,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "가을",
     "world": "3-3"
   },
   {
@@ -14704,18 +14704,18 @@
     "world": "8-4"
   },
   {
-    "name": "눈뜨니열두시",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "현읭",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
+    "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
+    "name": "눈뜨니열두시",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
     "guild": "GOAT",
     "world": "8-4"
   },
@@ -15304,19 +15304,19 @@
     "world": "8-5"
   },
   {
-    "name": "유비형",
-    "level": 91,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "블랙중독",
-    "world": "8-5"
-  },
-  {
     "name": "토리형",
     "level": 91,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "유비형",
+    "level": 91,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "블랙중독",
     "world": "8-5"
   },
   {
@@ -15632,14 +15632,6 @@
     "world": "8-5"
   },
   {
-    "name": "어둠라미",
-    "level": 90,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "녹턴",
     "level": 90,
     "grade": 24,
@@ -15648,11 +15640,11 @@
     "world": "8-5"
   },
   {
-    "name": "청불돌체",
+    "name": "어둠라미",
     "level": 90,
     "grade": 24,
-    "class": "RuneScribe",
-    "guild": "은쪽이",
+    "class": "SolarSentinel",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -15661,6 +15653,14 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "청불돌체",
+    "level": 90,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "은쪽이",
     "world": "8-5"
   },
   {
@@ -21216,19 +21216,19 @@
     "world": "11-2"
   },
   {
-    "name": "진빼이의라쿤",
-    "level": 84,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "라쿠운",
-    "world": "11-2"
-  },
-  {
     "name": "낭만고냥이",
     "level": 84,
     "grade": 21,
     "class": "MirageBlade",
     "guild": "동물구조대",
+    "world": "11-2"
+  },
+  {
+    "name": "진빼이의라쿤",
+    "level": 84,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "라쿠운",
     "world": "11-2"
   },
   {
@@ -34524,7 +34524,7 @@
     "level": 86,
     "grade": 21,
     "class": "MirageBlade",
-    "guild": null,
+    "guild": "카르텔",
     "world": "16-4"
   },
   {
