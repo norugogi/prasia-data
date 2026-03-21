@@ -4856,19 +4856,19 @@
     "world": "3-2"
   },
   {
-    "name": "제드",
-    "level": 90,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "ZED",
-    "world": "3-2"
-  },
-  {
     "name": "털보",
     "level": 90,
     "grade": 24,
     "class": "Enforcer",
     "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "제드",
+    "level": 90,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "ZED",
     "world": "3-2"
   },
   {
@@ -5224,19 +5224,19 @@
     "world": "3-2"
   },
   {
-    "name": "제프",
-    "level": 88,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "ZED",
-    "world": "3-2"
-  },
-  {
     "name": "재생할래요",
     "level": 88,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "제프",
+    "level": 88,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "ZED",
     "world": "3-2"
   },
   {
@@ -8944,19 +8944,19 @@
     "world": "5-2"
   },
   {
-    "name": "곳감",
-    "level": 83,
-    "grade": 20,
-    "class": "AbyssRevenant",
-    "guild": "혼냥",
-    "world": "5-2"
-  },
-  {
     "name": "캐치",
     "level": 83,
     "grade": 20,
     "class": "Enforcer",
     "guild": "2군",
+    "world": "5-2"
+  },
+  {
+    "name": "곳감",
+    "level": 83,
+    "grade": 20,
+    "class": "AbyssRevenant",
+    "guild": "혼냥",
     "world": "5-2"
   },
   {
@@ -9848,19 +9848,19 @@
     "world": "5-3"
   },
   {
+    "name": "으리으리",
+    "level": 81,
+    "grade": 17,
+    "class": "RuneScribe",
+    "guild": "베르사유",
+    "world": "5-3"
+  },
+  {
     "name": "나우에피만다",
     "level": 81,
     "grade": 17,
     "class": "Enforcer",
     "guild": "유애나",
-    "world": "5-3"
-  },
-  {
-    "name": "으리으리",
-    "level": 80,
-    "grade": 17,
-    "class": "RuneScribe",
-    "guild": "베르사유",
     "world": "5-3"
   },
   {
@@ -11016,19 +11016,19 @@
     "world": "5-4"
   },
   {
-    "name": "다다다",
-    "level": 77,
-    "grade": 15,
-    "class": "AbyssRevenant",
-    "guild": "광명",
-    "world": "5-4"
-  },
-  {
     "name": "셔풀",
     "level": 77,
     "grade": 1,
     "class": "IncenseArcher",
     "guild": "댕이",
+    "world": "5-4"
+  },
+  {
+    "name": "다다다",
+    "level": 77,
+    "grade": 15,
+    "class": "AbyssRevenant",
+    "guild": "광명",
     "world": "5-4"
   },
   {
@@ -12080,14 +12080,6 @@
     "world": "8-1"
   },
   {
-    "name": "명품장군",
-    "level": 91,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "명품",
-    "world": "8-1"
-  },
-  {
     "name": "제주꼴통몬",
     "level": 91,
     "grade": 24,
@@ -12116,6 +12108,14 @@
     "level": 91,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "명품",
+    "world": "8-1"
+  },
+  {
+    "name": "명품장군",
+    "level": 91,
+    "grade": 24,
+    "class": "Enforcer",
     "guild": "명품",
     "world": "8-1"
   },
@@ -12648,19 +12648,19 @@
     "world": "8-1"
   },
   {
-    "name": "정탄",
-    "level": 88,
-    "grade": 23,
-    "class": "MirageBlade",
-    "guild": "진격의영포티",
-    "world": "8-1"
-  },
-  {
     "name": "명품데이",
     "level": 88,
     "grade": 23,
     "class": "MirageBlade",
     "guild": "명품",
+    "world": "8-1"
+  },
+  {
+    "name": "정탄",
+    "level": 88,
+    "grade": 23,
+    "class": "MirageBlade",
+    "guild": "진격의영포티",
     "world": "8-1"
   },
   {
@@ -15344,6 +15344,14 @@
     "world": "8-5"
   },
   {
+    "name": "강뭉치",
+    "level": 91,
+    "grade": 24,
+    "class": "MirageBlade",
+    "guild": "강남",
+    "world": "8-5"
+  },
+  {
     "name": "늑골뽑기",
     "level": 91,
     "grade": 24,
@@ -15357,14 +15365,6 @@
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "축복",
-    "world": "8-5"
-  },
-  {
-    "name": "강뭉치",
-    "level": 91,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "강남",
     "world": "8-5"
   },
   {
@@ -15984,19 +15984,19 @@
     "world": "8-5"
   },
   {
-    "name": "풀떼기언니",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "CodeName",
-    "world": "8-5"
-  },
-  {
     "name": "강너굴",
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "강북",
+    "world": "8-5"
+  },
+  {
+    "name": "풀떼기언니",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "CodeName",
     "world": "8-5"
   },
   {
@@ -19168,19 +19168,19 @@
     "world": "10-4"
   },
   {
-    "name": "아이언해머",
-    "level": 81,
-    "grade": 17,
-    "class": "RuneScribe",
-    "guild": "가라",
-    "world": "10-4"
-  },
-  {
     "name": "헬창",
     "level": 81,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "무라이",
+    "world": "10-4"
+  },
+  {
+    "name": "아이언해머",
+    "level": 81,
+    "grade": 17,
+    "class": "RuneScribe",
+    "guild": "가라",
     "world": "10-4"
   },
   {
@@ -33568,19 +33568,19 @@
     "world": "16-2"
   },
   {
-    "name": "서리",
-    "level": 83,
-    "grade": 19,
-    "class": "SolarSentinel",
-    "guild": "성심당",
-    "world": "16-2"
-  },
-  {
     "name": "묵경운",
     "level": 83,
     "grade": 20,
     "class": "MirageBlade",
     "guild": "화산",
+    "world": "16-2"
+  },
+  {
+    "name": "서리",
+    "level": 83,
+    "grade": 19,
+    "class": "SolarSentinel",
+    "guild": "성심당",
     "world": "16-2"
   },
   {
@@ -33952,19 +33952,19 @@
     "world": "16-3"
   },
   {
-    "name": "올라",
-    "level": 84,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "피스",
-    "world": "16-3"
-  },
-  {
     "name": "갑오징어",
     "level": 84,
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "조선의활잡이",
+    "world": "16-3"
+  },
+  {
+    "name": "올라",
+    "level": 84,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "피스",
     "world": "16-3"
   },
   {
@@ -35424,19 +35424,19 @@
     "world": "16-5"
   },
   {
-    "name": "녹두전",
-    "level": 85,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "마왕군",
-    "world": "16-5"
-  },
-  {
     "name": "뿌꾸",
     "level": 85,
     "grade": 21,
     "class": "Enforcer",
     "guild": "푸릇",
+    "world": "16-5"
+  },
+  {
+    "name": "녹두전",
+    "level": 85,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "마왕군",
     "world": "16-5"
   },
   {
