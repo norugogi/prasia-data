@@ -1512,19 +1512,19 @@
     "world": "2-2"
   },
   {
-    "name": "ITTQ",
-    "level": 79,
-    "grade": 15,
-    "class": "SolarSentinel",
-    "guild": "사냥만합니다",
-    "world": "2-2"
-  },
-  {
     "name": "하드워크",
     "level": 79,
     "grade": 14,
     "class": "SolarSentinel",
     "guild": "사랑과영혼",
+    "world": "2-2"
+  },
+  {
+    "name": "ITTQ",
+    "level": 79,
+    "grade": 15,
+    "class": "SolarSentinel",
+    "guild": "사냥만합니다",
     "world": "2-2"
   },
   {
@@ -4176,18 +4176,18 @@
     "world": "3-1"
   },
   {
-    "name": "해질녘쿵쿵따",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "이상해",
-    "world": "3-1"
-  },
-  {
     "name": "이상해몽",
     "level": 88,
     "grade": 24,
     "class": "IncenseArcher",
+    "guild": "이상해",
+    "world": "3-1"
+  },
+  {
+    "name": "해질녘쿵쿵따",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
     "guild": "이상해",
     "world": "3-1"
   },
@@ -5841,7 +5841,7 @@
   },
   {
     "name": "봉봉",
-    "level": 88,
+    "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "광혼",
@@ -14768,19 +14768,19 @@
     "world": "8-4"
   },
   {
-    "name": "지안",
-    "level": 89,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "죄대한",
     "level": 89,
     "grade": 24,
     "class": "Enforcer",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "지안",
+    "level": 89,
+    "grade": 23,
+    "class": "IncenseArcher",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -15072,19 +15072,19 @@
     "world": "8-4"
   },
   {
-    "name": "여름밤",
-    "level": 88,
-    "grade": 22,
-    "class": "MirageBlade",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "김힐성",
     "level": 88,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "여름밤",
+    "level": 88,
+    "grade": 22,
+    "class": "MirageBlade",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -15672,6 +15672,14 @@
     "world": "8-5"
   },
   {
+    "name": "블러드",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "은쪽이",
+    "world": "8-5"
+  },
+  {
     "name": "로우",
     "level": 90,
     "grade": 24,
@@ -15701,14 +15709,6 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "블랙중독",
-    "world": "8-5"
-  },
-  {
-    "name": "블러드",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "은쪽이",
     "world": "8-5"
   },
   {
@@ -19704,19 +19704,19 @@
     "world": "10-5"
   },
   {
-    "name": "잎새",
-    "level": 79,
-    "grade": 16,
-    "class": "RuneScribe",
-    "guild": "룬어",
-    "world": "10-5"
-  },
-  {
     "name": "김샤슈",
     "level": 79,
     "grade": 16,
     "class": "RuneScribe",
     "guild": "Galaxy",
+    "world": "10-5"
+  },
+  {
+    "name": "잎새",
+    "level": 79,
+    "grade": 16,
+    "class": "RuneScribe",
+    "guild": "룬어",
     "world": "10-5"
   },
   {
@@ -23128,19 +23128,19 @@
     "world": "11-4"
   },
   {
-    "name": "해결사",
-    "level": 81,
-    "grade": 13,
-    "class": "Enforcer",
-    "guild": "해",
-    "world": "11-4"
-  },
-  {
     "name": "가씨",
     "level": 81,
     "grade": 18,
     "class": "Enforcer",
     "guild": "로즈",
+    "world": "11-4"
+  },
+  {
+    "name": "해결사",
+    "level": 81,
+    "grade": 13,
+    "class": "Enforcer",
+    "guild": "해",
     "world": "11-4"
   },
   {
@@ -29000,18 +29000,18 @@
     "world": "14-2"
   },
   {
-    "name": "특화",
-    "level": 86,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "오브",
-    "world": "14-2"
-  },
-  {
     "name": "질서",
     "level": 86,
     "grade": 21,
     "class": "RuneScribe",
+    "guild": "오브",
+    "world": "14-2"
+  },
+  {
+    "name": "특화",
+    "level": 86,
+    "grade": 20,
+    "class": "Enforcer",
     "guild": "오브",
     "world": "14-2"
   },
@@ -37736,19 +37736,19 @@
     "world": "27-3"
   },
   {
-    "name": "슈가륜",
-    "level": 84,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "라스트댄스",
-    "world": "27-3"
-  },
-  {
     "name": "유달리",
     "level": 84,
     "grade": 21,
     "class": "Enforcer",
     "guild": "월하익송",
+    "world": "27-3"
+  },
+  {
+    "name": "슈가륜",
+    "level": 84,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "라스트댄스",
     "world": "27-3"
   },
   {
