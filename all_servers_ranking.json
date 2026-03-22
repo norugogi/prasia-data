@@ -4448,19 +4448,19 @@
     "world": "3-1"
   },
   {
-    "name": "시가렛",
-    "level": 86,
-    "grade": 22,
-    "class": "IncenseArcher",
-    "guild": "NO",
-    "world": "3-1"
-  },
-  {
     "name": "불곰마법사",
     "level": 86,
     "grade": 21,
     "class": "RuneScribe",
     "guild": "이상해",
+    "world": "3-1"
+  },
+  {
+    "name": "시가렛",
+    "level": 86,
+    "grade": 22,
+    "class": "IncenseArcher",
+    "guild": "NO",
     "world": "3-1"
   },
   {
@@ -5272,19 +5272,19 @@
     "world": "3-2"
   },
   {
-    "name": "상어",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "ZED",
-    "world": "3-2"
-  },
-  {
     "name": "안가",
     "level": 88,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "상어",
+    "level": 87,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "ZED",
     "world": "3-2"
   },
   {
@@ -5880,18 +5880,18 @@
     "world": "3-3"
   },
   {
-    "name": "별의별",
-    "level": 88,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "광란",
-    "world": "3-3"
-  },
-  {
     "name": "도솔산낙지볶음밥",
     "level": 88,
     "grade": 24,
     "class": "MirageBlade",
+    "guild": "광란",
+    "world": "3-3"
+  },
+  {
+    "name": "별의별",
+    "level": 88,
+    "grade": 24,
+    "class": "IncenseArcher",
     "guild": "광란",
     "world": "3-3"
   },
@@ -10112,19 +10112,19 @@
     "world": "5-3"
   },
   {
-    "name": "대석궁",
-    "level": 78,
-    "grade": 11,
-    "class": "IncenseArcher",
-    "guild": "YouTube",
-    "world": "5-3"
-  },
-  {
     "name": "릴리",
     "level": 78,
     "grade": 15,
     "class": "IncenseArcher",
     "guild": "메리",
+    "world": "5-3"
+  },
+  {
+    "name": "대석궁",
+    "level": 78,
+    "grade": 11,
+    "class": "IncenseArcher",
+    "guild": "YouTube",
     "world": "5-3"
   },
   {
@@ -13016,18 +13016,18 @@
     "world": "8-2"
   },
   {
-    "name": "폭군특임대",
-    "level": 85,
-    "grade": 21,
-    "class": "Enforcer",
-    "guild": "홀리데이",
-    "world": "8-2"
-  },
-  {
     "name": "베르세르크",
     "level": 85,
     "grade": 21,
     "class": "IncenseArcher",
+    "guild": "홀리데이",
+    "world": "8-2"
+  },
+  {
+    "name": "폭군특임대",
+    "level": 85,
+    "grade": 21,
+    "class": "Enforcer",
     "guild": "홀리데이",
     "world": "8-2"
   },
@@ -16776,18 +16776,18 @@
     "world": "10-1"
   },
   {
-    "name": "썸머",
-    "level": 76,
-    "grade": 15,
-    "class": "AbyssRevenant",
-    "guild": "동네형들",
-    "world": "10-1"
-  },
-  {
     "name": "차차",
     "level": 76,
     "grade": 3,
     "class": "IncenseArcher",
+    "guild": "동네형들",
+    "world": "10-1"
+  },
+  {
+    "name": "썸머",
+    "level": 76,
+    "grade": 15,
+    "class": "AbyssRevenant",
     "guild": "동네형들",
     "world": "10-1"
   },
@@ -19144,14 +19144,6 @@
     "world": "10-4"
   },
   {
-    "name": "메롱메롱",
-    "level": 81,
-    "grade": 15,
-    "class": "RuneScribe",
-    "guild": "가라",
-    "world": "10-4"
-  },
-  {
     "name": "JB",
     "level": 81,
     "grade": 17,
@@ -19165,6 +19157,14 @@
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "야옹",
+    "world": "10-4"
+  },
+  {
+    "name": "메롱메롱",
+    "level": 81,
+    "grade": 15,
+    "class": "RuneScribe",
+    "guild": "가라",
     "world": "10-4"
   },
   {
@@ -32441,7 +32441,7 @@
   },
   {
     "name": "성직자",
-    "level": 83,
+    "level": 84,
     "grade": 21,
     "class": "RuneScribe",
     "guild": "짠",
@@ -34008,14 +34008,6 @@
     "world": "16-3"
   },
   {
-    "name": "윌크",
-    "level": 83,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "조선의활잡이",
-    "world": "16-3"
-  },
-  {
     "name": "봐유",
     "level": 83,
     "grade": 19,
@@ -34029,6 +34021,14 @@
     "grade": 19,
     "class": "Enforcer",
     "guild": "교도소",
+    "world": "16-3"
+  },
+  {
+    "name": "윌크",
+    "level": 83,
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "조선의활잡이",
     "world": "16-3"
   },
   {
@@ -37204,7 +37204,7 @@
     "level": 84,
     "grade": 22,
     "class": "IncenseArcher",
-    "guild": null,
+    "guild": "북극성",
     "world": "27-2"
   },
   {
