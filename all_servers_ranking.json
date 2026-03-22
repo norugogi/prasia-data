@@ -6512,19 +6512,19 @@
     "world": "3-4"
   },
   {
-    "name": "사또",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "심판",
-    "world": "3-4"
-  },
-  {
     "name": "마마",
     "level": 89,
     "grade": 24,
     "class": "Enforcer",
     "guild": "개",
+    "world": "3-4"
+  },
+  {
+    "name": "사또",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "심판",
     "world": "3-4"
   },
   {
@@ -12889,7 +12889,7 @@
   },
   {
     "name": "계두식",
-    "level": 86,
+    "level": 87,
     "grade": 22,
     "class": "Enforcer",
     "guild": "홀리데이",
@@ -14664,6 +14664,14 @@
     "world": "8-4"
   },
   {
+    "name": "눈뜨니열두시",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
     "name": "흑구",
     "level": 89,
     "grade": 24,
@@ -14685,14 +14693,6 @@
     "grade": 24,
     "class": "RuneScribe",
     "guild": "노터치",
-    "world": "8-4"
-  },
-  {
-    "name": "눈뜨니열두시",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -15992,11 +15992,11 @@
     "world": "8-5"
   },
   {
-    "name": "우루루마적",
+    "name": "풀떼기언니",
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
-    "guild": "우루루",
+    "guild": "CodeName",
     "world": "8-5"
   },
   {
@@ -29456,14 +29456,6 @@
     "world": "14-2"
   },
   {
-    "name": "정고민",
-    "level": 82,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "오브",
-    "world": "14-2"
-  },
-  {
     "name": "뽀롱",
     "level": 82,
     "grade": 18,
@@ -29472,9 +29464,9 @@
     "world": "14-2"
   },
   {
-    "name": "폴라",
+    "name": "정고민",
     "level": 81,
-    "grade": 19,
+    "grade": 18,
     "class": "RuneScribe",
     "guild": "오브",
     "world": "14-2"
@@ -29493,6 +29485,14 @@
     "grade": 17,
     "class": "RuneScribe",
     "guild": "악마",
+    "world": "14-2"
+  },
+  {
+    "name": "폴라",
+    "level": 81,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "오브",
     "world": "14-2"
   },
   {
@@ -38128,19 +38128,19 @@
     "world": "27-3"
   },
   {
-    "name": "성수",
-    "level": 81,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "라스트댄스",
-    "world": "27-3"
-  },
-  {
     "name": "혜주짱",
     "level": 81,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "월하익송",
+    "world": "27-3"
+  },
+  {
+    "name": "성수",
+    "level": 81,
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "라스트댄스",
     "world": "27-3"
   },
   {
@@ -38824,19 +38824,19 @@
     "world": "27-4"
   },
   {
-    "name": "채봉구",
-    "level": 80,
-    "grade": 17,
-    "class": "RuneScribe",
-    "guild": "한국인",
-    "world": "27-4"
-  },
-  {
     "name": "여왕",
     "level": 80,
     "grade": 17,
     "class": "Enforcer",
     "guild": "Mystery",
+    "world": "27-4"
+  },
+  {
+    "name": "채봉구",
+    "level": 80,
+    "grade": 17,
+    "class": "RuneScribe",
+    "guild": "한국인",
     "world": "27-4"
   },
   {
@@ -39528,19 +39528,19 @@
     "world": "27-5"
   },
   {
-    "name": "채팅금지",
-    "level": 79,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "노즈라이딩",
-    "world": "27-5"
-  },
-  {
     "name": "담배형오른팔",
     "level": 79,
     "grade": 16,
     "class": "Enforcer",
     "guild": "운빨",
+    "world": "27-5"
+  },
+  {
+    "name": "채팅금지",
+    "level": 79,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "노즈라이딩",
     "world": "27-5"
   },
   {
