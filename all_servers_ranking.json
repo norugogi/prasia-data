@@ -2168,19 +2168,19 @@
     "world": "2-3"
   },
   {
-    "name": "빅빅딕",
-    "level": 78,
-    "grade": 15,
-    "class": "SolarSentinel",
-    "guild": null,
-    "world": "2-3"
-  },
-  {
     "name": "천만원",
     "level": 78,
     "grade": 15,
     "class": "AbyssRevenant",
     "guild": "은빛매용병단",
+    "world": "2-3"
+  },
+  {
+    "name": "빅빅딕",
+    "level": 78,
+    "grade": 15,
+    "class": "SolarSentinel",
+    "guild": null,
     "world": "2-3"
   },
   {
@@ -3104,19 +3104,19 @@
     "world": "2-4"
   },
   {
-    "name": "TANG",
-    "level": 78,
-    "grade": 16,
-    "class": "Enforcer",
-    "guild": "사신단",
-    "world": "2-4"
-  },
-  {
     "name": "초신성",
     "level": 78,
     "grade": 10,
     "class": "IncenseArcher",
     "guild": "익명",
+    "world": "2-4"
+  },
+  {
+    "name": "TANG",
+    "level": 78,
+    "grade": 16,
+    "class": "Enforcer",
+    "guild": "사신단",
     "world": "2-4"
   },
   {
@@ -3504,6 +3504,14 @@
     "world": "2-5"
   },
   {
+    "name": "다람이",
+    "level": 82,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": "비키니시티",
+    "world": "2-5"
+  },
+  {
     "name": "헐크소",
     "level": 82,
     "grade": 17,
@@ -3520,16 +3528,8 @@
     "world": "2-5"
   },
   {
-    "name": "다람이",
-    "level": 82,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "비키니시티",
-    "world": "2-5"
-  },
-  {
     "name": "멜로디",
-    "level": 81,
+    "level": 82,
     "grade": 17,
     "class": "RuneScribe",
     "guild": "최고",
@@ -4968,7 +4968,7 @@
     "world": "3-2"
   },
   {
-    "name": "하시모토칸나",
+    "name": "지옥",
     "level": 90,
     "grade": 24,
     "class": "SolarSentinel",
@@ -4976,8 +4976,8 @@
     "world": "3-2"
   },
   {
-    "name": "지옥",
-    "level": 89,
+    "name": "하시모토칸나",
+    "level": 90,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "MAD",
@@ -6976,19 +6976,19 @@
     "world": "3-4"
   },
   {
-    "name": "토스",
-    "level": 85,
-    "grade": 21,
-    "class": "MirageBlade",
-    "guild": "개",
-    "world": "3-4"
-  },
-  {
     "name": "둥둥이",
     "level": 85,
     "grade": 22,
     "class": "Enforcer",
     "guild": "심판",
+    "world": "3-4"
+  },
+  {
+    "name": "토스",
+    "level": 85,
+    "grade": 21,
+    "class": "MirageBlade",
+    "guild": "개",
     "world": "3-4"
   },
   {
@@ -9776,6 +9776,14 @@
     "world": "5-3"
   },
   {
+    "name": "카나",
+    "level": 81,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "결사명없음",
+    "world": "5-3"
+  },
+  {
     "name": "프로조이",
     "level": 81,
     "grade": 17,
@@ -9789,14 +9797,6 @@
     "grade": 15,
     "class": "IncenseArcher",
     "guild": null,
-    "world": "5-3"
-  },
-  {
-    "name": "카나",
-    "level": 81,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "결사명없음",
     "world": "5-3"
   },
   {
@@ -13433,7 +13433,7 @@
   },
   {
     "name": "사이러스",
-    "level": 82,
+    "level": 83,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "홀리데이",
@@ -14960,19 +14960,19 @@
     "world": "8-4"
   },
   {
-    "name": "에코",
-    "level": 88,
-    "grade": 22,
-    "class": "RuneScribe",
-    "guild": "노터치",
-    "world": "8-4"
-  },
-  {
     "name": "왕초",
     "level": 88,
     "grade": 23,
     "class": "Enforcer",
     "guild": "악연",
+    "world": "8-4"
+  },
+  {
+    "name": "에코",
+    "level": 88,
+    "grade": 22,
+    "class": "RuneScribe",
+    "guild": "노터치",
     "world": "8-4"
   },
   {
@@ -15600,6 +15600,14 @@
     "world": "8-5"
   },
   {
+    "name": "함마",
+    "level": 90,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "강남",
+    "world": "8-5"
+  },
+  {
     "name": "강코비",
     "level": 90,
     "grade": 24,
@@ -15612,14 +15620,6 @@
     "level": 90,
     "grade": 24,
     "class": "MirageBlade",
-    "guild": "강남",
-    "world": "8-5"
-  },
-  {
-    "name": "함마",
-    "level": 90,
-    "grade": 24,
-    "class": "SolarSentinel",
     "guild": "강남",
     "world": "8-5"
   },
@@ -21960,19 +21960,19 @@
     "world": "11-3"
   },
   {
-    "name": "오사카",
-    "level": 82,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "일본",
-    "world": "11-3"
-  },
-  {
     "name": "트럼프",
     "level": 82,
     "grade": 18,
     "class": "Enforcer",
     "guild": "천조국",
+    "world": "11-3"
+  },
+  {
+    "name": "오사카",
+    "level": 82,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "일본",
     "world": "11-3"
   },
   {
@@ -25968,19 +25968,19 @@
     "world": "12-3"
   },
   {
-    "name": "목장관리인",
-    "level": 82,
-    "grade": 17,
-    "class": "MirageBlade",
-    "guild": "늑대앙",
-    "world": "12-3"
-  },
-  {
     "name": "바람양",
     "level": 82,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "양떼",
+    "world": "12-3"
+  },
+  {
+    "name": "목장관리인",
+    "level": 82,
+    "grade": 17,
+    "class": "MirageBlade",
+    "guild": "늑대앙",
     "world": "12-3"
   },
   {
@@ -38008,19 +38008,19 @@
     "world": "27-3"
   },
   {
-    "name": "지팽",
-    "level": 82,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "라스트댄스",
-    "world": "27-3"
-  },
-  {
     "name": "고래박",
     "level": 82,
     "grade": 19,
     "class": "Enforcer",
     "guild": "수호",
+    "world": "27-3"
+  },
+  {
+    "name": "지팽",
+    "level": 82,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "라스트댄스",
     "world": "27-3"
   },
   {
