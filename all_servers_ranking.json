@@ -2560,6 +2560,14 @@
     "world": "2-4"
   },
   {
+    "name": "진혼",
+    "level": 83,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "소주한잔해요",
+    "world": "2-4"
+  },
+  {
     "name": "코순이다",
     "level": 83,
     "grade": 19,
@@ -3192,14 +3200,6 @@
     "world": "2-4"
   },
   {
-    "name": "잉어",
-    "level": 77,
-    "grade": 15,
-    "class": "IncenseArcher",
-    "guild": "까마귀",
-    "world": "2-4"
-  },
-  {
     "name": "나때리면삼대가대머리",
     "level": 89,
     "grade": 24,
@@ -3512,19 +3512,19 @@
     "world": "2-5"
   },
   {
-    "name": "헐크소",
-    "level": 82,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "최고",
-    "world": "2-5"
-  },
-  {
     "name": "박하",
     "level": 82,
     "grade": 17,
     "class": "RuneScribe",
     "guild": "비키니시티",
+    "world": "2-5"
+  },
+  {
+    "name": "헐크소",
+    "level": 82,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "최고",
     "world": "2-5"
   },
   {
@@ -6192,18 +6192,18 @@
     "world": "3-3"
   },
   {
-    "name": "제키엘",
-    "level": 86,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "광혼",
-    "world": "3-3"
-  },
-  {
     "name": "님이십할",
     "level": 86,
     "grade": 23,
     "class": "RuneScribe",
+    "guild": "광혼",
+    "world": "3-3"
+  },
+  {
+    "name": "제키엘",
+    "level": 86,
+    "grade": 23,
+    "class": "IncenseArcher",
     "guild": "광혼",
     "world": "3-3"
   },
@@ -12216,14 +12216,6 @@
     "world": "8-1"
   },
   {
-    "name": "명품맥스",
-    "level": 90,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "명품",
-    "world": "8-1"
-  },
-  {
     "name": "명품천개",
     "level": 90,
     "grade": 24,
@@ -12237,6 +12229,14 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "진격의영포티",
+    "world": "8-1"
+  },
+  {
+    "name": "명품맥스",
+    "level": 90,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "명품",
     "world": "8-1"
   },
   {
@@ -15688,14 +15688,6 @@
     "world": "8-5"
   },
   {
-    "name": "sunholic",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "축복",
-    "world": "8-5"
-  },
-  {
     "name": "펩시형",
     "level": 90,
     "grade": 24,
@@ -15725,6 +15717,14 @@
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "sunholic",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "축복",
     "world": "8-5"
   },
   {
@@ -32057,7 +32057,7 @@
   },
   {
     "name": "이노스케",
-    "level": 87,
+    "level": 88,
     "grade": 23,
     "class": "Enforcer",
     "guild": "프리아",
@@ -34224,6 +34224,14 @@
     "world": "16-3"
   },
   {
+    "name": "고주몽",
+    "level": 82,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "조선의활잡이",
+    "world": "16-3"
+  },
+  {
     "name": "곤니찌와",
     "level": 82,
     "grade": 18,
@@ -34237,14 +34245,6 @@
     "grade": 18,
     "class": "MirageBlade",
     "guild": "교도소",
-    "world": "16-3"
-  },
-  {
-    "name": "고주몽",
-    "level": 81,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "조선의활잡이",
     "world": "16-3"
   },
   {
@@ -37352,19 +37352,19 @@
     "world": "27-2"
   },
   {
-    "name": "으뜨밍",
-    "level": 83,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "천랑성",
-    "world": "27-2"
-  },
-  {
     "name": "눈을감자",
     "level": 83,
     "grade": 20,
     "class": "Enforcer",
     "guild": "하우스",
+    "world": "27-2"
+  },
+  {
+    "name": "으뜨밍",
+    "level": 83,
+    "grade": 20,
+    "class": "IncenseArcher",
+    "guild": "천랑성",
     "world": "27-2"
   },
   {
@@ -37744,19 +37744,19 @@
     "world": "27-3"
   },
   {
-    "name": "슈가륜",
-    "level": 84,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "라스트댄스",
-    "world": "27-3"
-  },
-  {
     "name": "야돈",
     "level": 84,
     "grade": 21,
     "class": "Enforcer",
     "guild": "수호",
+    "world": "27-3"
+  },
+  {
+    "name": "슈가륜",
+    "level": 84,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "라스트댄스",
     "world": "27-3"
   },
   {
@@ -39416,17 +39416,17 @@
     "world": "27-5"
   },
   {
-    "name": "잼통",
+    "name": "폭력",
     "level": 80,
-    "grade": 16,
+    "grade": 18,
     "class": "Enforcer",
     "guild": "봄도둑",
     "world": "27-5"
   },
   {
-    "name": "폭력",
+    "name": "잼통",
     "level": 80,
-    "grade": 18,
+    "grade": 16,
     "class": "Enforcer",
     "guild": "봄도둑",
     "world": "27-5"
