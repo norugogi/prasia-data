@@ -11880,14 +11880,6 @@
     "world": "5-5"
   },
   {
-    "name": "호쓰",
-    "level": 87,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "CATT",
-    "world": "5-5"
-  },
-  {
     "name": "딩가딩",
     "level": 87,
     "grade": 21,
@@ -11901,6 +11893,14 @@
     "grade": 23,
     "class": "SolarSentinel",
     "guild": "더킹",
+    "world": "5-5"
+  },
+  {
+    "name": "호쓰",
+    "level": 87,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "CATT",
     "world": "5-5"
   },
   {
@@ -39592,19 +39592,19 @@
     "world": "27-5"
   },
   {
-    "name": "천사",
-    "level": 79,
-    "grade": 15,
-    "class": "Enforcer",
-    "guild": "운빨",
-    "world": "27-5"
-  },
-  {
     "name": "비바체",
     "level": 79,
     "grade": 16,
     "class": "RuneScribe",
     "guild": "봄도둑",
+    "world": "27-5"
+  },
+  {
+    "name": "천사",
+    "level": 79,
+    "grade": 15,
+    "class": "Enforcer",
+    "guild": "운빨",
     "world": "27-5"
   },
   {
@@ -39776,6 +39776,14 @@
     "world": "27-5"
   },
   {
+    "name": "홀루",
+    "level": 78,
+    "grade": 13,
+    "class": "IncenseArcher",
+    "guild": "아퀴",
+    "world": "27-5"
+  },
+  {
     "name": "만찬",
     "level": 78,
     "grade": 15,
@@ -39804,14 +39812,6 @@
     "level": 78,
     "grade": 17,
     "class": "Enforcer",
-    "guild": "아퀴",
-    "world": "27-5"
-  },
-  {
-    "name": "홀루",
-    "level": 78,
-    "grade": 13,
-    "class": "IncenseArcher",
     "guild": "아퀴",
     "world": "27-5"
   },
