@@ -2792,19 +2792,19 @@
     "world": "2-4"
   },
   {
-    "name": "뭉이",
-    "level": 81,
-    "grade": 16,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "2-4"
-  },
-  {
     "name": "윌리엄",
     "level": 81,
     "grade": 17,
     "class": "MirageBlade",
     "guild": "까마귀",
+    "world": "2-4"
+  },
+  {
+    "name": "뭉이",
+    "level": 81,
+    "grade": 16,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "2-4"
   },
   {
@@ -5960,18 +5960,18 @@
     "world": "3-3"
   },
   {
-    "name": "우상단어깨아래날개뼈",
-    "level": 88,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "광란",
-    "world": "3-3"
-  },
-  {
     "name": "자유영혼",
     "level": 88,
     "grade": 23,
     "class": "IncenseArcher",
+    "guild": "광란",
+    "world": "3-3"
+  },
+  {
+    "name": "우상단어깨아래날개뼈",
+    "level": 88,
+    "grade": 23,
+    "class": "RuneScribe",
     "guild": "광란",
     "world": "3-3"
   },
@@ -9224,19 +9224,19 @@
     "world": "5-2"
   },
   {
-    "name": "주방장",
-    "level": 79,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "신라호텔",
-    "world": "5-2"
-  },
-  {
     "name": "보노",
     "level": 79,
     "grade": 17,
     "class": "Enforcer",
     "guild": "풍월",
+    "world": "5-2"
+  },
+  {
+    "name": "주방장",
+    "level": 79,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "신라호텔",
     "world": "5-2"
   },
   {
@@ -15608,19 +15608,19 @@
     "world": "8-5"
   },
   {
-    "name": "영철이",
-    "level": 90,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "은쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "강코비",
     "level": 90,
     "grade": 24,
     "class": "Enforcer",
     "guild": "강남",
+    "world": "8-5"
+  },
+  {
+    "name": "영철이",
+    "level": 90,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "은쪽이",
     "world": "8-5"
   },
   {
@@ -16776,18 +16776,18 @@
     "world": "10-1"
   },
   {
-    "name": "차차",
-    "level": 76,
-    "grade": 3,
-    "class": "IncenseArcher",
-    "guild": "동네형들",
-    "world": "10-1"
-  },
-  {
     "name": "썸머",
     "level": 76,
     "grade": 15,
     "class": "AbyssRevenant",
+    "guild": "동네형들",
+    "world": "10-1"
+  },
+  {
+    "name": "차차",
+    "level": 76,
+    "grade": 3,
+    "class": "IncenseArcher",
     "guild": "동네형들",
     "world": "10-1"
   },
@@ -18604,7 +18604,7 @@
     "level": 86,
     "grade": 21,
     "class": "Enforcer",
-    "guild": "주니",
+    "guild": null,
     "world": "10-4"
   },
   {
@@ -26096,19 +26096,19 @@
     "world": "12-3"
   },
   {
-    "name": "응큼한건달",
-    "level": 81,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": "한국야쿠르트",
-    "world": "12-3"
-  },
-  {
     "name": "맞고보니화이자",
     "level": 81,
     "grade": 17,
     "class": "RuneScribe",
     "guild": "담배맛농약",
+    "world": "12-3"
+  },
+  {
+    "name": "응큼한건달",
+    "level": 81,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": "한국야쿠르트",
     "world": "12-3"
   },
   {
@@ -30008,19 +30008,19 @@
     "world": "14-3"
   },
   {
-    "name": "별코코",
-    "level": 79,
-    "grade": 16,
-    "class": "AbyssRevenant",
-    "guild": null,
-    "world": "14-3"
-  },
-  {
     "name": "로맨스타",
     "level": 79,
     "grade": 15,
     "class": "IncenseArcher",
     "guild": "루트비히",
+    "world": "14-3"
+  },
+  {
+    "name": "별코코",
+    "level": 79,
+    "grade": 16,
+    "class": "AbyssRevenant",
+    "guild": null,
     "world": "14-3"
   },
   {
@@ -31472,19 +31472,19 @@
     "world": "14-5"
   },
   {
-    "name": "적운",
-    "level": 85,
-    "grade": 21,
-    "class": "Enforcer",
-    "guild": "라",
-    "world": "14-5"
-  },
-  {
     "name": "개찔러",
     "level": 85,
     "grade": 21,
     "class": "MirageBlade",
     "guild": "핑크좀비",
+    "world": "14-5"
+  },
+  {
+    "name": "적운",
+    "level": 85,
+    "grade": 21,
+    "class": "Enforcer",
+    "guild": "라",
     "world": "14-5"
   },
   {
@@ -39560,17 +39560,17 @@
     "world": "27-5"
   },
   {
-    "name": "미스틱",
+    "name": "히트",
     "level": 79,
-    "grade": 17,
+    "grade": 16,
     "class": "Enforcer",
     "guild": "봄도둑",
     "world": "27-5"
   },
   {
-    "name": "히트",
+    "name": "미스틱",
     "level": 79,
-    "grade": 16,
+    "grade": 17,
     "class": "Enforcer",
     "guild": "봄도둑",
     "world": "27-5"
