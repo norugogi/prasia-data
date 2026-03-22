@@ -4392,14 +4392,6 @@
     "world": "3-1"
   },
   {
-    "name": "이상한신촌",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "이상해",
-    "world": "3-1"
-  },
-  {
     "name": "미키",
     "level": 86,
     "grade": 21,
@@ -4411,6 +4403,14 @@
     "name": "이상한우기",
     "level": 86,
     "grade": 22,
+    "class": "Enforcer",
+    "guild": "이상해",
+    "world": "3-1"
+  },
+  {
+    "name": "이상한신촌",
+    "level": 86,
+    "grade": 23,
     "class": "Enforcer",
     "guild": "이상해",
     "world": "3-1"
@@ -6920,14 +6920,6 @@
     "world": "3-4"
   },
   {
-    "name": "욕쟁이할머니",
-    "level": 86,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "심판",
-    "world": "3-4"
-  },
-  {
     "name": "골든",
     "level": 85,
     "grade": 21,
@@ -6941,6 +6933,14 @@
     "grade": 21,
     "class": "SolarSentinel",
     "guild": "IYOU",
+    "world": "3-4"
+  },
+  {
+    "name": "욕쟁이할머니",
+    "level": 85,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "심판",
     "world": "3-4"
   },
   {
@@ -8240,19 +8240,19 @@
     "world": "5-1"
   },
   {
-    "name": "보링",
-    "level": 89,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "미깡",
-    "world": "5-1"
-  },
-  {
     "name": "사피엔스",
     "level": 89,
     "grade": 24,
     "class": "MirageBlade",
     "guild": "시그니처",
+    "world": "5-1"
+  },
+  {
+    "name": "보링",
+    "level": 89,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "미깡",
     "world": "5-1"
   },
   {
@@ -11904,14 +11904,6 @@
     "world": "5-5"
   },
   {
-    "name": "호쓰",
-    "level": 87,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "CATT",
-    "world": "5-5"
-  },
-  {
     "name": "운디네",
     "level": 87,
     "grade": 23,
@@ -11924,6 +11916,14 @@
     "level": 87,
     "grade": 21,
     "class": "IncenseArcher",
+    "guild": "CATT",
+    "world": "5-5"
+  },
+  {
+    "name": "호쓰",
+    "level": 87,
+    "grade": 24,
+    "class": "Enforcer",
     "guild": "CATT",
     "world": "5-5"
   },
@@ -15849,7 +15849,7 @@
   },
   {
     "name": "우루루새총",
-    "level": 89,
+    "level": 90,
     "grade": 24,
     "class": "Enforcer",
     "guild": "우루루",
@@ -17041,7 +17041,7 @@
   },
   {
     "name": "거북왕",
-    "level": 84,
+    "level": 85,
     "grade": 21,
     "class": "Enforcer",
     "guild": "우왕",
@@ -19728,19 +19728,19 @@
     "world": "10-5"
   },
   {
-    "name": "부르마",
-    "level": 79,
-    "grade": 16,
-    "class": "SolarSentinel",
-    "guild": "우쭈쭈",
-    "world": "10-5"
-  },
-  {
     "name": "오레오",
     "level": 79,
     "grade": 15,
     "class": "AbyssRevenant",
     "guild": "Galaxy",
+    "world": "10-5"
+  },
+  {
+    "name": "부르마",
+    "level": 79,
+    "grade": 16,
+    "class": "SolarSentinel",
+    "guild": "우쭈쭈",
     "world": "10-5"
   },
   {
@@ -29136,19 +29136,19 @@
     "world": "14-2"
   },
   {
-    "name": "곰돌이푸푸",
-    "level": 84,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": null,
-    "world": "14-2"
-  },
-  {
     "name": "몽실",
     "level": 84,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "오브",
+    "world": "14-2"
+  },
+  {
+    "name": "곰돌이푸푸",
+    "level": 84,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": null,
     "world": "14-2"
   },
   {
@@ -33136,19 +33136,19 @@
     "world": "16-2"
   },
   {
-    "name": "아저씨왕",
-    "level": 85,
-    "grade": 21,
-    "class": "MirageBlade",
-    "guild": "과거의상어사자",
-    "world": "16-2"
-  },
-  {
     "name": "강시나",
     "level": 85,
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "화산",
+    "world": "16-2"
+  },
+  {
+    "name": "아저씨왕",
+    "level": 85,
+    "grade": 21,
+    "class": "MirageBlade",
+    "guild": "과거의상어사자",
     "world": "16-2"
   },
   {
@@ -33584,19 +33584,19 @@
     "world": "16-2"
   },
   {
-    "name": "claude",
-    "level": 83,
-    "grade": 19,
-    "class": "MirageBlade",
-    "guild": "니들이버기단을알어",
-    "world": "16-2"
-  },
-  {
     "name": "빵빵",
     "level": 83,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "화산",
+    "world": "16-2"
+  },
+  {
+    "name": "claude",
+    "level": 83,
+    "grade": 19,
+    "class": "MirageBlade",
+    "guild": "니들이버기단을알어",
     "world": "16-2"
   },
   {
