@@ -1724,7 +1724,7 @@
     "level": 82,
     "grade": 17,
     "class": "SolarSentinel",
-    "guild": "비트",
+    "guild": null,
     "world": "2-3"
   },
   {
@@ -6664,18 +6664,18 @@
     "world": "3-4"
   },
   {
-    "name": "도라에몽",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "심판",
-    "world": "3-4"
-  },
-  {
     "name": "낭인",
     "level": 88,
     "grade": 22,
     "class": "SolarSentinel",
+    "guild": "심판",
+    "world": "3-4"
+  },
+  {
+    "name": "도라에몽",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
     "guild": "심판",
     "world": "3-4"
   },
@@ -11100,7 +11100,7 @@
     "level": 75,
     "grade": 15,
     "class": "AbyssRevenant",
-    "guild": "광명",
+    "guild": null,
     "world": "5-4"
   },
   {
@@ -11648,19 +11648,19 @@
     "world": "5-5"
   },
   {
-    "name": "머두",
-    "level": 88,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "더킹",
-    "world": "5-5"
-  },
-  {
     "name": "리카이",
     "level": 88,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "킹덤",
+    "world": "5-5"
+  },
+  {
+    "name": "머두",
+    "level": 88,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "더킹",
     "world": "5-5"
   },
   {
@@ -12640,18 +12640,18 @@
     "world": "8-1"
   },
   {
-    "name": "조현몬",
-    "level": 88,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "진격의영포티",
-    "world": "8-1"
-  },
-  {
     "name": "정탄",
     "level": 88,
     "grade": 23,
     "class": "MirageBlade",
+    "guild": "진격의영포티",
+    "world": "8-1"
+  },
+  {
+    "name": "조현몬",
+    "level": 88,
+    "grade": 23,
+    "class": "IncenseArcher",
     "guild": "진격의영포티",
     "world": "8-1"
   },
@@ -16273,7 +16273,7 @@
   },
   {
     "name": "릴꼬",
-    "level": 81,
+    "level": 82,
     "grade": 19,
     "class": "SolarSentinel",
     "guild": "편하게",
@@ -26664,19 +26664,19 @@
     "world": "12-4"
   },
   {
-    "name": "봉봉",
-    "level": 85,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "xxxx",
-    "world": "12-4"
-  },
-  {
     "name": "아라비아",
     "level": 85,
     "grade": 20,
     "class": "Enforcer",
     "guild": null,
+    "world": "12-4"
+  },
+  {
+    "name": "봉봉",
+    "level": 85,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "xxxx",
     "world": "12-4"
   },
   {
@@ -33528,19 +33528,19 @@
     "world": "16-2"
   },
   {
-    "name": "석화",
-    "level": 83,
-    "grade": 18,
-    "class": "SolarSentinel",
-    "guild": "니들이버기단을알어",
-    "world": "16-2"
-  },
-  {
     "name": "이제훈",
     "level": 83,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "연예인결사",
+    "world": "16-2"
+  },
+  {
+    "name": "석화",
+    "level": 83,
+    "grade": 18,
+    "class": "SolarSentinel",
+    "guild": "니들이버기단을알어",
     "world": "16-2"
   },
   {
