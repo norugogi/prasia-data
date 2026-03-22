@@ -704,19 +704,19 @@
     "world": "2-1"
   },
   {
-    "name": "캡쑝",
-    "level": 79,
-    "grade": 15,
-    "class": "SolarSentinel",
-    "guild": "무소과금",
-    "world": "2-1"
-  },
-  {
     "name": "임시케",
     "level": 79,
     "grade": 15,
     "class": "IncenseArcher",
     "guild": "매트",
+    "world": "2-1"
+  },
+  {
+    "name": "캡쑝",
+    "level": 79,
+    "grade": 15,
+    "class": "SolarSentinel",
+    "guild": "무소과금",
     "world": "2-1"
   },
   {
@@ -1777,7 +1777,7 @@
   },
   {
     "name": "윈터",
-    "level": 81,
+    "level": 82,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "중립",
@@ -4888,19 +4888,19 @@
     "world": "3-2"
   },
   {
-    "name": "제히오른팔",
-    "level": 90,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "ZED",
-    "world": "3-2"
-  },
-  {
     "name": "판사",
     "level": 90,
     "grade": 24,
     "class": "Enforcer",
     "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "제히오른팔",
+    "level": 90,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "ZED",
     "world": "3-2"
   },
   {
@@ -13776,19 +13776,19 @@
     "world": "8-3"
   },
   {
-    "name": "더피빕",
-    "level": 82,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "8-3"
-  },
-  {
     "name": "제일도",
     "level": 82,
     "grade": 20,
     "class": "Enforcer",
     "guild": "OZ",
+    "world": "8-3"
+  },
+  {
+    "name": "더피빕",
+    "level": 82,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "8-3"
   },
   {
@@ -26896,19 +26896,19 @@
     "world": "12-4"
   },
   {
-    "name": "영지보스",
-    "level": 83,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "봄봄",
-    "world": "12-4"
-  },
-  {
     "name": "자백",
     "level": 83,
     "grade": 17,
     "class": "SolarSentinel",
     "guild": "금괴",
+    "world": "12-4"
+  },
+  {
+    "name": "영지보스",
+    "level": 83,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": "봄봄",
     "world": "12-4"
   },
   {
@@ -33296,19 +33296,19 @@
     "world": "16-2"
   },
   {
-    "name": "다솜",
-    "level": 84,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "평화롭게",
-    "world": "16-2"
-  },
-  {
     "name": "김병철",
     "level": 84,
     "grade": 19,
     "class": "MirageBlade",
     "guild": "연예인결사",
+    "world": "16-2"
+  },
+  {
+    "name": "다솜",
+    "level": 84,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "평화롭게",
     "world": "16-2"
   },
   {
