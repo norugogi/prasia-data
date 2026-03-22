@@ -11976,18 +11976,18 @@
     "world": "5-5"
   },
   {
-    "name": "어피치",
-    "level": 87,
-    "grade": 21,
-    "class": "AbyssRevenant",
-    "guild": "CATT",
-    "world": "5-5"
-  },
-  {
     "name": "혈압",
     "level": 87,
     "grade": 22,
     "class": "IncenseArcher",
+    "guild": "CATT",
+    "world": "5-5"
+  },
+  {
+    "name": "어피치",
+    "level": 87,
+    "grade": 21,
+    "class": "AbyssRevenant",
     "guild": "CATT",
     "world": "5-5"
   },
@@ -14656,6 +14656,14 @@
     "world": "8-4"
   },
   {
+    "name": "나야쿠영",
+    "level": 89,
+    "grade": 24,
+    "class": "AbyssRevenant",
+    "guild": "악연",
+    "world": "8-4"
+  },
+  {
     "name": "연인",
     "level": 89,
     "grade": 24,
@@ -14677,14 +14685,6 @@
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
-    "name": "나야쿠영",
-    "level": 89,
-    "grade": 24,
-    "class": "AbyssRevenant",
-    "guild": "악연",
     "world": "8-4"
   },
   {
@@ -24744,6 +24744,14 @@
     "world": "12-1"
   },
   {
+    "name": "하나마나",
+    "level": 79,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": "하이방가",
+    "world": "12-1"
+  },
+  {
     "name": "오메마싯노",
     "level": 79,
     "grade": 16,
@@ -24757,14 +24765,6 @@
     "grade": 15,
     "class": "IncenseArcher",
     "guild": "다방민",
-    "world": "12-1"
-  },
-  {
-    "name": "하나마나",
-    "level": 79,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": "하이방가",
     "world": "12-1"
   },
   {
@@ -26129,7 +26129,7 @@
   },
   {
     "name": "후이바오",
-    "level": 80,
+    "level": 81,
     "grade": 18,
     "class": "RuneScribe",
     "guild": "DP3",
@@ -29450,9 +29450,17 @@
   {
     "name": "카지노",
     "level": 82,
-    "grade": 18,
+    "grade": 19,
     "class": "AbyssRevenant",
     "guild": "드라마",
+    "world": "14-2"
+  },
+  {
+    "name": "정고민",
+    "level": 82,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "오브",
     "world": "14-2"
   },
   {
@@ -29461,14 +29469,6 @@
     "grade": 18,
     "class": "AbyssRevenant",
     "guild": "드라마",
-    "world": "14-2"
-  },
-  {
-    "name": "정고민",
-    "level": 81,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "오브",
     "world": "14-2"
   },
   {
@@ -31832,14 +31832,6 @@
     "world": "14-5"
   },
   {
-    "name": "이피엘",
-    "level": 82,
-    "grade": 18,
-    "class": "IncenseArcher",
-    "guild": "NG",
-    "world": "14-5"
-  },
-  {
     "name": "kuma",
     "level": 82,
     "grade": 19,
@@ -31861,6 +31853,14 @@
     "grade": 19,
     "class": "RuneScribe",
     "guild": "shadow",
+    "world": "14-5"
+  },
+  {
+    "name": "이피엘",
+    "level": 82,
+    "grade": 18,
+    "class": "IncenseArcher",
+    "guild": "NG",
     "world": "14-5"
   },
   {
@@ -37834,7 +37834,7 @@
   {
     "name": "똘이장군",
     "level": 83,
-    "grade": 20,
+    "grade": 21,
     "class": "SolarSentinel",
     "guild": "수호",
     "world": "27-3"
@@ -38328,19 +38328,19 @@
     "world": "27-3"
   },
   {
-    "name": "해준",
-    "level": 79,
-    "grade": 19,
-    "class": "SolarSentinel",
-    "guild": "메르비스",
-    "world": "27-3"
-  },
-  {
     "name": "조이",
     "level": 79,
     "grade": 18,
     "class": "RuneScribe",
     "guild": "스타",
+    "world": "27-3"
+  },
+  {
+    "name": "해준",
+    "level": 79,
+    "grade": 19,
+    "class": "SolarSentinel",
+    "guild": "메르비스",
     "world": "27-3"
   },
   {
@@ -38800,17 +38800,17 @@
     "world": "27-4"
   },
   {
-    "name": "따듯",
+    "name": "은하",
     "level": 80,
-    "grade": 17,
+    "grade": 19,
     "class": "AbyssRevenant",
     "guild": "Mystery",
     "world": "27-4"
   },
   {
-    "name": "은하",
+    "name": "따듯",
     "level": 80,
-    "grade": 19,
+    "grade": 17,
     "class": "AbyssRevenant",
     "guild": "Mystery",
     "world": "27-4"
