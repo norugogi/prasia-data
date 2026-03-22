@@ -12968,18 +12968,18 @@
     "world": "8-2"
   },
   {
-    "name": "준인",
-    "level": 85,
-    "grade": 21,
-    "class": "IncenseArcher",
-    "guild": "홀리데이",
-    "world": "8-2"
-  },
-  {
     "name": "하츠코이",
     "level": 85,
     "grade": 22,
     "class": "SolarSentinel",
+    "guild": "홀리데이",
+    "world": "8-2"
+  },
+  {
+    "name": "준인",
+    "level": 85,
+    "grade": 21,
+    "class": "IncenseArcher",
     "guild": "홀리데이",
     "world": "8-2"
   },
@@ -15000,19 +15000,19 @@
     "world": "8-4"
   },
   {
-    "name": "크다",
-    "level": 88,
-    "grade": 22,
-    "class": "RuneScribe",
-    "guild": "노터치",
-    "world": "8-4"
-  },
-  {
     "name": "만월",
     "level": 88,
     "grade": 22,
     "class": "IncenseArcher",
     "guild": "인연",
+    "world": "8-4"
+  },
+  {
+    "name": "크다",
+    "level": 88,
+    "grade": 22,
+    "class": "RuneScribe",
+    "guild": "노터치",
     "world": "8-4"
   },
   {
@@ -27080,19 +27080,19 @@
     "world": "12-4"
   },
   {
-    "name": "유진스",
-    "level": 81,
-    "grade": 16,
-    "class": "MirageBlade",
-    "guild": "지금",
-    "world": "12-4"
-  },
-  {
     "name": "루피",
     "level": 81,
     "grade": 15,
     "class": "IncenseArcher",
     "guild": "봄봄",
+    "world": "12-4"
+  },
+  {
+    "name": "유진스",
+    "level": 81,
+    "grade": 16,
+    "class": "MirageBlade",
+    "guild": "지금",
     "world": "12-4"
   },
   {
@@ -33848,19 +33848,19 @@
     "world": "16-3"
   },
   {
-    "name": "아니카",
-    "level": 84,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "스미스",
-    "world": "16-3"
-  },
-  {
     "name": "조선의활잡이",
     "level": 84,
     "grade": 20,
     "class": "Enforcer",
     "guild": "조선의활잡이",
+    "world": "16-3"
+  },
+  {
+    "name": "아니카",
+    "level": 84,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "스미스",
     "world": "16-3"
   },
   {
