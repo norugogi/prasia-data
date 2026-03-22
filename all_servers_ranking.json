@@ -5216,18 +5216,18 @@
     "world": "3-2"
   },
   {
-    "name": "재생할래요",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "MAD",
-    "world": "3-2"
-  },
-  {
     "name": "하마",
     "level": 88,
     "grade": 23,
     "class": "IncenseArcher",
+    "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "재생할래요",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
     "guild": "MAD",
     "world": "3-2"
   },
@@ -13434,7 +13434,7 @@
   {
     "name": "사이러스",
     "level": 83,
-    "grade": 19,
+    "grade": 20,
     "class": "IncenseArcher",
     "guild": "홀리데이",
     "world": "8-2"
@@ -14576,7 +14576,7 @@
     "world": "8-4"
   },
   {
-    "name": "닌자형",
+    "name": "곰터치",
     "level": 90,
     "grade": 24,
     "class": "SolarSentinel",
@@ -14584,7 +14584,7 @@
     "world": "8-4"
   },
   {
-    "name": "곰터치",
+    "name": "닌자형",
     "level": 90,
     "grade": 24,
     "class": "SolarSentinel",
@@ -15304,19 +15304,19 @@
     "world": "8-5"
   },
   {
-    "name": "토리형",
-    "level": 91,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "CodeName",
-    "world": "8-5"
-  },
-  {
     "name": "유비형",
     "level": 91,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "블랙중독",
+    "world": "8-5"
+  },
+  {
+    "name": "토리형",
+    "level": 91,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "CodeName",
     "world": "8-5"
   },
   {
@@ -19688,19 +19688,19 @@
     "world": "10-5"
   },
   {
-    "name": "사미환",
-    "level": 79,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "10-5"
-  },
-  {
     "name": "홍염",
     "level": 79,
     "grade": 15,
     "class": "Enforcer",
     "guild": "보라돌이",
+    "world": "10-5"
+  },
+  {
+    "name": "사미환",
+    "level": 79,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "10-5"
   },
   {
@@ -22808,19 +22808,19 @@
     "world": "11-4"
   },
   {
-    "name": "공아재",
-    "level": 83,
-    "grade": 18,
-    "class": "IncenseArcher",
-    "guild": "해피니스",
-    "world": "11-4"
-  },
-  {
     "name": "차에서하고싶어",
     "level": 83,
     "grade": 21,
     "class": "Enforcer",
     "guild": "AURA",
+    "world": "11-4"
+  },
+  {
+    "name": "공아재",
+    "level": 83,
+    "grade": 18,
+    "class": "IncenseArcher",
+    "guild": "해피니스",
     "world": "11-4"
   },
   {
@@ -25408,14 +25408,6 @@
     "world": "12-2"
   },
   {
-    "name": "이타치",
-    "level": 84,
-    "grade": 19,
-    "class": "AbyssRevenant",
-    "guild": "냐옹",
-    "world": "12-2"
-  },
-  {
     "name": "교촌도먹어줘",
     "level": 84,
     "grade": 20,
@@ -25429,6 +25421,14 @@
     "grade": 20,
     "class": "RuneScribe",
     "guild": "킹덤",
+    "world": "12-2"
+  },
+  {
+    "name": "이타치",
+    "level": 84,
+    "grade": 19,
+    "class": "AbyssRevenant",
+    "guild": "냐옹",
     "world": "12-2"
   },
   {
@@ -26528,7 +26528,7 @@
     "world": "12-4"
   },
   {
-    "name": "봄담아",
+    "name": "꼬맹이",
     "level": 86,
     "grade": 21,
     "class": "IncenseArcher",
@@ -26536,7 +26536,7 @@
     "world": "12-4"
   },
   {
-    "name": "꼬맹이",
+    "name": "봄담아",
     "level": 86,
     "grade": 21,
     "class": "IncenseArcher",
@@ -31290,7 +31290,7 @@
   {
     "name": "월화수목금토딜",
     "level": 88,
-    "grade": 22,
+    "grade": 23,
     "class": "SolarSentinel",
     "guild": "핑크좀비",
     "world": "14-5"
@@ -31744,18 +31744,18 @@
     "world": "14-5"
   },
   {
-    "name": "절대",
-    "level": 83,
-    "grade": 19,
-    "class": "MirageBlade",
-    "guild": "마커스평화",
-    "world": "14-5"
-  },
-  {
     "name": "마키마",
     "level": 83,
     "grade": 19,
     "class": "SolarSentinel",
+    "guild": "마커스평화",
+    "world": "14-5"
+  },
+  {
+    "name": "절대",
+    "level": 83,
+    "grade": 19,
+    "class": "MirageBlade",
     "guild": "마커스평화",
     "world": "14-5"
   },
@@ -33128,19 +33128,19 @@
     "world": "16-2"
   },
   {
-    "name": "아저씨왕",
-    "level": 85,
-    "grade": 21,
-    "class": "MirageBlade",
-    "guild": "과거의상어사자",
-    "world": "16-2"
-  },
-  {
     "name": "이광수",
     "level": 85,
     "grade": 22,
     "class": "AbyssRevenant",
     "guild": "연예인결사",
+    "world": "16-2"
+  },
+  {
+    "name": "아저씨왕",
+    "level": 85,
+    "grade": 21,
+    "class": "MirageBlade",
+    "guild": "과거의상어사자",
     "world": "16-2"
   },
   {
