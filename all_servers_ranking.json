@@ -4249,7 +4249,7 @@
   },
   {
     "name": "이상해상구",
-    "level": 87,
+    "level": 88,
     "grade": 24,
     "class": "MirageBlade",
     "guild": "이상해",
@@ -5504,19 +5504,19 @@
     "world": "3-2"
   },
   {
-    "name": "청실",
-    "level": 86,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "아마존",
-    "world": "3-2"
-  },
-  {
     "name": "지예은",
     "level": 86,
     "grade": 22,
     "class": "SolarSentinel",
     "guild": "ZED",
+    "world": "3-2"
+  },
+  {
+    "name": "청실",
+    "level": 86,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "아마존",
     "world": "3-2"
   },
   {
@@ -14976,14 +14976,6 @@
     "world": "8-4"
   },
   {
-    "name": "김정힐",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "노터치",
-    "world": "8-4"
-  },
-  {
     "name": "야광토끼",
     "level": 88,
     "grade": 23,
@@ -14997,6 +14989,14 @@
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
+    "name": "김정힐",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "노터치",
     "world": "8-4"
   },
   {
@@ -15280,19 +15280,19 @@
     "world": "8-5"
   },
   {
-    "name": "코카콜라",
-    "level": 91,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "강윅팜",
     "level": 91,
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "강북",
+    "world": "8-5"
+  },
+  {
+    "name": "코카콜라",
+    "level": 91,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -16752,19 +16752,19 @@
     "world": "10-1"
   },
   {
-    "name": "바캉스",
-    "level": 76,
-    "grade": 15,
-    "class": "SolarSentinel",
-    "guild": "추론",
-    "world": "10-1"
-  },
-  {
     "name": "키릭스",
     "level": 76,
     "grade": 12,
     "class": "SolarSentinel",
     "guild": "프로선수",
+    "world": "10-1"
+  },
+  {
+    "name": "바캉스",
+    "level": 76,
+    "grade": 15,
+    "class": "SolarSentinel",
+    "guild": "추론",
     "world": "10-1"
   },
   {
@@ -23920,19 +23920,19 @@
     "world": "11-5"
   },
   {
-    "name": "원더",
-    "level": 75,
-    "grade": 14,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "11-5"
-  },
-  {
     "name": "살바토레페레가모",
     "level": 75,
     "grade": 12,
     "class": "Enforcer",
     "guild": "신세계백화점",
+    "world": "11-5"
+  },
+  {
+    "name": "원더",
+    "level": 75,
+    "grade": 14,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "11-5"
   },
   {
@@ -29104,19 +29104,19 @@
     "world": "14-2"
   },
   {
-    "name": "한치",
-    "level": 85,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "아기고양이",
-    "world": "14-2"
-  },
-  {
     "name": "다이야",
     "level": 85,
     "grade": 20,
     "class": "AbyssRevenant",
     "guild": "드라마",
+    "world": "14-2"
+  },
+  {
+    "name": "한치",
+    "level": 85,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "아기고양이",
     "world": "14-2"
   },
   {
@@ -34640,19 +34640,19 @@
     "world": "16-4"
   },
   {
-    "name": "기프트",
-    "level": 84,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "MILLI",
-    "world": "16-4"
-  },
-  {
     "name": "인도후추카레먹고사망",
     "level": 84,
     "grade": 20,
     "class": "MirageBlade",
     "guild": "신분증",
+    "world": "16-4"
+  },
+  {
+    "name": "기프트",
+    "level": 84,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "MILLI",
     "world": "16-4"
   },
   {
@@ -35560,19 +35560,19 @@
     "world": "16-5"
   },
   {
-    "name": "간츠",
-    "level": 83,
-    "grade": 21,
-    "class": "MirageBlade",
-    "guild": "마왕군",
-    "world": "16-5"
-  },
-  {
     "name": "파이리",
     "level": 83,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "푸릇",
+    "world": "16-5"
+  },
+  {
+    "name": "간츠",
+    "level": 83,
+    "grade": 21,
+    "class": "MirageBlade",
+    "guild": "마왕군",
     "world": "16-5"
   },
   {
