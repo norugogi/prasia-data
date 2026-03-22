@@ -624,19 +624,19 @@
     "world": "2-1"
   },
   {
-    "name": "우저",
-    "level": 80,
-    "grade": 15,
-    "class": "IncenseArcher",
-    "guild": "카렐일섭",
-    "world": "2-1"
-  },
-  {
     "name": "깨꼬닥",
     "level": 80,
     "grade": 16,
     "class": "IncenseArcher",
     "guild": "매트",
+    "world": "2-1"
+  },
+  {
+    "name": "우저",
+    "level": 80,
+    "grade": 15,
+    "class": "IncenseArcher",
+    "guild": "카렐일섭",
     "world": "2-1"
   },
   {
@@ -4208,19 +4208,19 @@
     "world": "3-1"
   },
   {
-    "name": "해질녘쿵쿵따",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "이상해",
-    "world": "3-1"
-  },
-  {
     "name": "왜곡",
     "level": 88,
     "grade": 23,
     "class": "Enforcer",
     "guild": "NO",
+    "world": "3-1"
+  },
+  {
+    "name": "해질녘쿵쿵따",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "이상해",
     "world": "3-1"
   },
   {
@@ -4400,19 +4400,19 @@
     "world": "3-1"
   },
   {
-    "name": "이상한우기",
-    "level": 86,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "이상해",
-    "world": "3-1"
-  },
-  {
     "name": "미키",
     "level": 86,
     "grade": 21,
     "class": "RuneScribe",
     "guild": "NO",
+    "world": "3-1"
+  },
+  {
+    "name": "이상한우기",
+    "level": 86,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "이상해",
     "world": "3-1"
   },
   {
@@ -16232,19 +16232,19 @@
     "world": "10-1"
   },
   {
-    "name": "미루짱맨",
-    "level": 82,
-    "grade": 18,
-    "class": "SolarSentinel",
-    "guild": "미루루",
-    "world": "10-1"
-  },
-  {
     "name": "쥬센",
     "level": 82,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "영웅",
+    "world": "10-1"
+  },
+  {
+    "name": "미루짱맨",
+    "level": 82,
+    "grade": 18,
+    "class": "SolarSentinel",
+    "guild": "미루루",
     "world": "10-1"
   },
   {
@@ -33368,6 +33368,14 @@
     "world": "16-2"
   },
   {
+    "name": "눈사람",
+    "level": 84,
+    "grade": 20,
+    "class": "SolarSentinel",
+    "guild": "니들이버기단을알어",
+    "world": "16-2"
+  },
+  {
     "name": "이선빈",
     "level": 84,
     "grade": 20,
@@ -33381,14 +33389,6 @@
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "연예인결사",
-    "world": "16-2"
-  },
-  {
-    "name": "눈사람",
-    "level": 84,
-    "grade": 20,
-    "class": "SolarSentinel",
-    "guild": "니들이버기단을알어",
     "world": "16-2"
   },
   {
