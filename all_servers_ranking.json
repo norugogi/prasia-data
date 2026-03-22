@@ -3784,19 +3784,19 @@
     "world": "2-5"
   },
   {
-    "name": "유아",
-    "level": 80,
-    "grade": 15,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "2-5"
-  },
-  {
     "name": "지옥판사",
     "level": 80,
     "grade": 15,
     "class": "AbyssRevenant",
     "guild": "별",
+    "world": "2-5"
+  },
+  {
+    "name": "유아",
+    "level": 80,
+    "grade": 15,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "2-5"
   },
   {
@@ -4448,6 +4448,14 @@
     "world": "3-1"
   },
   {
+    "name": "시가렛",
+    "level": 86,
+    "grade": 22,
+    "class": "IncenseArcher",
+    "guild": "NO",
+    "world": "3-1"
+  },
+  {
     "name": "불곰마법사",
     "level": 86,
     "grade": 21,
@@ -4477,14 +4485,6 @@
     "grade": 21,
     "class": "IncenseArcher",
     "guild": "이상해",
-    "world": "3-1"
-  },
-  {
-    "name": "시가렛",
-    "level": 86,
-    "grade": 22,
-    "class": "IncenseArcher",
-    "guild": "NO",
     "world": "3-1"
   },
   {
@@ -4968,19 +4968,19 @@
     "world": "3-2"
   },
   {
+    "name": "지옥",
+    "level": 90,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "MAD",
+    "world": "3-2"
+  },
+  {
     "name": "거미",
     "level": 90,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "아마존",
-    "world": "3-2"
-  },
-  {
-    "name": "지옥",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "MAD",
     "world": "3-2"
   },
   {
@@ -15272,19 +15272,19 @@
     "world": "8-5"
   },
   {
-    "name": "코카콜라",
-    "level": 91,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "나나나나",
     "level": 91,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "축복",
+    "world": "8-5"
+  },
+  {
+    "name": "코카콜라",
+    "level": 91,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -28520,19 +28520,19 @@
     "world": "14-1"
   },
   {
-    "name": "삐삐",
-    "level": 80,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "치면죽음",
-    "world": "14-1"
-  },
-  {
     "name": "잉어킹",
     "level": 80,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "인벌",
+    "world": "14-1"
+  },
+  {
+    "name": "삐삐",
+    "level": 80,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "치면죽음",
     "world": "14-1"
   },
   {
