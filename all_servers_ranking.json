@@ -1770,7 +1770,7 @@
   {
     "name": "윤아",
     "level": 82,
-    "grade": 18,
+    "grade": 19,
     "class": "RuneScribe",
     "guild": "불꽃",
     "world": "2-3"
@@ -4968,7 +4968,7 @@
     "world": "3-2"
   },
   {
-    "name": "지옥",
+    "name": "하시모토칸나",
     "level": 90,
     "grade": 24,
     "class": "SolarSentinel",
@@ -4976,8 +4976,8 @@
     "world": "3-2"
   },
   {
-    "name": "하시모토칸나",
-    "level": 90,
+    "name": "지옥",
+    "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "MAD",
@@ -8072,18 +8072,18 @@
     "world": "5-1"
   },
   {
-    "name": "시그짱돌",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "시그니처",
-    "world": "5-1"
-  },
-  {
     "name": "그림리퍼",
     "level": 90,
     "grade": 24,
     "class": "MirageBlade",
+    "guild": "시그니처",
+    "world": "5-1"
+  },
+  {
+    "name": "시그짱돌",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
     "guild": "시그니처",
     "world": "5-1"
   },
@@ -13088,6 +13088,14 @@
     "world": "8-2"
   },
   {
+    "name": "홀리웅스",
+    "level": 85,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "홀리데이",
+    "world": "8-2"
+  },
+  {
     "name": "유니우니",
     "level": 85,
     "grade": 22,
@@ -13101,14 +13109,6 @@
     "grade": 20,
     "class": "AbyssRevenant",
     "guild": "전설",
-    "world": "8-2"
-  },
-  {
-    "name": "홀리웅스",
-    "level": 85,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "홀리데이",
     "world": "8-2"
   },
   {
@@ -14425,7 +14425,7 @@
   },
   {
     "name": "러너",
-    "level": 91,
+    "level": 92,
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "GOAT",
@@ -15080,6 +15080,14 @@
     "world": "8-4"
   },
   {
+    "name": "여름밤",
+    "level": 88,
+    "grade": 22,
+    "class": "MirageBlade",
+    "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
     "name": "김힐성",
     "level": 88,
     "grade": 23,
@@ -15100,14 +15108,6 @@
     "level": 88,
     "grade": 22,
     "class": "RuneScribe",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
-    "name": "여름밤",
-    "level": 88,
-    "grade": 22,
-    "class": "MirageBlade",
     "guild": "GOAT",
     "world": "8-4"
   },
@@ -15600,14 +15600,6 @@
     "world": "8-5"
   },
   {
-    "name": "함마",
-    "level": 90,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "강남",
-    "world": "8-5"
-  },
-  {
     "name": "강코비",
     "level": 90,
     "grade": 24,
@@ -15620,6 +15612,14 @@
     "level": 90,
     "grade": 24,
     "class": "MirageBlade",
+    "guild": "강남",
+    "world": "8-5"
+  },
+  {
+    "name": "함마",
+    "level": 90,
+    "grade": 24,
+    "class": "SolarSentinel",
     "guild": "강남",
     "world": "8-5"
   },
@@ -22096,19 +22096,19 @@
     "world": "11-3"
   },
   {
-    "name": "항아리에빠진닭",
-    "level": 80,
-    "grade": 16,
-    "class": "Enforcer",
-    "guild": "아이우에오",
-    "world": "11-3"
-  },
-  {
     "name": "닥스훈트",
     "level": 80,
     "grade": 18,
     "class": "Enforcer",
     "guild": "바다",
+    "world": "11-3"
+  },
+  {
+    "name": "항아리에빠진닭",
+    "level": 80,
+    "grade": 16,
+    "class": "Enforcer",
+    "guild": "아이우에오",
     "world": "11-3"
   },
   {
@@ -22648,19 +22648,19 @@
     "world": "11-4"
   },
   {
-    "name": "치센",
-    "level": 85,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "몰루",
-    "world": "11-4"
-  },
-  {
     "name": "휴식비둘기",
     "level": 85,
     "grade": 19,
     "class": "Enforcer",
     "guild": "휴식",
+    "world": "11-4"
+  },
+  {
+    "name": "치센",
+    "level": 85,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "몰루",
     "world": "11-4"
   },
   {
@@ -39272,19 +39272,19 @@
     "world": "27-5"
   },
   {
-    "name": "애니",
-    "level": 82,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "넉살",
     "level": 82,
     "grade": 19,
     "class": "Enforcer",
     "guild": "운빨",
+    "world": "27-5"
+  },
+  {
+    "name": "애니",
+    "level": 82,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
