@@ -8272,18 +8272,18 @@
     "world": "5-1"
   },
   {
-    "name": "쯔리",
-    "level": 89,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "미깡",
-    "world": "5-1"
-  },
-  {
     "name": "NOVA",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
+    "guild": "미깡",
+    "world": "5-1"
+  },
+  {
+    "name": "쯔리",
+    "level": 89,
+    "grade": 24,
+    "class": "Enforcer",
     "guild": "미깡",
     "world": "5-1"
   },
@@ -19449,7 +19449,7 @@
   },
   {
     "name": "치지직",
-    "level": 81,
+    "level": 82,
     "grade": 18,
     "class": "Enforcer",
     "guild": "요양원",
@@ -29272,19 +29272,19 @@
     "world": "14-2"
   },
   {
-    "name": "변경합니다",
-    "level": 83,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "프리덤",
-    "world": "14-2"
-  },
-  {
     "name": "지정생존자",
     "level": 83,
     "grade": 19,
     "class": "MirageBlade",
     "guild": "드라마",
+    "world": "14-2"
+  },
+  {
+    "name": "변경합니다",
+    "level": 83,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "프리덤",
     "world": "14-2"
   },
   {
@@ -29560,14 +29560,6 @@
     "world": "14-2"
   },
   {
-    "name": "대장금",
-    "level": 81,
-    "grade": 17,
-    "class": "AbyssRevenant",
-    "guild": "드라마",
-    "world": "14-2"
-  },
-  {
     "name": "와일드터키레어브리드",
     "level": 81,
     "grade": 15,
@@ -29581,6 +29573,14 @@
     "grade": 16,
     "class": "RuneScribe",
     "guild": "펩시제로",
+    "world": "14-2"
+  },
+  {
+    "name": "대장금",
+    "level": 81,
+    "grade": 17,
+    "class": "AbyssRevenant",
+    "guild": "드라마",
     "world": "14-2"
   },
   {
@@ -39144,19 +39144,19 @@
     "world": "27-4"
   },
   {
-    "name": "카피바라",
-    "level": 78,
-    "grade": 16,
-    "class": "Enforcer",
-    "guild": null,
-    "world": "27-4"
-  },
-  {
     "name": "가브리엘",
     "level": 78,
     "grade": 16,
     "class": "Enforcer",
     "guild": "키자미x1분",
+    "world": "27-4"
+  },
+  {
+    "name": "카피바라",
+    "level": 78,
+    "grade": 16,
+    "class": "Enforcer",
+    "guild": null,
     "world": "27-4"
   },
   {
@@ -39384,19 +39384,19 @@
     "world": "27-5"
   },
   {
-    "name": "Thor",
-    "level": 80,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "운통",
     "level": 80,
     "grade": 18,
     "class": "Enforcer",
     "guild": "운빨",
+    "world": "27-5"
+  },
+  {
+    "name": "Thor",
+    "level": 80,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
@@ -39560,17 +39560,17 @@
     "world": "27-5"
   },
   {
-    "name": "히트",
+    "name": "미스틱",
     "level": 79,
-    "grade": 16,
+    "grade": 17,
     "class": "Enforcer",
     "guild": "봄도둑",
     "world": "27-5"
   },
   {
-    "name": "미스틱",
+    "name": "히트",
     "level": 79,
-    "grade": 17,
+    "grade": 16,
     "class": "Enforcer",
     "guild": "봄도둑",
     "world": "27-5"
@@ -39952,19 +39952,19 @@
     "world": "27-5"
   },
   {
-    "name": "시간",
-    "level": 78,
-    "grade": 15,
-    "class": "IncenseArcher",
-    "guild": "아퀴",
-    "world": "27-5"
-  },
-  {
     "name": "뭉치",
     "level": 78,
     "grade": 18,
     "class": "MirageBlade",
     "guild": "봄도둑",
+    "world": "27-5"
+  },
+  {
+    "name": "시간",
+    "level": 78,
+    "grade": 15,
+    "class": "IncenseArcher",
+    "guild": "아퀴",
     "world": "27-5"
   },
   {
