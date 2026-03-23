@@ -624,14 +624,6 @@
     "world": "2-1"
   },
   {
-    "name": "깨꼬닥",
-    "level": 80,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": "매트",
-    "world": "2-1"
-  },
-  {
     "name": "우저",
     "level": 80,
     "grade": 15,
@@ -645,6 +637,14 @@
     "grade": 15,
     "class": "MirageBlade",
     "guild": "새싹",
+    "world": "2-1"
+  },
+  {
+    "name": "깨꼬닥",
+    "level": 79,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": "매트",
     "world": "2-1"
   },
   {
@@ -3104,19 +3104,19 @@
     "world": "2-4"
   },
   {
-    "name": "TANG",
-    "level": 78,
-    "grade": 16,
-    "class": "Enforcer",
-    "guild": "사신단",
-    "world": "2-4"
-  },
-  {
     "name": "아빠비상금차트렁크",
     "level": 78,
     "grade": 15,
     "class": "IncenseArcher",
     "guild": null,
+    "world": "2-4"
+  },
+  {
+    "name": "TANG",
+    "level": 78,
+    "grade": 16,
+    "class": "Enforcer",
+    "guild": "사신단",
     "world": "2-4"
   },
   {
@@ -15368,14 +15368,6 @@
     "world": "8-5"
   },
   {
-    "name": "늑골뽑기",
-    "level": 91,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "핫가이",
     "level": 91,
     "grade": 24,
@@ -15405,6 +15397,14 @@
     "grade": 24,
     "class": "MirageBlade",
     "guild": "블랙중독",
+    "world": "8-5"
+  },
+  {
+    "name": "늑골뽑기",
+    "level": 91,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -16768,19 +16768,19 @@
     "world": "10-1"
   },
   {
-    "name": "치수성적서",
-    "level": 76,
-    "grade": 13,
-    "class": "SolarSentinel",
-    "guild": "짜증을내어서무얼하나",
-    "world": "10-1"
-  },
-  {
     "name": "차차",
     "level": 76,
     "grade": 3,
     "class": "IncenseArcher",
     "guild": "동네형들",
+    "world": "10-1"
+  },
+  {
+    "name": "치수성적서",
+    "level": 76,
+    "grade": 13,
+    "class": "SolarSentinel",
+    "guild": "짜증을내어서무얼하나",
     "world": "10-1"
   },
   {
@@ -17049,7 +17049,7 @@
   },
   {
     "name": "호롱",
-    "level": 84,
+    "level": 85,
     "grade": 19,
     "class": "Enforcer",
     "guild": "숙숙",
@@ -22808,19 +22808,19 @@
     "world": "11-4"
   },
   {
-    "name": "차에서하고싶어",
-    "level": 83,
-    "grade": 21,
-    "class": "Enforcer",
-    "guild": "AURA",
-    "world": "11-4"
-  },
-  {
     "name": "공아재",
     "level": 83,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "해피니스",
+    "world": "11-4"
+  },
+  {
+    "name": "차에서하고싶어",
+    "level": 83,
+    "grade": 21,
+    "class": "Enforcer",
+    "guild": "AURA",
     "world": "11-4"
   },
   {
@@ -25320,14 +25320,6 @@
     "world": "12-2"
   },
   {
-    "name": "페리카나",
-    "level": 84,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "페리카나주문진점",
-    "world": "12-2"
-  },
-  {
     "name": "세라스트",
     "level": 84,
     "grade": 20,
@@ -25341,6 +25333,14 @@
     "grade": 21,
     "class": "IncenseArcher",
     "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
+    "name": "페리카나",
+    "level": 84,
+    "grade": 20,
+    "class": "IncenseArcher",
+    "guild": "페리카나주문진점",
     "world": "12-2"
   },
   {
@@ -34224,6 +34224,14 @@
     "world": "16-3"
   },
   {
+    "name": "고주몽",
+    "level": 82,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "조선의활잡이",
+    "world": "16-3"
+  },
+  {
     "name": "곤니찌와",
     "level": 82,
     "grade": 18,
@@ -34237,14 +34245,6 @@
     "grade": 18,
     "class": "MirageBlade",
     "guild": "교도소",
-    "world": "16-3"
-  },
-  {
-    "name": "고주몽",
-    "level": 81,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "조선의활잡이",
     "world": "16-3"
   },
   {
@@ -36004,7 +36004,7 @@
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
-    "guild": "캐츠",
+    "guild": null,
     "world": "27-1"
   },
   {
@@ -36616,19 +36616,19 @@
     "world": "27-1"
   },
   {
-    "name": "전멸",
-    "level": 80,
-    "grade": 15,
-    "class": "AbyssRevenant",
-    "guild": "별",
-    "world": "27-1"
-  },
-  {
     "name": "소때려잡기",
     "level": 80,
     "grade": 17,
     "class": "Enforcer",
     "guild": "유기농",
+    "world": "27-1"
+  },
+  {
+    "name": "전멸",
+    "level": 80,
+    "grade": 15,
+    "class": "AbyssRevenant",
+    "guild": "별",
     "world": "27-1"
   },
   {
