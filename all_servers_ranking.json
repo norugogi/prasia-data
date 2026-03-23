@@ -3040,14 +3040,6 @@
     "world": "2-4"
   },
   {
-    "name": "길잡이",
-    "level": 78,
-    "grade": 15,
-    "class": "MirageBlade",
-    "guild": "길잡이",
-    "world": "2-4"
-  },
-  {
     "name": "BASSA",
     "level": 78,
     "grade": 12,
@@ -3061,6 +3053,14 @@
     "grade": 15,
     "class": "SolarSentinel",
     "guild": null,
+    "world": "2-4"
+  },
+  {
+    "name": "길잡이",
+    "level": 78,
+    "grade": 15,
+    "class": "MirageBlade",
+    "guild": "길잡이",
     "world": "2-4"
   },
   {
@@ -4704,19 +4704,19 @@
     "world": "3-1"
   },
   {
-    "name": "푸틴의홍차",
-    "level": 84,
-    "grade": 18,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "3-1"
-  },
-  {
     "name": "스으더덕",
     "level": 84,
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "NO",
+    "world": "3-1"
+  },
+  {
+    "name": "푸틴의홍차",
+    "level": 84,
+    "grade": 18,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "3-1"
   },
   {
@@ -8264,6 +8264,14 @@
     "world": "5-1"
   },
   {
+    "name": "쯔리",
+    "level": 89,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "미깡",
+    "world": "5-1"
+  },
+  {
     "name": "NOVA",
     "level": 89,
     "grade": 24,
@@ -8276,14 +8284,6 @@
     "level": 89,
     "grade": 22,
     "class": "IncenseArcher",
-    "guild": "미깡",
-    "world": "5-1"
-  },
-  {
-    "name": "쯔리",
-    "level": 89,
-    "grade": 24,
-    "class": "Enforcer",
     "guild": "미깡",
     "world": "5-1"
   },
@@ -11832,19 +11832,19 @@
     "world": "5-5"
   },
   {
-    "name": "고독한나그네",
-    "level": 87,
-    "grade": 22,
-    "class": "AbyssRevenant",
-    "guild": "경남지역",
-    "world": "5-5"
-  },
-  {
     "name": "김부각",
     "level": 87,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "CATT",
+    "world": "5-5"
+  },
+  {
+    "name": "고독한나그네",
+    "level": 87,
+    "grade": 22,
+    "class": "AbyssRevenant",
+    "guild": "경남지역",
     "world": "5-5"
   },
   {
@@ -11920,14 +11920,6 @@
     "world": "5-5"
   },
   {
-    "name": "샬롯",
-    "level": 87,
-    "grade": 21,
-    "class": "AbyssRevenant",
-    "guild": "DOG",
-    "world": "5-5"
-  },
-  {
     "name": "검방",
     "level": 87,
     "grade": 22,
@@ -11941,6 +11933,14 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "CATT",
+    "world": "5-5"
+  },
+  {
+    "name": "샬롯",
+    "level": 87,
+    "grade": 21,
+    "class": "AbyssRevenant",
+    "guild": "DOG",
     "world": "5-5"
   },
   {
@@ -13985,7 +13985,7 @@
   },
   {
     "name": "관우",
-    "level": 79,
+    "level": 80,
     "grade": 15,
     "class": "RuneScribe",
     "guild": "투팩",
@@ -14824,14 +14824,6 @@
     "world": "8-4"
   },
   {
-    "name": "뽀글",
-    "level": 89,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "하읭",
     "level": 89,
     "grade": 24,
@@ -14853,6 +14845,14 @@
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "뽀글",
+    "level": 89,
+    "grade": 23,
+    "class": "IncenseArcher",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -15088,18 +15088,18 @@
     "world": "8-4"
   },
   {
-    "name": "카페",
-    "level": 88,
-    "grade": 24,
-    "class": "AbyssRevenant",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "여름밤",
     "level": 88,
     "grade": 22,
     "class": "MirageBlade",
+    "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
+    "name": "카페",
+    "level": 88,
+    "grade": 24,
+    "class": "AbyssRevenant",
     "guild": "GOAT",
     "world": "8-4"
   },
@@ -15608,6 +15608,14 @@
     "world": "8-5"
   },
   {
+    "name": "강코비",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "강남",
+    "world": "8-5"
+  },
+  {
     "name": "영철이",
     "level": 90,
     "grade": 24,
@@ -15620,14 +15628,6 @@
     "level": 90,
     "grade": 24,
     "class": "MirageBlade",
-    "guild": "강남",
-    "world": "8-5"
-  },
-  {
-    "name": "강코비",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
     "guild": "강남",
     "world": "8-5"
   },
@@ -25432,19 +25432,19 @@
     "world": "12-2"
   },
   {
-    "name": "더킹",
-    "level": 84,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "냐옹",
-    "world": "12-2"
-  },
-  {
     "name": "조성",
     "level": 84,
     "grade": 18,
     "class": "RuneScribe",
     "guild": "전당포",
+    "world": "12-2"
+  },
+  {
+    "name": "더킹",
+    "level": 84,
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "냐옹",
     "world": "12-2"
   },
   {
@@ -28432,18 +28432,18 @@
     "world": "14-1"
   },
   {
-    "name": "페페",
-    "level": 81,
-    "grade": 15,
-    "class": "SolarSentinel",
-    "guild": "우정",
-    "world": "14-1"
-  },
-  {
     "name": "엘모",
     "level": 81,
     "grade": 17,
     "class": "MirageBlade",
+    "guild": "우정",
+    "world": "14-1"
+  },
+  {
+    "name": "페페",
+    "level": 81,
+    "grade": 15,
+    "class": "SolarSentinel",
     "guild": "우정",
     "world": "14-1"
   },
@@ -36864,19 +36864,19 @@
     "world": "27-2"
   },
   {
-    "name": "우디",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "천랑성",
-    "world": "27-2"
-  },
-  {
     "name": "쟁탈이",
     "level": 87,
     "grade": 24,
     "class": "Enforcer",
     "guild": "북극성",
+    "world": "27-2"
+  },
+  {
+    "name": "우디",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "천랑성",
     "world": "27-2"
   },
   {
@@ -38956,7 +38956,7 @@
     "level": 80,
     "grade": 16,
     "class": "Enforcer",
-    "guild": null,
+    "guild": "폭풍",
     "world": "27-4"
   },
   {
@@ -39176,19 +39176,19 @@
     "world": "27-4"
   },
   {
-    "name": "당디만",
-    "level": 78,
-    "grade": 15,
-    "class": "AbyssRevenant",
-    "guild": null,
-    "world": "27-4"
-  },
-  {
     "name": "박찐빵",
     "level": 78,
     "grade": 16,
     "class": "Enforcer",
     "guild": "Nan",
+    "world": "27-4"
+  },
+  {
+    "name": "당디만",
+    "level": 78,
+    "grade": 15,
+    "class": "AbyssRevenant",
+    "guild": null,
     "world": "27-4"
   },
   {
