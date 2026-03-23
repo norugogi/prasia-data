@@ -13129,7 +13129,7 @@
   },
   {
     "name": "비무",
-    "level": 84,
+    "level": 85,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "홀리데이",
@@ -13296,19 +13296,19 @@
     "world": "8-2"
   },
   {
-    "name": "쌉가능",
-    "level": 83,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "홀리데이",
-    "world": "8-2"
-  },
-  {
     "name": "하오니",
     "level": 83,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "전설",
+    "world": "8-2"
+  },
+  {
+    "name": "쌉가능",
+    "level": 83,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "홀리데이",
     "world": "8-2"
   },
   {
@@ -14776,19 +14776,19 @@
     "world": "8-4"
   },
   {
-    "name": "지안",
-    "level": 89,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "방방",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "인연",
+    "world": "8-4"
+  },
+  {
+    "name": "지안",
+    "level": 89,
+    "grade": 23,
+    "class": "IncenseArcher",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -15632,18 +15632,18 @@
     "world": "8-5"
   },
   {
-    "name": "녹턴",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "축복",
-    "world": "8-5"
-  },
-  {
     "name": "티르",
     "level": 90,
     "grade": 24,
     "class": "MirageBlade",
+    "guild": "축복",
+    "world": "8-5"
+  },
+  {
+    "name": "녹턴",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
     "guild": "축복",
     "world": "8-5"
   },
@@ -15760,6 +15760,14 @@
     "world": "8-5"
   },
   {
+    "name": "강마스터이",
+    "level": 90,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "강남",
+    "world": "8-5"
+  },
+  {
     "name": "강타카",
     "level": 90,
     "grade": 24,
@@ -15781,14 +15789,6 @@
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "축복",
-    "world": "8-5"
-  },
-  {
-    "name": "강마스터이",
-    "level": 90,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "강남",
     "world": "8-5"
   },
   {
@@ -30856,19 +30856,19 @@
     "world": "14-4"
   },
   {
-    "name": "격노한마바링",
-    "level": 77,
-    "grade": 14,
-    "class": "SolarSentinel",
-    "guild": "왕의귀환",
-    "world": "14-4"
-  },
-  {
     "name": "유언",
     "level": 77,
     "grade": 12,
     "class": "IncenseArcher",
     "guild": "컨트롤",
+    "world": "14-4"
+  },
+  {
+    "name": "격노한마바링",
+    "level": 77,
+    "grade": 14,
+    "class": "SolarSentinel",
+    "guild": "왕의귀환",
     "world": "14-4"
   },
   {
@@ -33512,19 +33512,19 @@
     "world": "16-2"
   },
   {
-    "name": "뼈해장국",
-    "level": 83,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "화산",
-    "world": "16-2"
-  },
-  {
     "name": "오로라핑",
     "level": 83,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "허거덩",
+    "world": "16-2"
+  },
+  {
+    "name": "뼈해장국",
+    "level": 83,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "화산",
     "world": "16-2"
   },
   {
@@ -36864,19 +36864,19 @@
     "world": "27-2"
   },
   {
-    "name": "우디",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "천랑성",
-    "world": "27-2"
-  },
-  {
     "name": "쟁탈이",
     "level": 87,
     "grade": 24,
     "class": "Enforcer",
     "guild": "북극성",
+    "world": "27-2"
+  },
+  {
+    "name": "우디",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "천랑성",
     "world": "27-2"
   },
   {
@@ -37202,7 +37202,7 @@
   {
     "name": "바코드",
     "level": 84,
-    "grade": 22,
+    "grade": 23,
     "class": "IncenseArcher",
     "guild": "북극성",
     "world": "27-2"
@@ -37264,19 +37264,19 @@
     "world": "27-2"
   },
   {
-    "name": "아마존",
-    "level": 83,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "북극성",
-    "world": "27-2"
-  },
-  {
     "name": "두쫀쿠",
     "level": 83,
     "grade": 18,
     "class": "Enforcer",
     "guild": "천랑성",
+    "world": "27-2"
+  },
+  {
+    "name": "아마존",
+    "level": 83,
+    "grade": 20,
+    "class": "IncenseArcher",
+    "guild": "북극성",
     "world": "27-2"
   },
   {
