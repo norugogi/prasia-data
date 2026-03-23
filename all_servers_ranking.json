@@ -14824,14 +14824,6 @@
     "world": "8-4"
   },
   {
-    "name": "뽀글",
-    "level": 89,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "하읭",
     "level": 89,
     "grade": 24,
@@ -14853,6 +14845,14 @@
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "뽀글",
+    "level": 89,
+    "grade": 23,
+    "class": "IncenseArcher",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -23745,7 +23745,7 @@
   },
   {
     "name": "스이",
-    "level": 77,
+    "level": 78,
     "grade": 16,
     "class": "IncenseArcher",
     "guild": "보급은하",
@@ -31376,7 +31376,7 @@
     "world": "14-5"
   },
   {
-    "name": "현미밥",
+    "name": "침착",
     "level": 86,
     "grade": 21,
     "class": "MirageBlade",
@@ -31384,7 +31384,7 @@
     "world": "14-5"
   },
   {
-    "name": "침착",
+    "name": "현미밥",
     "level": 86,
     "grade": 21,
     "class": "MirageBlade",
@@ -36768,19 +36768,19 @@
     "world": "27-1"
   },
   {
-    "name": "포르쉐",
-    "level": 79,
-    "grade": 15,
-    "class": "SolarSentinel",
-    "guild": "바다",
-    "world": "27-1"
-  },
-  {
     "name": "욜로",
     "level": 79,
     "grade": 16,
     "class": "AbyssRevenant",
     "guild": "로맨틱",
+    "world": "27-1"
+  },
+  {
+    "name": "포르쉐",
+    "level": 79,
+    "grade": 15,
+    "class": "SolarSentinel",
+    "guild": "바다",
     "world": "27-1"
   },
   {
