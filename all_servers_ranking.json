@@ -1584,19 +1584,19 @@
     "world": "2-2"
   },
   {
-    "name": "서서솨",
-    "level": 78,
-    "grade": 17,
-    "class": "MirageBlade",
-    "guild": "미라클",
-    "world": "2-2"
-  },
-  {
     "name": "크리스티앙데메디치",
     "level": 78,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "창세기전",
+    "world": "2-2"
+  },
+  {
+    "name": "서서솨",
+    "level": 78,
+    "grade": 17,
+    "class": "MirageBlade",
+    "guild": "미라클",
     "world": "2-2"
   },
   {
@@ -5808,19 +5808,19 @@
     "world": "3-3"
   },
   {
-    "name": "새송이",
-    "level": 89,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "광혼",
-    "world": "3-3"
-  },
-  {
     "name": "악무",
     "level": 89,
     "grade": 23,
     "class": "Enforcer",
     "guild": "가을",
+    "world": "3-3"
+  },
+  {
+    "name": "새송이",
+    "level": 89,
+    "grade": 24,
+    "class": "MirageBlade",
+    "guild": "광혼",
     "world": "3-3"
   },
   {
@@ -15504,19 +15504,19 @@
     "world": "8-5"
   },
   {
-    "name": "강속구",
-    "level": 90,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "강남",
-    "world": "8-5"
-  },
-  {
     "name": "실론형",
     "level": 90,
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "강속구",
+    "level": 90,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "강남",
     "world": "8-5"
   },
   {
@@ -16232,14 +16232,6 @@
     "world": "10-1"
   },
   {
-    "name": "쥬센",
-    "level": 82,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "영웅",
-    "world": "10-1"
-  },
-  {
     "name": "미루짱맨",
     "level": 82,
     "grade": 18,
@@ -16253,6 +16245,14 @@
     "grade": 16,
     "class": "SolarSentinel",
     "guild": "미루루",
+    "world": "10-1"
+  },
+  {
+    "name": "쥬센",
+    "level": 82,
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "영웅",
     "world": "10-1"
   },
   {
@@ -32952,19 +32952,19 @@
     "world": "16-2"
   },
   {
-    "name": "현무",
-    "level": 87,
-    "grade": 22,
-    "class": "AbyssRevenant",
-    "guild": "화산",
-    "world": "16-2"
-  },
-  {
     "name": "비의랩소디",
     "level": 87,
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "연예인결사",
+    "world": "16-2"
+  },
+  {
+    "name": "현무",
+    "level": 87,
+    "grade": 22,
+    "class": "AbyssRevenant",
+    "guild": "화산",
     "world": "16-2"
   },
   {
@@ -33056,6 +33056,14 @@
     "world": "16-2"
   },
   {
+    "name": "연예인",
+    "level": 86,
+    "grade": 22,
+    "class": "RuneScribe",
+    "guild": "연예인결사",
+    "world": "16-2"
+  },
+  {
     "name": "장혁",
     "level": 86,
     "grade": 20,
@@ -33077,14 +33085,6 @@
     "grade": 21,
     "class": "RuneScribe",
     "guild": "화산",
-    "world": "16-2"
-  },
-  {
-    "name": "연예인",
-    "level": 86,
-    "grade": 22,
-    "class": "RuneScribe",
-    "guild": "연예인결사",
     "world": "16-2"
   },
   {
@@ -38304,19 +38304,19 @@
     "world": "27-3"
   },
   {
-    "name": "강치",
-    "level": 79,
-    "grade": 16,
-    "class": "AbyssRevenant",
-    "guild": "독도",
-    "world": "27-3"
-  },
-  {
     "name": "해준",
     "level": 79,
     "grade": 19,
     "class": "SolarSentinel",
     "guild": "메르비스",
+    "world": "27-3"
+  },
+  {
+    "name": "강치",
+    "level": 79,
+    "grade": 16,
+    "class": "AbyssRevenant",
+    "guild": "독도",
     "world": "27-3"
   },
   {
