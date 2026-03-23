@@ -8352,14 +8352,6 @@
     "world": "5-1"
   },
   {
-    "name": "심봉사",
-    "level": 89,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "미깡",
-    "world": "5-1"
-  },
-  {
     "name": "깡날여왕",
     "level": 89,
     "grade": 23,
@@ -8372,6 +8364,14 @@
     "level": 88,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "미깡",
+    "world": "5-1"
+  },
+  {
+    "name": "심봉사",
+    "level": 88,
+    "grade": 22,
+    "class": "Enforcer",
     "guild": "미깡",
     "world": "5-1"
   },
@@ -11224,19 +11224,19 @@
     "world": "5-5"
   },
   {
-    "name": "수꼬",
-    "level": 91,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "DOG",
-    "world": "5-5"
-  },
-  {
     "name": "홍인턴",
     "level": 91,
     "grade": 24,
     "class": "Enforcer",
     "guild": "더킹",
+    "world": "5-5"
+  },
+  {
+    "name": "수꼬",
+    "level": 91,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "DOG",
     "world": "5-5"
   },
   {
@@ -14512,19 +14512,19 @@
     "world": "8-4"
   },
   {
-    "name": "나좀비",
-    "level": 90,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "악연",
-    "world": "8-4"
-  },
-  {
     "name": "유시",
     "level": 90,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "나좀비",
+    "level": 90,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "악연",
     "world": "8-4"
   },
   {
@@ -15016,6 +15016,14 @@
     "world": "8-4"
   },
   {
+    "name": "그램",
+    "level": 88,
+    "grade": 24,
+    "class": "AbyssRevenant",
+    "guild": "노터치",
+    "world": "8-4"
+  },
+  {
     "name": "비빅",
     "level": 88,
     "grade": 23,
@@ -15045,14 +15053,6 @@
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "악연",
-    "world": "8-4"
-  },
-  {
-    "name": "그램",
-    "level": 88,
-    "grade": 24,
-    "class": "AbyssRevenant",
-    "guild": "노터치",
     "world": "8-4"
   },
   {
@@ -16520,19 +16520,19 @@
     "world": "10-1"
   },
   {
-    "name": "비앙키",
-    "level": 78,
-    "grade": 15,
-    "class": "SolarSentinel",
-    "guild": null,
-    "world": "10-1"
-  },
-  {
     "name": "트리니티",
     "level": 78,
     "grade": 15,
     "class": "Enforcer",
     "guild": "편하게",
+    "world": "10-1"
+  },
+  {
+    "name": "비앙키",
+    "level": 78,
+    "grade": 15,
+    "class": "SolarSentinel",
+    "guild": null,
     "world": "10-1"
   },
   {
@@ -18672,19 +18672,19 @@
     "world": "10-4"
   },
   {
-    "name": "비싸개",
-    "level": 85,
-    "grade": 20,
-    "class": "AbyssRevenant",
-    "guild": "힐싸개",
-    "world": "10-4"
-  },
-  {
     "name": "킹민지님",
     "level": 85,
     "grade": 19,
     "class": "Enforcer",
     "guild": "야옹",
+    "world": "10-4"
+  },
+  {
+    "name": "비싸개",
+    "level": 85,
+    "grade": 20,
+    "class": "AbyssRevenant",
+    "guild": "힐싸개",
     "world": "10-4"
   },
   {
@@ -24952,19 +24952,19 @@
     "world": "12-2"
   },
   {
-    "name": "한마리같은두마리",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "페리카나주문진점",
-    "world": "12-2"
-  },
-  {
     "name": "마라맛탕후루",
     "level": 87,
     "grade": 24,
     "class": "Enforcer",
     "guild": "전당포",
+    "world": "12-2"
+  },
+  {
+    "name": "한마리같은두마리",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "페리카나주문진점",
     "world": "12-2"
   },
   {
@@ -28488,14 +28488,6 @@
     "world": "14-1"
   },
   {
-    "name": "다크템플러",
-    "level": 81,
-    "grade": 17,
-    "class": "MirageBlade",
-    "guild": "시간의힘",
-    "world": "14-1"
-  },
-  {
     "name": "문빔",
     "level": 81,
     "grade": 16,
@@ -28509,6 +28501,14 @@
     "grade": 15,
     "class": "MirageBlade",
     "guild": null,
+    "world": "14-1"
+  },
+  {
+    "name": "다크템플러",
+    "level": 81,
+    "grade": 17,
+    "class": "MirageBlade",
+    "guild": "시간의힘",
     "world": "14-1"
   },
   {
@@ -31968,6 +31968,14 @@
     "world": "14-5"
   },
   {
+    "name": "봉꾸니",
+    "level": 82,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "핑크좀비",
+    "world": "14-5"
+  },
+  {
     "name": "우르르퉁퉁",
     "level": 82,
     "grade": 19,
@@ -31977,14 +31985,6 @@
   },
   {
     "name": "AZ",
-    "level": 82,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "핑크좀비",
-    "world": "14-5"
-  },
-  {
-    "name": "봉꾸니",
     "level": 82,
     "grade": 18,
     "class": "RuneScribe",
