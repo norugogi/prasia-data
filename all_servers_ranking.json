@@ -10208,19 +10208,19 @@
     "world": "5-3"
   },
   {
-    "name": "김더그레이트",
-    "level": 77,
-    "grade": 14,
-    "class": "SolarSentinel",
-    "guild": null,
-    "world": "5-3"
-  },
-  {
     "name": "금쪽",
     "level": 77,
     "grade": 14,
     "class": "AbyssRevenant",
     "guild": "백",
+    "world": "5-3"
+  },
+  {
+    "name": "김더그레이트",
+    "level": 77,
+    "grade": 14,
+    "class": "SolarSentinel",
+    "guild": null,
     "world": "5-3"
   },
   {
@@ -29144,19 +29144,19 @@
     "world": "14-2"
   },
   {
-    "name": "곰돌이푸푸",
-    "level": 84,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": null,
-    "world": "14-2"
-  },
-  {
     "name": "엔디",
     "level": 84,
     "grade": 21,
     "class": "Enforcer",
     "guild": "오브",
+    "world": "14-2"
+  },
+  {
+    "name": "곰돌이푸푸",
+    "level": 84,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": null,
     "world": "14-2"
   },
   {
@@ -38256,7 +38256,7 @@
     "world": "27-3"
   },
   {
-    "name": "부여정",
+    "name": "부여명",
     "level": 80,
     "grade": 18,
     "class": "Enforcer",
@@ -38264,7 +38264,7 @@
     "world": "27-3"
   },
   {
-    "name": "부여명",
+    "name": "부여정",
     "level": 80,
     "grade": 18,
     "class": "Enforcer",
