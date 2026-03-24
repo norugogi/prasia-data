@@ -1240,19 +1240,19 @@
     "world": "2-2"
   },
   {
-    "name": "흑기삼",
-    "level": 80,
-    "grade": 16,
-    "class": "MirageBlade",
-    "guild": "흑기삼",
-    "world": "2-2"
-  },
-  {
     "name": "아바라",
     "level": 80,
     "grade": 16,
     "class": "RuneScribe",
     "guild": "핑키원정대",
+    "world": "2-2"
+  },
+  {
+    "name": "흑기삼",
+    "level": 80,
+    "grade": 16,
+    "class": "MirageBlade",
+    "guild": "흑기삼",
     "world": "2-2"
   },
   {
@@ -3704,19 +3704,19 @@
     "world": "2-5"
   },
   {
-    "name": "얏삐",
-    "level": 80,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "2-5"
-  },
-  {
     "name": "보아요",
     "level": 80,
     "grade": 15,
     "class": "SolarSentinel",
     "guild": "리아",
+    "world": "2-5"
+  },
+  {
+    "name": "얏삐",
+    "level": 80,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "2-5"
   },
   {
@@ -5488,19 +5488,19 @@
     "world": "3-2"
   },
   {
-    "name": "불빛",
-    "level": 87,
-    "grade": 22,
-    "class": "AbyssRevenant",
-    "guild": "ZED",
-    "world": "3-2"
-  },
-  {
     "name": "풀무원로하스",
     "level": 87,
     "grade": 21,
     "class": "AbyssRevenant",
     "guild": "SAD",
+    "world": "3-2"
+  },
+  {
+    "name": "불빛",
+    "level": 87,
+    "grade": 22,
+    "class": "AbyssRevenant",
+    "guild": "ZED",
     "world": "3-2"
   },
   {
@@ -7144,19 +7144,19 @@
     "world": "3-4"
   },
   {
-    "name": "얼음창",
-    "level": 84,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "IYOU",
-    "world": "3-4"
-  },
-  {
     "name": "링거",
     "level": 84,
     "grade": 21,
     "class": "RuneScribe",
     "guild": "심판",
+    "world": "3-4"
+  },
+  {
+    "name": "얼음창",
+    "level": 84,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "IYOU",
     "world": "3-4"
   },
   {
@@ -32304,18 +32304,18 @@
     "world": "16-1"
   },
   {
-    "name": "열일중",
-    "level": 85,
-    "grade": 20,
-    "class": "SolarSentinel",
-    "guild": "프리아",
-    "world": "16-1"
-  },
-  {
     "name": "오늘도있는가",
     "level": 85,
     "grade": 19,
     "class": "RuneScribe",
+    "guild": "프리아",
+    "world": "16-1"
+  },
+  {
+    "name": "열일중",
+    "level": 85,
+    "grade": 20,
+    "class": "SolarSentinel",
     "guild": "프리아",
     "world": "16-1"
   },
@@ -38640,18 +38640,18 @@
     "world": "27-4"
   },
   {
-    "name": "신비",
-    "level": 82,
-    "grade": 19,
-    "class": "MirageBlade",
-    "guild": "Mystery",
-    "world": "27-4"
-  },
-  {
     "name": "MUSSO",
     "level": 82,
     "grade": 19,
     "class": "Enforcer",
+    "guild": "Mystery",
+    "world": "27-4"
+  },
+  {
+    "name": "신비",
+    "level": 82,
+    "grade": 19,
+    "class": "MirageBlade",
     "guild": "Mystery",
     "world": "27-4"
   },
