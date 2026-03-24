@@ -3600,19 +3600,19 @@
     "world": "2-5"
   },
   {
-    "name": "은하수",
-    "level": 81,
-    "grade": 18,
-    "class": "MirageBlade",
-    "guild": null,
-    "world": "2-5"
-  },
-  {
     "name": "화장실급해요",
     "level": 81,
     "grade": 18,
     "class": "Enforcer",
     "guild": "최고",
+    "world": "2-5"
+  },
+  {
+    "name": "은하수",
+    "level": 81,
+    "grade": 18,
+    "class": "MirageBlade",
+    "guild": null,
     "world": "2-5"
   },
   {
@@ -9760,6 +9760,14 @@
     "world": "5-3"
   },
   {
+    "name": "패러독스",
+    "level": 82,
+    "grade": 18,
+    "class": "IncenseArcher",
+    "guild": "결사명없음",
+    "world": "5-3"
+  },
+  {
     "name": "쿤코",
     "level": 82,
     "grade": 15,
@@ -9781,14 +9789,6 @@
     "grade": 17,
     "class": "Enforcer",
     "guild": "유애나",
-    "world": "5-3"
-  },
-  {
-    "name": "패러독스",
-    "level": 81,
-    "grade": 18,
-    "class": "IncenseArcher",
-    "guild": "결사명없음",
     "world": "5-3"
   },
   {
@@ -23056,19 +23056,19 @@
     "world": "11-4"
   },
   {
-    "name": "짹짹이",
-    "level": 81,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "마왕",
-    "world": "11-4"
-  },
-  {
     "name": "엑스텐",
     "level": 81,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "AURA",
+    "world": "11-4"
+  },
+  {
+    "name": "짹짹이",
+    "level": 81,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "마왕",
     "world": "11-4"
   },
   {
@@ -35632,18 +35632,18 @@
     "world": "16-5"
   },
   {
-    "name": "파이리",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "푸릇",
-    "world": "16-5"
-  },
-  {
     "name": "사과는영어로애플",
     "level": 83,
     "grade": 19,
     "class": "MirageBlade",
+    "guild": "푸릇",
+    "world": "16-5"
+  },
+  {
+    "name": "파이리",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
     "guild": "푸릇",
     "world": "16-5"
   },
