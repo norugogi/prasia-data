@@ -1785,7 +1785,7 @@
   },
   {
     "name": "사용자",
-    "level": 81,
+    "level": 82,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "유저",
@@ -25024,18 +25024,18 @@
     "world": "12-2"
   },
   {
-    "name": "사요나라",
-    "level": 86,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "전당포",
-    "world": "12-2"
-  },
-  {
     "name": "척살",
     "level": 86,
     "grade": 23,
     "class": "IncenseArcher",
+    "guild": "전당포",
+    "world": "12-2"
+  },
+  {
+    "name": "사요나라",
+    "level": 86,
+    "grade": 22,
+    "class": "Enforcer",
     "guild": "전당포",
     "world": "12-2"
   },
@@ -25392,6 +25392,14 @@
     "world": "12-2"
   },
   {
+    "name": "이타치",
+    "level": 84,
+    "grade": 19,
+    "class": "AbyssRevenant",
+    "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
     "name": "와칸다",
     "level": 84,
     "grade": 20,
@@ -25429,14 +25437,6 @@
     "grade": 20,
     "class": "RuneScribe",
     "guild": "전당포",
-    "world": "12-2"
-  },
-  {
-    "name": "이타치",
-    "level": 84,
-    "grade": 19,
-    "class": "AbyssRevenant",
-    "guild": "냐옹",
     "world": "12-2"
   },
   {
@@ -28540,7 +28540,7 @@
     "level": 80,
     "grade": 18,
     "class": "RuneScribe",
-    "guild": null,
+    "guild": "TT",
     "world": "14-1"
   },
   {
@@ -29321,7 +29321,7 @@
   },
   {
     "name": "졸규",
-    "level": 82,
+    "level": 83,
     "grade": 18,
     "class": "RuneScribe",
     "guild": "악마",
@@ -32296,6 +32296,14 @@
     "world": "16-1"
   },
   {
+    "name": "짠구",
+    "level": 85,
+    "grade": 21,
+    "class": "IncenseArcher",
+    "guild": "짠",
+    "world": "16-1"
+  },
+  {
     "name": "오늘도있는가",
     "level": 85,
     "grade": 19,
@@ -32340,14 +32348,6 @@
     "level": 84,
     "grade": 21,
     "class": "RuneScribe",
-    "guild": "짠",
-    "world": "16-1"
-  },
-  {
-    "name": "짠구",
-    "level": 84,
-    "grade": 21,
-    "class": "IncenseArcher",
     "guild": "짠",
     "world": "16-1"
   },
@@ -34224,14 +34224,6 @@
     "world": "16-3"
   },
   {
-    "name": "고주몽",
-    "level": 82,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "조선의활잡이",
-    "world": "16-3"
-  },
-  {
     "name": "그림그림",
     "level": 82,
     "grade": 18,
@@ -34245,6 +34237,14 @@
     "grade": 18,
     "class": "AbyssRevenant",
     "guild": "디아블로",
+    "world": "16-3"
+  },
+  {
+    "name": "고주몽",
+    "level": 82,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "조선의활잡이",
     "world": "16-3"
   },
   {
@@ -34392,11 +34392,11 @@
     "world": "16-3"
   },
   {
-    "name": "마법소",
+    "name": "칩이다",
     "level": 80,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "재미와여유사이",
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "디아블로",
     "world": "16-3"
   },
   {
@@ -37336,18 +37336,18 @@
     "world": "27-2"
   },
   {
-    "name": "라엘",
-    "level": 83,
-    "grade": 20,
-    "class": "MirageBlade",
-    "guild": "천랑성",
-    "world": "27-2"
-  },
-  {
     "name": "한발두발",
     "level": 83,
     "grade": 20,
     "class": "IncenseArcher",
+    "guild": "천랑성",
+    "world": "27-2"
+  },
+  {
+    "name": "라엘",
+    "level": 83,
+    "grade": 20,
+    "class": "MirageBlade",
     "guild": "천랑성",
     "world": "27-2"
   },
@@ -39202,7 +39202,7 @@
   {
     "name": "로즈",
     "level": 85,
-    "grade": 22,
+    "grade": 23,
     "class": "Enforcer",
     "guild": "운빨",
     "world": "27-5"
