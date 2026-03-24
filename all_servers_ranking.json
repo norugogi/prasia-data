@@ -1336,19 +1336,19 @@
     "world": "2-2"
   },
   {
-    "name": "이두장인",
-    "level": 80,
-    "grade": 16,
-    "class": "Enforcer",
-    "guild": "용사용사",
-    "world": "2-2"
-  },
-  {
     "name": "목동마력",
     "level": 80,
     "grade": 16,
     "class": "RuneScribe",
     "guild": "태양쭌",
+    "world": "2-2"
+  },
+  {
+    "name": "이두장인",
+    "level": 80,
+    "grade": 16,
+    "class": "Enforcer",
+    "guild": "용사용사",
     "world": "2-2"
   },
   {
@@ -1528,19 +1528,19 @@
     "world": "2-2"
   },
   {
-    "name": "ITTQ",
-    "level": 79,
-    "grade": 15,
-    "class": "SolarSentinel",
-    "guild": "사냥만합니다",
-    "world": "2-2"
-  },
-  {
     "name": "낭천",
     "level": 79,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "창세기전",
+    "world": "2-2"
+  },
+  {
+    "name": "ITTQ",
+    "level": 79,
+    "grade": 15,
+    "class": "SolarSentinel",
+    "guild": "사냥만합니다",
     "world": "2-2"
   },
   {
@@ -5304,19 +5304,19 @@
     "world": "3-2"
   },
   {
-    "name": "구공",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "아마존",
-    "world": "3-2"
-  },
-  {
     "name": "고양의고양이",
     "level": 87,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "구공",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "아마존",
     "world": "3-2"
   },
   {
@@ -11984,19 +11984,19 @@
     "world": "5-5"
   },
   {
-    "name": "어피치",
-    "level": 87,
-    "grade": 21,
-    "class": "AbyssRevenant",
-    "guild": "CATT",
-    "world": "5-5"
-  },
-  {
     "name": "준꼬",
     "level": 87,
     "grade": 24,
     "class": "Enforcer",
     "guild": "DOG",
+    "world": "5-5"
+  },
+  {
+    "name": "어피치",
+    "level": 87,
+    "grade": 21,
+    "class": "AbyssRevenant",
+    "guild": "CATT",
     "world": "5-5"
   },
   {
@@ -27112,19 +27112,19 @@
     "world": "12-4"
   },
   {
-    "name": "틀개",
-    "level": 81,
-    "grade": 18,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "12-4"
-  },
-  {
     "name": "윤수빈",
     "level": 81,
     "grade": 17,
     "class": "SolarSentinel",
     "guild": "천상",
+    "world": "12-4"
+  },
+  {
+    "name": "틀개",
+    "level": 81,
+    "grade": 18,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "12-4"
   },
   {
