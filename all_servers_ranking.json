@@ -1704,19 +1704,19 @@
     "world": "2-3"
   },
   {
-    "name": "나태",
-    "level": 83,
-    "grade": 18,
-    "class": "SolarSentinel",
-    "guild": "이디야",
-    "world": "2-3"
-  },
-  {
     "name": "리라로",
     "level": 83,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "중립",
+    "world": "2-3"
+  },
+  {
+    "name": "나태",
+    "level": 83,
+    "grade": 18,
+    "class": "SolarSentinel",
+    "guild": "이디야",
     "world": "2-3"
   },
   {
@@ -2760,19 +2760,19 @@
     "world": "2-4"
   },
   {
-    "name": "맘스터치",
-    "level": 81,
-    "grade": 16,
-    "class": "Enforcer",
-    "guild": null,
-    "world": "2-4"
-  },
-  {
     "name": "정상개씨",
     "level": 81,
     "grade": 17,
     "class": "RuneScribe",
     "guild": "신화",
+    "world": "2-4"
+  },
+  {
+    "name": "맘스터치",
+    "level": 81,
+    "grade": 16,
+    "class": "Enforcer",
+    "guild": null,
     "world": "2-4"
   },
   {
@@ -21672,6 +21672,14 @@
     "world": "11-3"
   },
   {
+    "name": "얄루",
+    "level": 86,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "유목민",
+    "world": "11-3"
+  },
+  {
     "name": "사이폰",
     "level": 86,
     "grade": 21,
@@ -21684,14 +21692,6 @@
     "level": 86,
     "grade": 20,
     "class": "MirageBlade",
-    "guild": "유목민",
-    "world": "11-3"
-  },
-  {
-    "name": "얄루",
-    "level": 86,
-    "grade": 19,
-    "class": "Enforcer",
     "guild": "유목민",
     "world": "11-3"
   },
@@ -29208,17 +29208,17 @@
     "world": "14-2"
   },
   {
-    "name": "태풍상사",
+    "name": "법쩐",
     "level": 84,
-    "grade": 20,
+    "grade": 21,
     "class": "AbyssRevenant",
     "guild": "드라마",
     "world": "14-2"
   },
   {
-    "name": "법쩐",
+    "name": "태풍상사",
     "level": 84,
-    "grade": 21,
+    "grade": 20,
     "class": "AbyssRevenant",
     "guild": "드라마",
     "world": "14-2"
@@ -39760,19 +39760,19 @@
     "world": "27-5"
   },
   {
-    "name": "란한",
-    "level": 78,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "아퀴",
-    "world": "27-5"
-  },
-  {
     "name": "미네랄",
     "level": 78,
     "grade": 15,
     "class": "MirageBlade",
     "guild": "봄도둑",
+    "world": "27-5"
+  },
+  {
+    "name": "란한",
+    "level": 78,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "아퀴",
     "world": "27-5"
   },
   {
