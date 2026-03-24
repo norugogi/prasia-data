@@ -400,19 +400,19 @@
     "world": "2-1"
   },
   {
-    "name": "개미지옥",
-    "level": 81,
-    "grade": 18,
-    "class": "SolarSentinel",
-    "guild": "자연인",
-    "world": "2-1"
-  },
-  {
     "name": "꼴까닥",
     "level": 81,
     "grade": 18,
     "class": "RuneScribe",
     "guild": "매트",
+    "world": "2-1"
+  },
+  {
+    "name": "개미지옥",
+    "level": 81,
+    "grade": 18,
+    "class": "SolarSentinel",
+    "guild": "자연인",
     "world": "2-1"
   },
   {
