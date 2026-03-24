@@ -7344,7 +7344,7 @@
     "world": "3-5"
   },
   {
-    "name": "오댕",
+    "name": "아뵤",
     "level": 90,
     "grade": 24,
     "class": "Enforcer",
@@ -7352,7 +7352,7 @@
     "world": "3-5"
   },
   {
-    "name": "아뵤",
+    "name": "오댕",
     "level": 90,
     "grade": 24,
     "class": "Enforcer",
@@ -7408,6 +7408,14 @@
     "world": "3-5"
   },
   {
+    "name": "향붕일",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "광기",
+    "world": "3-5"
+  },
+  {
     "name": "밍망키",
     "level": 89,
     "grade": 24,
@@ -7420,14 +7428,6 @@
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
-    "guild": "광기",
-    "world": "3-5"
-  },
-  {
-    "name": "향붕일",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
     "guild": "광기",
     "world": "3-5"
   },
@@ -7448,14 +7448,6 @@
     "world": "3-5"
   },
   {
-    "name": "빛달쨩",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "광인",
-    "world": "3-5"
-  },
-  {
     "name": "민운",
     "level": 89,
     "grade": 24,
@@ -7469,6 +7461,14 @@
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "광기",
+    "world": "3-5"
+  },
+  {
+    "name": "빛달쨩",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "광인",
     "world": "3-5"
   },
   {
