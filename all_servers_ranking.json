@@ -6201,7 +6201,7 @@
   },
   {
     "name": "님이십할",
-    "level": 86,
+    "level": 87,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "광혼",
@@ -6768,19 +6768,19 @@
     "world": "3-4"
   },
   {
-    "name": "독제로",
-    "level": 86,
-    "grade": 21,
-    "class": "MirageBlade",
-    "guild": "개",
-    "world": "3-4"
-  },
-  {
     "name": "돈까스망치",
     "level": 86,
     "grade": 23,
     "class": "Enforcer",
     "guild": "심판",
+    "world": "3-4"
+  },
+  {
+    "name": "독제로",
+    "level": 86,
+    "grade": 21,
+    "class": "MirageBlade",
+    "guild": "개",
     "world": "3-4"
   },
   {
@@ -7768,19 +7768,19 @@
     "world": "3-5"
   },
   {
-    "name": "유지수",
-    "level": 87,
-    "grade": 21,
-    "class": "RuneScribe",
-    "guild": "광기",
-    "world": "3-5"
-  },
-  {
     "name": "바엘",
     "level": 87,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "광인",
+    "world": "3-5"
+  },
+  {
+    "name": "유지수",
+    "level": 87,
+    "grade": 21,
+    "class": "RuneScribe",
+    "guild": "광기",
     "world": "3-5"
   },
   {
@@ -25320,14 +25320,6 @@
     "world": "12-2"
   },
   {
-    "name": "칸트",
-    "level": 84,
-    "grade": 21,
-    "class": "MirageBlade",
-    "guild": "지능",
-    "world": "12-2"
-  },
-  {
     "name": "페리카나",
     "level": 84,
     "grade": 20,
@@ -25341,6 +25333,14 @@
     "grade": 21,
     "class": "IncenseArcher",
     "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
+    "name": "칸트",
+    "level": 84,
+    "grade": 21,
+    "class": "MirageBlade",
+    "guild": "지능",
     "world": "12-2"
   },
   {
@@ -25592,11 +25592,11 @@
     "world": "12-2"
   },
   {
-    "name": "사구다시",
+    "name": "케르베로스",
     "level": 83,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "전당포",
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "냐옹",
     "world": "12-2"
   },
   {
@@ -39496,14 +39496,6 @@
     "world": "27-5"
   },
   {
-    "name": "뚜이",
-    "level": 79,
-    "grade": 17,
-    "class": "AbyssRevenant",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "담배형오른팔",
     "level": 79,
     "grade": 16,
@@ -39525,6 +39517,14 @@
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "와써또와써",
+    "world": "27-5"
+  },
+  {
+    "name": "뚜이",
+    "level": 79,
+    "grade": 17,
+    "class": "AbyssRevenant",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
