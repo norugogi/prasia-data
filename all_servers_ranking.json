@@ -14976,19 +14976,19 @@
     "world": "8-4"
   },
   {
-    "name": "김정힐",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "노터치",
-    "world": "8-4"
-  },
-  {
     "name": "야광토끼",
     "level": 88,
     "grade": 23,
     "class": "SolarSentinel",
     "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
+    "name": "김정힐",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "노터치",
     "world": "8-4"
   },
   {
@@ -17160,19 +17160,19 @@
     "world": "10-2"
   },
   {
-    "name": "창수",
-    "level": 83,
-    "grade": 18,
-    "class": "MirageBlade",
-    "guild": "숙숙",
-    "world": "10-2"
-  },
-  {
     "name": "참대선",
     "level": 83,
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "이장님",
+    "world": "10-2"
+  },
+  {
+    "name": "창수",
+    "level": 83,
+    "grade": 18,
+    "class": "MirageBlade",
+    "guild": "숙숙",
     "world": "10-2"
   },
   {
@@ -22368,19 +22368,19 @@
     "world": "11-3"
   },
   {
-    "name": "김세정",
-    "level": 77,
-    "grade": 15,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "11-3"
-  },
-  {
     "name": "군악대",
     "level": 77,
     "grade": 14,
     "class": "RuneScribe",
     "guild": "군수창고",
+    "world": "11-3"
+  },
+  {
+    "name": "김세정",
+    "level": 77,
+    "grade": 15,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "11-3"
   },
   {
@@ -29192,14 +29192,6 @@
     "world": "14-2"
   },
   {
-    "name": "태풍상사",
-    "level": 84,
-    "grade": 20,
-    "class": "AbyssRevenant",
-    "guild": "드라마",
-    "world": "14-2"
-  },
-  {
     "name": "젤라또",
     "level": 84,
     "grade": 21,
@@ -29209,6 +29201,14 @@
   },
   {
     "name": "아그나르",
+    "level": 84,
+    "grade": 20,
+    "class": "AbyssRevenant",
+    "guild": "드라마",
+    "world": "14-2"
+  },
+  {
+    "name": "태풍상사",
     "level": 84,
     "grade": 20,
     "class": "AbyssRevenant",
