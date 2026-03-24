@@ -4328,18 +4328,18 @@
     "world": "3-1"
   },
   {
-    "name": "스으다야",
-    "level": 87,
-    "grade": 21,
-    "class": "SolarSentinel",
-    "guild": "NO",
-    "world": "3-1"
-  },
-  {
     "name": "스으드림",
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
+    "guild": "NO",
+    "world": "3-1"
+  },
+  {
+    "name": "스으다야",
+    "level": 87,
+    "grade": 21,
+    "class": "SolarSentinel",
     "guild": "NO",
     "world": "3-1"
   },
@@ -5304,19 +5304,19 @@
     "world": "3-2"
   },
   {
-    "name": "고양의고양이",
-    "level": 87,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "MAD",
-    "world": "3-2"
-  },
-  {
     "name": "구공",
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
     "guild": "아마존",
+    "world": "3-2"
+  },
+  {
+    "name": "고양의고양이",
+    "level": 87,
+    "grade": 23,
+    "class": "RuneScribe",
+    "guild": "MAD",
     "world": "3-2"
   },
   {
@@ -10040,19 +10040,19 @@
     "world": "5-3"
   },
   {
-    "name": "손오공",
-    "level": 78,
-    "grade": 15,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "5-3"
-  },
-  {
     "name": "하루잉",
     "level": 78,
     "grade": 17,
     "class": "RuneScribe",
     "guild": "YouTube",
+    "world": "5-3"
+  },
+  {
+    "name": "손오공",
+    "level": 78,
+    "grade": 15,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "5-3"
   },
   {
@@ -18136,19 +18136,19 @@
     "world": "10-3"
   },
   {
-    "name": "수몽이",
-    "level": 78,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": "에덴",
-    "world": "10-3"
-  },
-  {
     "name": "테라",
     "level": 78,
     "grade": 15,
     "class": "SolarSentinel",
     "guild": "메타버스",
+    "world": "10-3"
+  },
+  {
+    "name": "수몽이",
+    "level": 78,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": "에덴",
     "world": "10-3"
   },
   {
@@ -18960,19 +18960,19 @@
     "world": "10-4"
   },
   {
-    "name": "봄이온다",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "힐싸개",
-    "world": "10-4"
-  },
-  {
     "name": "암혼",
     "level": 83,
     "grade": 19,
     "class": "MirageBlade",
     "guild": "흑백",
+    "world": "10-4"
+  },
+  {
+    "name": "봄이온다",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "힐싸개",
     "world": "10-4"
   },
   {
@@ -25256,14 +25256,6 @@
     "world": "12-2"
   },
   {
-    "name": "정교수",
-    "level": 85,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "전당포",
-    "world": "12-2"
-  },
-  {
     "name": "괴물",
     "level": 85,
     "grade": 20,
@@ -25277,6 +25269,14 @@
     "grade": 20,
     "class": "RuneScribe",
     "guild": "페리카나주문진점",
+    "world": "12-2"
+  },
+  {
+    "name": "정교수",
+    "level": 85,
+    "grade": 20,
+    "class": "IncenseArcher",
+    "guild": "전당포",
     "world": "12-2"
   },
   {
@@ -26896,19 +26896,19 @@
     "world": "12-4"
   },
   {
-    "name": "자백",
-    "level": 83,
-    "grade": 17,
-    "class": "SolarSentinel",
-    "guild": "금괴",
-    "world": "12-4"
-  },
-  {
     "name": "영지보스",
     "level": 83,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "봄봄",
+    "world": "12-4"
+  },
+  {
+    "name": "자백",
+    "level": 83,
+    "grade": 17,
+    "class": "SolarSentinel",
+    "guild": "금괴",
     "world": "12-4"
   },
   {
