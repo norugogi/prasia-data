@@ -2648,18 +2648,18 @@
     "world": "2-4"
   },
   {
-    "name": "고운동",
-    "level": 82,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "크흠",
-    "world": "2-4"
-  },
-  {
     "name": "마몽",
     "level": 82,
     "grade": 17,
     "class": "SolarSentinel",
+    "guild": "크흠",
+    "world": "2-4"
+  },
+  {
+    "name": "고운동",
+    "level": 82,
+    "grade": 17,
+    "class": "IncenseArcher",
     "guild": "크흠",
     "world": "2-4"
   },
@@ -3040,19 +3040,19 @@
     "world": "2-4"
   },
   {
-    "name": "길잡이",
-    "level": 78,
-    "grade": 15,
-    "class": "MirageBlade",
-    "guild": "길잡이",
-    "world": "2-4"
-  },
-  {
     "name": "문알",
     "level": 78,
     "grade": 15,
     "class": "IncenseArcher",
     "guild": null,
+    "world": "2-4"
+  },
+  {
+    "name": "길잡이",
+    "level": 78,
+    "grade": 15,
+    "class": "MirageBlade",
+    "guild": "길잡이",
     "world": "2-4"
   },
   {
@@ -9392,19 +9392,19 @@
     "world": "5-2"
   },
   {
-    "name": "미인",
-    "level": 78,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": "순천",
-    "world": "5-2"
-  },
-  {
     "name": "우호",
     "level": 78,
     "grade": 15,
     "class": "SolarSentinel",
     "guild": "2군",
+    "world": "5-2"
+  },
+  {
+    "name": "미인",
+    "level": 78,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": "순천",
     "world": "5-2"
   },
   {
@@ -14640,19 +14640,19 @@
     "world": "8-4"
   },
   {
+    "name": "버디버디",
+    "level": 90,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "악연",
+    "world": "8-4"
+  },
+  {
     "name": "어시",
     "level": 90,
     "grade": 24,
     "class": "AbyssRevenant",
     "guild": "골드문",
-    "world": "8-4"
-  },
-  {
-    "name": "버디버디",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "악연",
     "world": "8-4"
   },
   {
@@ -18160,19 +18160,19 @@
     "world": "10-3"
   },
   {
-    "name": "스테이시",
-    "level": 78,
-    "grade": 14,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "10-3"
-  },
-  {
     "name": "츠무기",
     "level": 78,
     "grade": 15,
     "class": "SolarSentinel",
     "guild": "패",
+    "world": "10-3"
+  },
+  {
+    "name": "스테이시",
+    "level": 78,
+    "grade": 14,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "10-3"
   },
   {
@@ -35592,14 +35592,6 @@
     "world": "16-5"
   },
   {
-    "name": "파이리",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "푸릇",
-    "world": "16-5"
-  },
-  {
     "name": "슈퍼컴퓨터",
     "level": 83,
     "grade": 20,
@@ -35613,6 +35605,14 @@
     "grade": 20,
     "class": "SolarSentinel",
     "guild": "KWAK",
+    "world": "16-5"
+  },
+  {
+    "name": "파이리",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "푸릇",
     "world": "16-5"
   },
   {
