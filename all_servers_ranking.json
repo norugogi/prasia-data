@@ -113,7 +113,7 @@
   },
   {
     "name": "이드",
-    "level": 85,
+    "level": 86,
     "grade": 20,
     "class": "Enforcer",
     "guild": "미르",
@@ -1312,19 +1312,19 @@
     "world": "2-2"
   },
   {
-    "name": "스버기",
-    "level": 80,
-    "grade": 16,
-    "class": "RuneScribe",
-    "guild": "맥도날드",
-    "world": "2-2"
-  },
-  {
     "name": "집붕이",
     "level": 80,
     "grade": 17,
     "class": "Enforcer",
     "guild": "사탕",
+    "world": "2-2"
+  },
+  {
+    "name": "스버기",
+    "level": 80,
+    "grade": 16,
+    "class": "RuneScribe",
+    "guild": "맥도날드",
     "world": "2-2"
   },
   {
@@ -6552,19 +6552,19 @@
     "world": "3-4"
   },
   {
-    "name": "Dokki",
-    "level": 89,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "심판",
-    "world": "3-4"
-  },
-  {
     "name": "김띨빵",
     "level": 89,
     "grade": 23,
     "class": "MirageBlade",
     "guild": "개",
+    "world": "3-4"
+  },
+  {
+    "name": "Dokki",
+    "level": 89,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "심판",
     "world": "3-4"
   },
   {
@@ -7657,7 +7657,7 @@
   },
   {
     "name": "스랄",
-    "level": 87,
+    "level": 88,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "민운",
@@ -14736,19 +14736,19 @@
     "world": "8-4"
   },
   {
-    "name": "어묵튀기는장인이에요",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "인연",
-    "world": "8-4"
-  },
-  {
     "name": "무단",
     "level": 89,
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "어묵튀기는장인이에요",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "인연",
     "world": "8-4"
   },
   {
@@ -17569,7 +17569,7 @@
   },
   {
     "name": "골까는골뱅이",
-    "level": 81,
+    "level": 82,
     "grade": 19,
     "class": "MirageBlade",
     "guild": "우왕",
@@ -21112,19 +21112,19 @@
     "world": "11-2"
   },
   {
-    "name": "어쩌라고",
-    "level": 85,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "오리온",
-    "world": "11-2"
-  },
-  {
     "name": "착한농사꾼",
     "level": 85,
     "grade": 21,
     "class": "IncenseArcher",
     "guild": "농사를지읍시다",
+    "world": "11-2"
+  },
+  {
+    "name": "어쩌라고",
+    "level": 85,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "오리온",
     "world": "11-2"
   },
   {
@@ -22888,19 +22888,19 @@
     "world": "11-4"
   },
   {
-    "name": "EZ",
-    "level": 83,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": null,
-    "world": "11-4"
-  },
-  {
     "name": "물방개",
     "level": 83,
     "grade": 20,
     "class": "MirageBlade",
     "guild": "AURA",
+    "world": "11-4"
+  },
+  {
+    "name": "EZ",
+    "level": 83,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": null,
     "world": "11-4"
   },
   {
@@ -24936,19 +24936,19 @@
     "world": "12-2"
   },
   {
-    "name": "하이볼탄산수조절장인",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "냐옹",
-    "world": "12-2"
-  },
-  {
     "name": "인노",
     "level": 87,
     "grade": 22,
     "class": "IncenseArcher",
     "guild": "전당포",
+    "world": "12-2"
+  },
+  {
+    "name": "하이볼탄산수조절장인",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "냐옹",
     "world": "12-2"
   },
   {
@@ -25264,19 +25264,19 @@
     "world": "12-2"
   },
   {
+    "name": "아뜨거",
+    "level": 85,
+    "grade": 20,
+    "class": "SolarSentinel",
+    "guild": "전당포",
+    "world": "12-2"
+  },
+  {
     "name": "인생원샷",
     "level": 85,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "페리카나주문진점",
-    "world": "12-2"
-  },
-  {
-    "name": "아뜨거",
-    "level": 84,
-    "grade": 20,
-    "class": "SolarSentinel",
-    "guild": "전당포",
     "world": "12-2"
   },
   {
@@ -35834,7 +35834,7 @@
   {
     "name": "오너",
     "level": 81,
-    "grade": 18,
+    "grade": 19,
     "class": "SolarSentinel",
     "guild": "푸릇",
     "world": "16-5"
@@ -39320,19 +39320,19 @@
     "world": "27-5"
   },
   {
-    "name": "서황",
-    "level": 81,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "도끼",
     "level": 81,
     "grade": 20,
     "class": "Enforcer",
     "guild": "운빨",
+    "world": "27-5"
+  },
+  {
+    "name": "서황",
+    "level": 81,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
