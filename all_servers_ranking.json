@@ -9744,19 +9744,19 @@
     "world": "5-3"
   },
   {
-    "name": "희자",
-    "level": 82,
-    "grade": 14,
-    "class": "IncenseArcher",
-    "guild": "YouTube",
-    "world": "5-3"
-  },
-  {
     "name": "달리다여왕",
     "level": 82,
     "grade": 17,
     "class": "SolarSentinel",
     "guild": "백",
+    "world": "5-3"
+  },
+  {
+    "name": "희자",
+    "level": 82,
+    "grade": 14,
+    "class": "IncenseArcher",
+    "guild": "YouTube",
     "world": "5-3"
   },
   {
@@ -12544,19 +12544,19 @@
     "world": "8-1"
   },
   {
-    "name": "쿠아와아아아왕펑서가",
-    "level": 88,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "유니크",
-    "world": "8-1"
-  },
-  {
     "name": "명품곱창",
     "level": 88,
     "grade": 24,
     "class": "Enforcer",
     "guild": "명품",
+    "world": "8-1"
+  },
+  {
+    "name": "쿠아와아아아왕펑서가",
+    "level": 88,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "유니크",
     "world": "8-1"
   },
   {
@@ -15008,19 +15008,19 @@
     "world": "8-4"
   },
   {
-    "name": "만월",
-    "level": 88,
-    "grade": 22,
-    "class": "IncenseArcher",
-    "guild": "인연",
-    "world": "8-4"
-  },
-  {
     "name": "그램",
     "level": 88,
     "grade": 24,
     "class": "AbyssRevenant",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "만월",
+    "level": 88,
+    "grade": 22,
+    "class": "IncenseArcher",
+    "guild": "인연",
     "world": "8-4"
   },
   {
@@ -15224,19 +15224,19 @@
     "world": "8-5"
   },
   {
-    "name": "온달",
-    "level": 92,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "축복",
-    "world": "8-5"
-  },
-  {
     "name": "강윅",
     "level": 92,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "강북",
+    "world": "8-5"
+  },
+  {
+    "name": "온달",
+    "level": 92,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "축복",
     "world": "8-5"
   },
   {
@@ -30016,19 +30016,19 @@
     "world": "14-3"
   },
   {
-    "name": "별코코",
-    "level": 79,
-    "grade": 16,
-    "class": "AbyssRevenant",
-    "guild": null,
-    "world": "14-3"
-  },
-  {
     "name": "이사벨",
     "level": 79,
     "grade": 13,
     "class": "SolarSentinel",
     "guild": "랜드마크",
+    "world": "14-3"
+  },
+  {
+    "name": "별코코",
+    "level": 79,
+    "grade": 16,
+    "class": "AbyssRevenant",
+    "guild": null,
     "world": "14-3"
   },
   {
@@ -32345,7 +32345,7 @@
   },
   {
     "name": "짠한오빠",
-    "level": 84,
+    "level": 85,
     "grade": 21,
     "class": "RuneScribe",
     "guild": "짠",
