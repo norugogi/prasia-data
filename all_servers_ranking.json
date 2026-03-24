@@ -464,17 +464,17 @@
     "world": "2-1"
   },
   {
-    "name": "해월",
+    "name": "사혈",
     "level": 81,
-    "grade": 16,
+    "grade": 15,
     "class": "Enforcer",
     "guild": "사신",
     "world": "2-1"
   },
   {
-    "name": "사혈",
+    "name": "해월",
     "level": 81,
-    "grade": 15,
+    "grade": 16,
     "class": "Enforcer",
     "guild": "사신",
     "world": "2-1"
@@ -4136,18 +4136,18 @@
     "world": "3-1"
   },
   {
-    "name": "스으와요",
-    "level": 89,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "NO",
-    "world": "3-1"
-  },
-  {
     "name": "라이이",
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "NO",
+    "world": "3-1"
+  },
+  {
+    "name": "스으와요",
+    "level": 89,
+    "grade": 24,
+    "class": "Enforcer",
     "guild": "NO",
     "world": "3-1"
   },
@@ -28784,19 +28784,19 @@
     "world": "14-1"
   },
   {
-    "name": "볼트",
-    "level": 79,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "요로",
-    "world": "14-1"
-  },
-  {
     "name": "케찹도둑",
     "level": 79,
     "grade": 16,
     "class": "MirageBlade",
     "guild": "TT",
+    "world": "14-1"
+  },
+  {
+    "name": "볼트",
+    "level": 79,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "요로",
     "world": "14-1"
   },
   {
@@ -35040,19 +35040,19 @@
     "world": "16-4"
   },
   {
-    "name": "여름이",
-    "level": 81,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "신분증",
-    "world": "16-4"
-  },
-  {
     "name": "뱃살",
     "level": 81,
     "grade": 15,
     "class": "RuneScribe",
     "guild": "MILLI",
+    "world": "16-4"
+  },
+  {
+    "name": "여름이",
+    "level": 81,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": "신분증",
     "world": "16-4"
   },
   {
