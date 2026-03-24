@@ -3888,19 +3888,19 @@
     "world": "2-5"
   },
   {
-    "name": "택시기사",
-    "level": 79,
-    "grade": 16,
-    "class": "AbyssRevenant",
-    "guild": "추운날씨hh",
-    "world": "2-5"
-  },
-  {
     "name": "우라",
     "level": 79,
     "grade": 17,
     "class": "SolarSentinel",
     "guild": "유니버스",
+    "world": "2-5"
+  },
+  {
+    "name": "택시기사",
+    "level": 79,
+    "grade": 16,
+    "class": "AbyssRevenant",
+    "guild": "추운날씨hh",
     "world": "2-5"
   },
   {
@@ -12784,18 +12784,18 @@
     "world": "8-1"
   },
   {
-    "name": "시츄",
-    "level": 87,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "츄",
-    "world": "8-1"
-  },
-  {
     "name": "츄다",
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
+    "guild": "츄",
+    "world": "8-1"
+  },
+  {
+    "name": "시츄",
+    "level": 87,
+    "grade": 23,
+    "class": "RuneScribe",
     "guild": "츄",
     "world": "8-1"
   },
@@ -17384,18 +17384,18 @@
     "world": "10-2"
   },
   {
-    "name": "요거건들지마쭈",
-    "level": 82,
-    "grade": 19,
-    "class": "SolarSentinel",
-    "guild": "우왕",
-    "world": "10-2"
-  },
-  {
     "name": "한치",
     "level": 82,
     "grade": 19,
     "class": "AbyssRevenant",
+    "guild": "우왕",
+    "world": "10-2"
+  },
+  {
+    "name": "요거건들지마쭈",
+    "level": 82,
+    "grade": 19,
+    "class": "SolarSentinel",
     "guild": "우왕",
     "world": "10-2"
   },
@@ -33912,19 +33912,19 @@
     "world": "16-3"
   },
   {
-    "name": "모범수",
-    "level": 84,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "교도소",
-    "world": "16-3"
-  },
-  {
     "name": "허드마스터",
     "level": 84,
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "허드마스터",
+    "world": "16-3"
+  },
+  {
+    "name": "모범수",
+    "level": 84,
+    "grade": 20,
+    "class": "IncenseArcher",
+    "guild": "교도소",
     "world": "16-3"
   },
   {
@@ -39760,19 +39760,19 @@
     "world": "27-5"
   },
   {
-    "name": "미네랄",
-    "level": 78,
-    "grade": 15,
-    "class": "MirageBlade",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "라니",
     "level": 78,
     "grade": 16,
     "class": "SolarSentinel",
     "guild": "TAYO",
+    "world": "27-5"
+  },
+  {
+    "name": "미네랄",
+    "level": 78,
+    "grade": 15,
+    "class": "MirageBlade",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
