@@ -1417,7 +1417,7 @@
   },
   {
     "name": "회오리",
-    "level": 79,
+    "level": 80,
     "grade": 16,
     "class": "RuneScribe",
     "guild": "미라클",
@@ -2616,18 +2616,18 @@
     "world": "2-4"
   },
   {
-    "name": "고운동",
-    "level": 82,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "크흠",
-    "world": "2-4"
-  },
-  {
     "name": "유치",
     "level": 82,
     "grade": 18,
     "class": "AbyssRevenant",
+    "guild": "크흠",
+    "world": "2-4"
+  },
+  {
+    "name": "고운동",
+    "level": 82,
+    "grade": 17,
+    "class": "IncenseArcher",
     "guild": "크흠",
     "world": "2-4"
   },
@@ -15320,19 +15320,19 @@
     "world": "8-5"
   },
   {
-    "name": "강심심",
-    "level": 91,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "강남",
-    "world": "8-5"
-  },
-  {
     "name": "강루다",
     "level": 91,
     "grade": 24,
     "class": "Enforcer",
     "guild": "강북",
+    "world": "8-5"
+  },
+  {
+    "name": "강심심",
+    "level": 91,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "강남",
     "world": "8-5"
   },
   {
@@ -20057,7 +20057,7 @@
   },
   {
     "name": "머드락",
-    "level": 87,
+    "level": 88,
     "grade": 22,
     "class": "IncenseArcher",
     "guild": "이겜왜함",
@@ -25552,19 +25552,19 @@
     "world": "12-2"
   },
   {
-    "name": "신화",
-    "level": 83,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "페리카나주문진점",
-    "world": "12-2"
-  },
-  {
     "name": "권후추",
     "level": 83,
     "grade": 20,
     "class": "Enforcer",
     "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
+    "name": "신화",
+    "level": 83,
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "페리카나주문진점",
     "world": "12-2"
   },
   {
@@ -31784,19 +31784,19 @@
     "world": "14-5"
   },
   {
-    "name": "주성치",
-    "level": 83,
-    "grade": 18,
-    "class": "SolarSentinel",
-    "guild": "루이",
-    "world": "14-5"
-  },
-  {
     "name": "무르",
     "level": 83,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "핑크좀비",
+    "world": "14-5"
+  },
+  {
+    "name": "주성치",
+    "level": 83,
+    "grade": 18,
+    "class": "SolarSentinel",
+    "guild": "루이",
     "world": "14-5"
   },
   {
@@ -39744,19 +39744,19 @@
     "world": "27-5"
   },
   {
-    "name": "사랑",
-    "level": 78,
-    "grade": 15,
-    "class": "RuneScribe",
-    "guild": "수지",
-    "world": "27-5"
-  },
-  {
     "name": "만찬",
     "level": 78,
     "grade": 15,
     "class": "SolarSentinel",
     "guild": "봄도둑",
+    "world": "27-5"
+  },
+  {
+    "name": "사랑",
+    "level": 78,
+    "grade": 15,
+    "class": "RuneScribe",
+    "guild": "수지",
     "world": "27-5"
   },
   {
