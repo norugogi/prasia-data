@@ -7777,7 +7777,7 @@
   },
   {
     "name": "바엘",
-    "level": 87,
+    "level": 86,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "광인",
@@ -12376,19 +12376,19 @@
     "world": "8-1"
   },
   {
-    "name": "나즈몬",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "드가자",
-    "world": "8-1"
-  },
-  {
     "name": "핀닉몬",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "진격의영포티",
+    "world": "8-1"
+  },
+  {
+    "name": "나즈몬",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "드가자",
     "world": "8-1"
   },
   {
@@ -17544,19 +17544,19 @@
     "world": "10-2"
   },
   {
-    "name": "엘레니아",
-    "level": 82,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "결사명은열글자까지네",
-    "world": "10-2"
-  },
-  {
     "name": "집행조아요",
     "level": 82,
     "grade": 15,
     "class": "Enforcer",
     "guild": "이장님",
+    "world": "10-2"
+  },
+  {
+    "name": "엘레니아",
+    "level": 82,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "결사명은열글자까지네",
     "world": "10-2"
   },
   {
@@ -35576,14 +35576,6 @@
     "world": "16-5"
   },
   {
-    "name": "파이리",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "푸릇",
-    "world": "16-5"
-  },
-  {
     "name": "악령",
     "level": 83,
     "grade": 18,
@@ -35597,6 +35589,14 @@
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "로또당구장",
+    "world": "16-5"
+  },
+  {
+    "name": "파이리",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "푸릇",
     "world": "16-5"
   },
   {
@@ -36744,19 +36744,19 @@
     "world": "27-1"
   },
   {
-    "name": "주인",
-    "level": 79,
-    "grade": 16,
-    "class": "RuneScribe",
-    "guild": "백",
-    "world": "27-1"
-  },
-  {
     "name": "유채화",
     "level": 79,
     "grade": 15,
     "class": "RuneScribe",
     "guild": "로맨틱",
+    "world": "27-1"
+  },
+  {
+    "name": "주인",
+    "level": 79,
+    "grade": 16,
+    "class": "RuneScribe",
+    "guild": "백",
     "world": "27-1"
   },
   {
@@ -39912,19 +39912,19 @@
     "world": "27-5"
   },
   {
-    "name": "칼빵",
-    "level": 78,
-    "grade": 12,
-    "class": "AbyssRevenant",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "눈물",
     "level": 78,
     "grade": 15,
     "class": "AbyssRevenant",
     "guild": "카발",
+    "world": "27-5"
+  },
+  {
+    "name": "칼빵",
+    "level": 78,
+    "grade": 12,
+    "class": "AbyssRevenant",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
