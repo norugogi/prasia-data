@@ -3184,19 +3184,19 @@
     "world": "2-4"
   },
   {
-    "name": "NAVER",
-    "level": 77,
-    "grade": 14,
-    "class": "MirageBlade",
-    "guild": null,
-    "world": "2-4"
-  },
-  {
     "name": "감자칼",
     "level": 77,
     "grade": 13,
     "class": "MirageBlade",
     "guild": "까마귀",
+    "world": "2-4"
+  },
+  {
+    "name": "NAVER",
+    "level": 77,
+    "grade": 14,
+    "class": "MirageBlade",
+    "guild": null,
     "world": "2-4"
   },
   {
@@ -5048,17 +5048,17 @@
     "world": "3-2"
   },
   {
-    "name": "뉴발",
+    "name": "도로",
     "level": 89,
-    "grade": 24,
+    "grade": 22,
     "class": "RuneScribe",
     "guild": "MAD",
     "world": "3-2"
   },
   {
-    "name": "도로",
+    "name": "뉴발",
     "level": 89,
-    "grade": 22,
+    "grade": 24,
     "class": "RuneScribe",
     "guild": "MAD",
     "world": "3-2"
@@ -30000,19 +30000,19 @@
     "world": "14-3"
   },
   {
-    "name": "호미세",
-    "level": 80,
-    "grade": 15,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "14-3"
-  },
-  {
     "name": "로맨스타",
     "level": 80,
     "grade": 15,
     "class": "IncenseArcher",
     "guild": "루트비히",
+    "world": "14-3"
+  },
+  {
+    "name": "호미세",
+    "level": 80,
+    "grade": 15,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "14-3"
   },
   {
@@ -35968,19 +35968,19 @@
     "world": "16-5"
   },
   {
-    "name": "러블리츄",
-    "level": 80,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "마왕군",
-    "world": "16-5"
-  },
-  {
     "name": "디스코",
     "level": 80,
     "grade": 18,
     "class": "SolarSentinel",
     "guild": "디스코",
+    "world": "16-5"
+  },
+  {
+    "name": "러블리츄",
+    "level": 80,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "마왕군",
     "world": "16-5"
   },
   {
@@ -39689,7 +39689,7 @@
   },
   {
     "name": "아아",
-    "level": 78,
+    "level": 79,
     "grade": 15,
     "class": "Enforcer",
     "guild": "우리",
