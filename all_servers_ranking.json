@@ -424,18 +424,18 @@
     "world": "2-1"
   },
   {
-    "name": "봉댕",
-    "level": 81,
-    "grade": 17,
-    "class": "RuneScribe",
-    "guild": "미르",
-    "world": "2-1"
-  },
-  {
     "name": "중달공주",
     "level": 81,
     "grade": 18,
     "class": "IncenseArcher",
+    "guild": "미르",
+    "world": "2-1"
+  },
+  {
+    "name": "봉댕",
+    "level": 81,
+    "grade": 17,
+    "class": "RuneScribe",
     "guild": "미르",
     "world": "2-1"
   },
@@ -3624,19 +3624,19 @@
     "world": "2-5"
   },
   {
-    "name": "쉬어",
-    "level": 81,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "2-5"
-  },
-  {
     "name": "람쥐쎤더",
     "level": 81,
     "grade": 16,
     "class": "Enforcer",
     "guild": "최고",
+    "world": "2-5"
+  },
+  {
+    "name": "쉬어",
+    "level": 81,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "2-5"
   },
   {
@@ -4528,6 +4528,14 @@
     "world": "3-1"
   },
   {
+    "name": "이상해힐줌",
+    "level": 85,
+    "grade": 22,
+    "class": "RuneScribe",
+    "guild": "이상해",
+    "world": "3-1"
+  },
+  {
     "name": "이상한가시나",
     "level": 85,
     "grade": 21,
@@ -4548,14 +4556,6 @@
     "level": 85,
     "grade": 22,
     "class": "Enforcer",
-    "guild": "이상해",
-    "world": "3-1"
-  },
-  {
-    "name": "이상해힐줌",
-    "level": 85,
-    "grade": 22,
-    "class": "RuneScribe",
     "guild": "이상해",
     "world": "3-1"
   },
@@ -4665,7 +4665,7 @@
   },
   {
     "name": "스으지로옹",
-    "level": 84,
+    "level": 85,
     "grade": 21,
     "class": "RuneScribe",
     "guild": "NO",
@@ -6920,19 +6920,19 @@
     "world": "3-4"
   },
   {
-    "name": "골든",
-    "level": 86,
-    "grade": 21,
-    "class": "SolarSentinel",
-    "guild": "개",
-    "world": "3-4"
-  },
-  {
     "name": "욕쟁이할머니",
     "level": 86,
     "grade": 22,
     "class": "Enforcer",
     "guild": "심판",
+    "world": "3-4"
+  },
+  {
+    "name": "골든",
+    "level": 86,
+    "grade": 21,
+    "class": "SolarSentinel",
+    "guild": "개",
     "world": "3-4"
   },
   {
@@ -14816,6 +14816,14 @@
     "world": "8-4"
   },
   {
+    "name": "자라나라모발공주",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
     "name": "하읭",
     "level": 89,
     "grade": 24,
@@ -14845,14 +14853,6 @@
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "노터치",
-    "world": "8-4"
-  },
-  {
-    "name": "자라나라모발공주",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -15368,6 +15368,14 @@
     "world": "8-5"
   },
   {
+    "name": "늑골뽑기",
+    "level": 91,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "금쪽이",
+    "world": "8-5"
+  },
+  {
     "name": "핫가이",
     "level": 91,
     "grade": 24,
@@ -15405,14 +15413,6 @@
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "강북",
-    "world": "8-5"
-  },
-  {
-    "name": "늑골뽑기",
-    "level": 91,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -16704,19 +16704,19 @@
     "world": "10-1"
   },
   {
-    "name": "한주먹",
-    "level": 77,
-    "grade": 15,
-    "class": "Enforcer",
-    "guild": "그림자",
-    "world": "10-1"
-  },
-  {
     "name": "김선생",
     "level": 77,
     "grade": 9,
     "class": "IncenseArcher",
     "guild": "침묵",
+    "world": "10-1"
+  },
+  {
+    "name": "한주먹",
+    "level": 77,
+    "grade": 15,
+    "class": "Enforcer",
+    "guild": "그림자",
     "world": "10-1"
   },
   {
@@ -18088,19 +18088,19 @@
     "world": "10-3"
   },
   {
-    "name": "사쿠라쿠라",
-    "level": 78,
-    "grade": 15,
-    "class": "MirageBlade",
-    "guild": "중립리세전용",
-    "world": "10-3"
-  },
-  {
     "name": "아들린",
     "level": 78,
     "grade": 16,
     "class": "IncenseArcher",
     "guild": "에덴",
+    "world": "10-3"
+  },
+  {
+    "name": "사쿠라쿠라",
+    "level": 78,
+    "grade": 15,
+    "class": "MirageBlade",
+    "guild": "중립리세전용",
     "world": "10-3"
   },
   {
@@ -18497,7 +18497,7 @@
   },
   {
     "name": "순자",
-    "level": 87,
+    "level": 88,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "힐싸개",
