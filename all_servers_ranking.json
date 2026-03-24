@@ -2616,14 +2616,6 @@
     "world": "2-4"
   },
   {
-    "name": "고운동",
-    "level": 82,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "크흠",
-    "world": "2-4"
-  },
-  {
     "name": "유치",
     "level": 82,
     "grade": 18,
@@ -2641,6 +2633,14 @@
   },
   {
     "name": "아이브",
+    "level": 82,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": "크흠",
+    "world": "2-4"
+  },
+  {
+    "name": "고운동",
     "level": 82,
     "grade": 17,
     "class": "IncenseArcher",
@@ -4768,14 +4768,6 @@
     "world": "3-1"
   },
   {
-    "name": "이모탭",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "이상해",
-    "world": "3-1"
-  },
-  {
     "name": "원태인",
     "level": 83,
     "grade": 18,
@@ -4797,6 +4789,14 @@
     "grade": 19,
     "class": "AbyssRevenant",
     "guild": "인생한우",
+    "world": "3-1"
+  },
+  {
+    "name": "이모탭",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "이상해",
     "world": "3-1"
   },
   {
@@ -6328,18 +6328,18 @@
     "world": "3-3"
   },
   {
-    "name": "거미",
-    "level": 86,
-    "grade": 20,
-    "class": "AbyssRevenant",
-    "guild": "광혼",
-    "world": "3-3"
-  },
-  {
     "name": "카무이",
     "level": 86,
     "grade": 21,
     "class": "IncenseArcher",
+    "guild": "광혼",
+    "world": "3-3"
+  },
+  {
+    "name": "거미",
+    "level": 86,
+    "grade": 20,
+    "class": "AbyssRevenant",
     "guild": "광혼",
     "world": "3-3"
   },
@@ -12088,19 +12088,19 @@
     "world": "8-1"
   },
   {
-    "name": "이슬맞은비둘기",
-    "level": 91,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "유니크",
-    "world": "8-1"
-  },
-  {
     "name": "제주꼴통몬",
     "level": 91,
     "grade": 24,
     "class": "Enforcer",
     "guild": "진격의영포티",
+    "world": "8-1"
+  },
+  {
+    "name": "이슬맞은비둘기",
+    "level": 91,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "유니크",
     "world": "8-1"
   },
   {
@@ -15137,7 +15137,7 @@
   },
   {
     "name": "범고래",
-    "level": 87,
+    "level": 88,
     "grade": 22,
     "class": "Enforcer",
     "guild": "노터치",
@@ -33744,19 +33744,19 @@
     "world": "16-3"
   },
   {
-    "name": "하이퍼그랑조",
-    "level": 86,
-    "grade": 21,
-    "class": "Enforcer",
-    "guild": "뻐근",
-    "world": "16-3"
-  },
-  {
     "name": "속공",
     "level": 86,
     "grade": 21,
     "class": "IncenseArcher",
     "guild": "교도소",
+    "world": "16-3"
+  },
+  {
+    "name": "하이퍼그랑조",
+    "level": 86,
+    "grade": 21,
+    "class": "Enforcer",
+    "guild": "뻐근",
     "world": "16-3"
   },
   {
