@@ -6001,7 +6001,7 @@
   },
   {
     "name": "김단풍",
-    "level": 87,
+    "level": 88,
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "가을",
@@ -9562,7 +9562,7 @@
   {
     "name": "영문",
     "level": 77,
-    "grade": 14,
+    "grade": 15,
     "class": "RuneScribe",
     "guild": "결사대",
     "world": "5-2"
@@ -12776,7 +12776,7 @@
     "world": "8-1"
   },
   {
-    "name": "츄다",
+    "name": "츄요",
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
@@ -12784,7 +12784,7 @@
     "world": "8-1"
   },
   {
-    "name": "츄요",
+    "name": "츄다",
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
@@ -16704,19 +16704,19 @@
     "world": "10-1"
   },
   {
-    "name": "김선생",
-    "level": 77,
-    "grade": 9,
-    "class": "IncenseArcher",
-    "guild": "침묵",
-    "world": "10-1"
-  },
-  {
     "name": "한주먹",
     "level": 77,
     "grade": 15,
     "class": "Enforcer",
     "guild": "그림자",
+    "world": "10-1"
+  },
+  {
+    "name": "김선생",
+    "level": 77,
+    "grade": 9,
+    "class": "IncenseArcher",
+    "guild": "침묵",
     "world": "10-1"
   },
   {
@@ -17145,7 +17145,7 @@
   },
   {
     "name": "대마",
-    "level": 83,
+    "level": 84,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "평화",
@@ -18104,19 +18104,19 @@
     "world": "10-3"
   },
   {
-    "name": "좀보소",
-    "level": 78,
-    "grade": 16,
-    "class": "RuneScribe",
-    "guild": "에덴",
-    "world": "10-3"
-  },
-  {
     "name": "츠카사",
     "level": 78,
     "grade": 15,
     "class": "SolarSentinel",
     "guild": "패",
+    "world": "10-3"
+  },
+  {
+    "name": "좀보소",
+    "level": 78,
+    "grade": 16,
+    "class": "RuneScribe",
+    "guild": "에덴",
     "world": "10-3"
   },
   {
@@ -20768,6 +20768,14 @@
     "world": "11-1"
   },
   {
+    "name": "집토끼",
+    "level": 81,
+    "grade": 16,
+    "class": "AbyssRevenant",
+    "guild": "거대부랄탕후루",
+    "world": "11-1"
+  },
+  {
     "name": "시나",
     "level": 81,
     "grade": 16,
@@ -20789,14 +20797,6 @@
     "grade": 16,
     "class": "IncenseArcher",
     "guild": "나는누구",
-    "world": "11-1"
-  },
-  {
-    "name": "집토끼",
-    "level": 80,
-    "grade": 16,
-    "class": "AbyssRevenant",
-    "guild": "거대부랄탕후루",
     "world": "11-1"
   },
   {
@@ -36560,19 +36560,19 @@
     "world": "27-1"
   },
   {
-    "name": "스미마셍",
-    "level": 80,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": null,
-    "world": "27-1"
-  },
-  {
     "name": "혜영님",
     "level": 80,
     "grade": 15,
     "class": "Enforcer",
     "guild": "칭칭",
+    "world": "27-1"
+  },
+  {
+    "name": "스미마셍",
+    "level": 80,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": null,
     "world": "27-1"
   },
   {
