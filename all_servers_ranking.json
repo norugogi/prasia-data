@@ -1336,19 +1336,19 @@
     "world": "2-2"
   },
   {
-    "name": "옴마",
-    "level": 80,
-    "grade": 17,
-    "class": "SolarSentinel",
-    "guild": null,
-    "world": "2-2"
-  },
-  {
     "name": "이두장인",
     "level": 80,
     "grade": 16,
     "class": "Enforcer",
     "guild": "용사용사",
+    "world": "2-2"
+  },
+  {
+    "name": "옴마",
+    "level": 80,
+    "grade": 17,
+    "class": "SolarSentinel",
+    "guild": null,
     "world": "2-2"
   },
   {
@@ -5505,7 +5505,7 @@
   },
   {
     "name": "지예은",
-    "level": 86,
+    "level": 87,
     "grade": 22,
     "class": "SolarSentinel",
     "guild": "ZED",
@@ -6088,14 +6088,6 @@
     "world": "3-3"
   },
   {
-    "name": "DELTA",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "가을",
-    "world": "3-3"
-  },
-  {
     "name": "설아",
     "level": 87,
     "grade": 20,
@@ -6109,6 +6101,14 @@
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "광란",
+    "world": "3-3"
+  },
+  {
+    "name": "DELTA",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "가을",
     "world": "3-3"
   },
   {
@@ -24936,19 +24936,19 @@
     "world": "12-2"
   },
   {
-    "name": "인노",
-    "level": 87,
-    "grade": 22,
-    "class": "IncenseArcher",
-    "guild": "전당포",
-    "world": "12-2"
-  },
-  {
     "name": "하이볼탄산수조절장인",
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
     "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
+    "name": "인노",
+    "level": 87,
+    "grade": 22,
+    "class": "IncenseArcher",
+    "guild": "전당포",
     "world": "12-2"
   },
   {
@@ -25008,6 +25008,14 @@
     "world": "12-2"
   },
   {
+    "name": "사요나라",
+    "level": 86,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "전당포",
+    "world": "12-2"
+  },
+  {
     "name": "빨판",
     "level": 86,
     "grade": 22,
@@ -25021,14 +25029,6 @@
     "grade": 22,
     "class": "MirageBlade",
     "guild": "동물원",
-    "world": "12-2"
-  },
-  {
-    "name": "사요나라",
-    "level": 86,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "전당포",
     "world": "12-2"
   },
   {
@@ -31064,19 +31064,19 @@
     "world": "14-4"
   },
   {
-    "name": "먹보와털보",
-    "level": 72,
-    "grade": 12,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "14-4"
-  },
-  {
     "name": "하모니",
     "level": 72,
     "grade": 11,
     "class": "SolarSentinel",
     "guild": "시작하는사람들",
+    "world": "14-4"
+  },
+  {
+    "name": "먹보와털보",
+    "level": 72,
+    "grade": 12,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "14-4"
   },
   {
@@ -32912,19 +32912,19 @@
     "world": "16-2"
   },
   {
-    "name": "카이든",
-    "level": 87,
-    "grade": 23,
-    "class": "MirageBlade",
-    "guild": "화산",
-    "world": "16-2"
-  },
-  {
     "name": "투두투두투두투두투두",
     "level": 87,
     "grade": 22,
     "class": "Enforcer",
     "guild": "니들이버기단을알어",
+    "world": "16-2"
+  },
+  {
+    "name": "카이든",
+    "level": 87,
+    "grade": 23,
+    "class": "MirageBlade",
+    "guild": "화산",
     "world": "16-2"
   },
   {
@@ -35489,7 +35489,7 @@
   },
   {
     "name": "으름",
-    "level": 84,
+    "level": 85,
     "grade": 21,
     "class": "Enforcer",
     "guild": "푸릇",
@@ -36664,19 +36664,19 @@
     "world": "27-1"
   },
   {
-    "name": "하얀서리",
-    "level": 80,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "27-1"
-  },
-  {
     "name": "먀옹이",
     "level": 80,
     "grade": 15,
     "class": "Enforcer",
     "guild": "백",
+    "world": "27-1"
+  },
+  {
+    "name": "하얀서리",
+    "level": 80,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "27-1"
   },
   {
@@ -39592,19 +39592,19 @@
     "world": "27-5"
   },
   {
-    "name": "천사",
-    "level": 79,
-    "grade": 15,
-    "class": "Enforcer",
-    "guild": "운빨",
-    "world": "27-5"
-  },
-  {
     "name": "laybee",
     "level": 79,
     "grade": 16,
     "class": "RuneScribe",
     "guild": "노즈라이딩",
+    "world": "27-5"
+  },
+  {
+    "name": "천사",
+    "level": 79,
+    "grade": 15,
+    "class": "Enforcer",
+    "guild": "운빨",
     "world": "27-5"
   },
   {
