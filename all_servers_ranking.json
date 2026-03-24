@@ -12056,19 +12056,19 @@
     "world": "8-1"
   },
   {
-    "name": "DlOR",
-    "level": 91,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "츄",
-    "world": "8-1"
-  },
-  {
     "name": "쿠아와아아아왕펑카신",
     "level": 91,
     "grade": 24,
     "class": "Enforcer",
     "guild": "유니크",
+    "world": "8-1"
+  },
+  {
+    "name": "DlOR",
+    "level": 91,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "츄",
     "world": "8-1"
   },
   {
@@ -13504,19 +13504,19 @@
     "world": "8-2"
   },
   {
-    "name": "어으야",
-    "level": 82,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "전설",
-    "world": "8-2"
-  },
-  {
     "name": "아이묭",
     "level": 82,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "뀰",
+    "world": "8-2"
+  },
+  {
+    "name": "어으야",
+    "level": 82,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "전설",
     "world": "8-2"
   },
   {
@@ -14880,14 +14880,6 @@
     "world": "8-4"
   },
   {
-    "name": "사내",
-    "level": 88,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "악연",
-    "world": "8-4"
-  },
-  {
     "name": "푸린",
     "level": 88,
     "grade": 23,
@@ -14908,6 +14900,14 @@
     "level": 88,
     "grade": 23,
     "class": "Enforcer",
+    "guild": "악연",
+    "world": "8-4"
+  },
+  {
+    "name": "사내",
+    "level": 88,
+    "grade": 24,
+    "class": "MirageBlade",
     "guild": "악연",
     "world": "8-4"
   },
@@ -15408,19 +15408,19 @@
     "world": "8-5"
   },
   {
-    "name": "윤발",
-    "level": 91,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "강주우몽",
     "level": 91,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "강북",
+    "world": "8-5"
+  },
+  {
+    "name": "윤발",
+    "level": 91,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -15664,19 +15664,19 @@
     "world": "8-5"
   },
   {
-    "name": "블러드",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "은쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "뀰가이",
     "level": 90,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "금쪽이",
+    "world": "8-5"
+  },
+  {
+    "name": "블러드",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "은쪽이",
     "world": "8-5"
   },
   {
@@ -15896,7 +15896,7 @@
     "world": "8-5"
   },
   {
-    "name": "축복무제",
+    "name": "사케",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
@@ -15904,7 +15904,7 @@
     "world": "8-5"
   },
   {
-    "name": "사케",
+    "name": "축복무제",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
@@ -15960,19 +15960,19 @@
     "world": "8-5"
   },
   {
-    "name": "강도깨비",
-    "level": 89,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "강북",
-    "world": "8-5"
-  },
-  {
     "name": "우루루마적",
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "우루루",
+    "world": "8-5"
+  },
+  {
+    "name": "강도깨비",
+    "level": 89,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "강북",
     "world": "8-5"
   },
   {
@@ -26746,7 +26746,7 @@
   {
     "name": "신세경",
     "level": 84,
-    "grade": 19,
+    "grade": 20,
     "class": "RuneScribe",
     "guild": "봄봄",
     "world": "12-4"
@@ -28744,19 +28744,19 @@
     "world": "14-1"
   },
   {
-    "name": "오랜날",
-    "level": 79,
-    "grade": 15,
-    "class": "RuneScribe",
-    "guild": "우정",
-    "world": "14-1"
-  },
-  {
     "name": "망고비누",
     "level": 79,
     "grade": 16,
     "class": "IncenseArcher",
     "guild": "TT",
+    "world": "14-1"
+  },
+  {
+    "name": "오랜날",
+    "level": 79,
+    "grade": 15,
+    "class": "RuneScribe",
+    "guild": "우정",
     "world": "14-1"
   },
   {
@@ -31112,19 +31112,19 @@
     "world": "14-4"
   },
   {
-    "name": "독고",
-    "level": 71,
-    "grade": 10,
-    "class": "Enforcer",
-    "guild": "포테이토",
-    "world": "14-4"
-  },
-  {
     "name": "금잔화",
     "level": 71,
     "grade": 12,
     "class": "IncenseArcher",
     "guild": "시작하는사람들",
+    "world": "14-4"
+  },
+  {
+    "name": "독고",
+    "level": 71,
+    "grade": 10,
+    "class": "Enforcer",
+    "guild": "포테이토",
     "world": "14-4"
   },
   {
