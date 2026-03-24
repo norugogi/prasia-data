@@ -11496,18 +11496,18 @@
     "world": "5-5"
   },
   {
-    "name": "더춘식",
-    "level": 89,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "DOG",
-    "world": "5-5"
-  },
-  {
     "name": "보축",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
+    "guild": "DOG",
+    "world": "5-5"
+  },
+  {
+    "name": "더춘식",
+    "level": 89,
+    "grade": 24,
+    "class": "MirageBlade",
     "guild": "DOG",
     "world": "5-5"
   },
@@ -13224,18 +13224,18 @@
     "world": "8-2"
   },
   {
-    "name": "창세기",
-    "level": 84,
-    "grade": 20,
-    "class": "MirageBlade",
-    "guild": "홀리데이",
-    "world": "8-2"
-  },
-  {
     "name": "낚시하는댕냥이",
     "level": 84,
     "grade": 21,
     "class": "RuneScribe",
+    "guild": "홀리데이",
+    "world": "8-2"
+  },
+  {
+    "name": "창세기",
+    "level": 84,
+    "grade": 20,
+    "class": "MirageBlade",
     "guild": "홀리데이",
     "world": "8-2"
   },
@@ -14816,6 +14816,14 @@
     "world": "8-4"
   },
   {
+    "name": "자라나라모발공주",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
     "name": "하읭",
     "level": 89,
     "grade": 24,
@@ -14852,14 +14860,6 @@
     "level": 89,
     "grade": 24,
     "class": "Enforcer",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
-    "name": "자라나라모발공주",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
     "guild": "GOAT",
     "world": "8-4"
   },
@@ -15040,6 +15040,14 @@
     "world": "8-4"
   },
   {
+    "name": "몽크",
+    "level": 88,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "악연",
+    "world": "8-4"
+  },
+  {
     "name": "양갱",
     "level": 88,
     "grade": 24,
@@ -15077,14 +15085,6 @@
     "grade": 24,
     "class": "AbyssRevenant",
     "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
-    "name": "몽크",
-    "level": 88,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "악연",
     "world": "8-4"
   },
   {
@@ -21112,19 +21112,19 @@
     "world": "11-2"
   },
   {
-    "name": "착한농사꾼",
-    "level": 85,
-    "grade": 21,
-    "class": "IncenseArcher",
-    "guild": "농사를지읍시다",
-    "world": "11-2"
-  },
-  {
     "name": "어쩌라고",
     "level": 85,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "오리온",
+    "world": "11-2"
+  },
+  {
+    "name": "착한농사꾼",
+    "level": 85,
+    "grade": 21,
+    "class": "IncenseArcher",
+    "guild": "농사를지읍시다",
     "world": "11-2"
   },
   {
@@ -25384,19 +25384,19 @@
     "world": "12-2"
   },
   {
-    "name": "쪽제비",
-    "level": 84,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "동물원",
-    "world": "12-2"
-  },
-  {
     "name": "이타치",
     "level": 84,
     "grade": 19,
     "class": "AbyssRevenant",
     "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
+    "name": "쪽제비",
+    "level": 84,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "동물원",
     "world": "12-2"
   },
   {
@@ -34641,7 +34641,7 @@
   },
   {
     "name": "인도후추카레먹고사망",
-    "level": 84,
+    "level": 85,
     "grade": 20,
     "class": "MirageBlade",
     "guild": "신분증",
@@ -35553,7 +35553,7 @@
   },
   {
     "name": "파파야",
-    "level": 83,
+    "level": 84,
     "grade": 15,
     "class": "AbyssRevenant",
     "guild": "푸릇",
