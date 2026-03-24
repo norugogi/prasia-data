@@ -4704,19 +4704,19 @@
     "world": "3-1"
   },
   {
-    "name": "푸틴의홍차",
-    "level": 84,
-    "grade": 18,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "3-1"
-  },
-  {
     "name": "예스",
     "level": 84,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "ON",
+    "world": "3-1"
+  },
+  {
+    "name": "푸틴의홍차",
+    "level": 84,
+    "grade": 18,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "3-1"
   },
   {
@@ -12080,11 +12080,11 @@
     "world": "8-1"
   },
   {
-    "name": "제주꼴통몬",
+    "name": "명품장군",
     "level": 91,
     "grade": 24,
     "class": "Enforcer",
-    "guild": "진격의영포티",
+    "guild": "명품",
     "world": "8-1"
   },
   {
@@ -12096,19 +12096,19 @@
     "world": "8-1"
   },
   {
+    "name": "제주꼴통몬",
+    "level": 91,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "진격의영포티",
+    "world": "8-1"
+  },
+  {
     "name": "챱츄",
     "level": 91,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "츄",
-    "world": "8-1"
-  },
-  {
-    "name": "명품장군",
-    "level": 91,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "명품",
     "world": "8-1"
   },
   {
@@ -13528,19 +13528,19 @@
     "world": "8-2"
   },
   {
-    "name": "킹승호",
-    "level": 81,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "동물의숲",
-    "world": "8-2"
-  },
-  {
     "name": "억제",
     "level": 81,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "빛",
+    "world": "8-2"
+  },
+  {
+    "name": "킹승호",
+    "level": 81,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "동물의숲",
     "world": "8-2"
   },
   {
@@ -25320,19 +25320,19 @@
     "world": "12-2"
   },
   {
-    "name": "칸트",
-    "level": 84,
-    "grade": 21,
-    "class": "MirageBlade",
-    "guild": "지능",
-    "world": "12-2"
-  },
-  {
     "name": "페리카나",
     "level": 84,
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "페리카나주문진점",
+    "world": "12-2"
+  },
+  {
+    "name": "칸트",
+    "level": 84,
+    "grade": 21,
+    "class": "MirageBlade",
+    "guild": "지능",
     "world": "12-2"
   },
   {
@@ -25880,19 +25880,19 @@
     "world": "12-3"
   },
   {
-    "name": "나비대장",
-    "level": 83,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": null,
-    "world": "12-3"
-  },
-  {
     "name": "연산군",
     "level": 83,
     "grade": 18,
     "class": "Enforcer",
     "guild": "양떼",
+    "world": "12-3"
+  },
+  {
+    "name": "나비대장",
+    "level": 83,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": null,
     "world": "12-3"
   },
   {
@@ -38560,18 +38560,18 @@
     "world": "27-4"
   },
   {
-    "name": "백다수",
-    "level": 83,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "한국인",
-    "world": "27-4"
-  },
-  {
     "name": "테라",
     "level": 83,
     "grade": 21,
     "class": "Enforcer",
+    "guild": "한국인",
+    "world": "27-4"
+  },
+  {
+    "name": "백다수",
+    "level": 83,
+    "grade": 19,
+    "class": "IncenseArcher",
     "guild": "한국인",
     "world": "27-4"
   },
