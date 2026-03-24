@@ -14664,14 +14664,6 @@
     "world": "8-4"
   },
   {
-    "name": "나야쿠영",
-    "level": 89,
-    "grade": 24,
-    "class": "AbyssRevenant",
-    "guild": "악연",
-    "world": "8-4"
-  },
-  {
     "name": "흑구",
     "level": 89,
     "grade": 24,
@@ -14700,6 +14692,14 @@
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "악연",
+    "world": "8-4"
+  },
+  {
+    "name": "나야쿠영",
+    "level": 89,
+    "grade": 24,
+    "class": "AbyssRevenant",
     "guild": "악연",
     "world": "8-4"
   },
@@ -34392,10 +34392,10 @@
     "world": "16-3"
   },
   {
-    "name": "푸딩좋아",
+    "name": "마법소",
     "level": 80,
-    "grade": 18,
-    "class": "AbyssRevenant",
+    "grade": 17,
+    "class": "Enforcer",
     "guild": "재미와여유사이",
     "world": "16-3"
   },
@@ -35624,19 +35624,19 @@
     "world": "16-5"
   },
   {
-    "name": "파이리",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "푸릇",
-    "world": "16-5"
-  },
-  {
     "name": "부군",
     "level": 83,
     "grade": 20,
     "class": "Enforcer",
     "guild": "마왕군",
+    "world": "16-5"
+  },
+  {
+    "name": "파이리",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "푸릇",
     "world": "16-5"
   },
   {
@@ -39400,19 +39400,19 @@
     "world": "27-5"
   },
   {
-    "name": "천마",
-    "level": 80,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "저승사자",
     "level": 80,
     "grade": 17,
     "class": "Enforcer",
     "guild": "운빨",
+    "world": "27-5"
+  },
+  {
+    "name": "천마",
+    "level": 80,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
