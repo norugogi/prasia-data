@@ -2640,19 +2640,19 @@
     "world": "2-4"
   },
   {
-    "name": "고운동",
-    "level": 82,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "크흠",
-    "world": "2-4"
-  },
-  {
     "name": "띨구",
     "level": 82,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "GXBL",
+    "world": "2-4"
+  },
+  {
+    "name": "고운동",
+    "level": 82,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": "크흠",
     "world": "2-4"
   },
   {
@@ -10200,19 +10200,19 @@
     "world": "5-3"
   },
   {
-    "name": "울산",
-    "level": 77,
-    "grade": 15,
-    "class": "AbyssRevenant",
-    "guild": "울산",
-    "world": "5-3"
-  },
-  {
     "name": "금쪽",
     "level": 77,
     "grade": 14,
     "class": "AbyssRevenant",
     "guild": "백",
+    "world": "5-3"
+  },
+  {
+    "name": "울산",
+    "level": 77,
+    "grade": 15,
+    "class": "AbyssRevenant",
+    "guild": "울산",
     "world": "5-3"
   },
   {
@@ -11544,14 +11544,6 @@
     "world": "5-5"
   },
   {
-    "name": "좀비",
-    "level": 89,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "DOG",
-    "world": "5-5"
-  },
-  {
     "name": "막토",
     "level": 89,
     "grade": 24,
@@ -11573,6 +11565,14 @@
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "더킹",
+    "world": "5-5"
+  },
+  {
+    "name": "좀비",
+    "level": 89,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "DOG",
     "world": "5-5"
   },
   {
@@ -33640,18 +33640,18 @@
     "world": "16-3"
   },
   {
-    "name": "살인마도우미",
-    "level": 88,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "교도소",
-    "world": "16-3"
-  },
-  {
     "name": "묻지마폭행",
     "level": 88,
     "grade": 24,
     "class": "MirageBlade",
+    "guild": "교도소",
+    "world": "16-3"
+  },
+  {
+    "name": "살인마도우미",
+    "level": 88,
+    "grade": 24,
+    "class": "SolarSentinel",
     "guild": "교도소",
     "world": "16-3"
   },
