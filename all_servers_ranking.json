@@ -6593,7 +6593,7 @@
   },
   {
     "name": "방배",
-    "level": 88,
+    "level": 89,
     "grade": 24,
     "class": "Enforcer",
     "guild": "개",
@@ -14712,18 +14712,18 @@
     "world": "8-4"
   },
   {
-    "name": "나야쿠영",
-    "level": 89,
-    "grade": 24,
-    "class": "AbyssRevenant",
-    "guild": "악연",
-    "world": "8-4"
-  },
-  {
     "name": "꼬북",
     "level": 89,
     "grade": 24,
     "class": "Enforcer",
+    "guild": "악연",
+    "world": "8-4"
+  },
+  {
+    "name": "나야쿠영",
+    "level": 89,
+    "grade": 24,
+    "class": "AbyssRevenant",
     "guild": "악연",
     "world": "8-4"
   },
@@ -30840,19 +30840,19 @@
     "world": "14-4"
   },
   {
-    "name": "천자루검",
-    "level": 77,
-    "grade": 14,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "14-4"
-  },
-  {
     "name": "유언",
     "level": 77,
     "grade": 12,
     "class": "IncenseArcher",
     "guild": "컨트롤",
+    "world": "14-4"
+  },
+  {
+    "name": "천자루검",
+    "level": 77,
+    "grade": 14,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "14-4"
   },
   {
@@ -36440,19 +36440,19 @@
     "world": "27-1"
   },
   {
-    "name": "엘제이케이",
-    "level": 81,
-    "grade": 19,
-    "class": "SolarSentinel",
-    "guild": "asd",
-    "world": "27-1"
-  },
-  {
     "name": "지호",
     "level": 81,
     "grade": 19,
     "class": "Enforcer",
     "guild": "탑",
+    "world": "27-1"
+  },
+  {
+    "name": "엘제이케이",
+    "level": 81,
+    "grade": 19,
+    "class": "SolarSentinel",
+    "guild": "asd",
     "world": "27-1"
   },
   {
