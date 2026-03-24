@@ -2736,19 +2736,19 @@
     "world": "2-4"
   },
   {
-    "name": "애린",
-    "level": 81,
-    "grade": 17,
-    "class": "SolarSentinel",
-    "guild": "크흠",
-    "world": "2-4"
-  },
-  {
     "name": "절망",
     "level": 81,
     "grade": 19,
     "class": "AbyssRevenant",
     "guild": "까마귀",
+    "world": "2-4"
+  },
+  {
+    "name": "애린",
+    "level": 81,
+    "grade": 17,
+    "class": "SolarSentinel",
+    "guild": "크흠",
     "world": "2-4"
   },
   {
@@ -6193,7 +6193,7 @@
   },
   {
     "name": "제키엘",
-    "level": 86,
+    "level": 87,
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "광혼",
@@ -7496,6 +7496,14 @@
     "world": "3-5"
   },
   {
+    "name": "투스턴",
+    "level": 89,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "광인",
+    "world": "3-5"
+  },
+  {
     "name": "뽕쨩",
     "level": 89,
     "grade": 24,
@@ -7524,14 +7532,6 @@
     "level": 89,
     "grade": 23,
     "class": "SolarSentinel",
-    "guild": "광인",
-    "world": "3-5"
-  },
-  {
-    "name": "투스턴",
-    "level": 89,
-    "grade": 23,
-    "class": "Enforcer",
     "guild": "광인",
     "world": "3-5"
   },
@@ -11993,7 +11993,7 @@
   },
   {
     "name": "준꼬",
-    "level": 86,
+    "level": 87,
     "grade": 24,
     "class": "Enforcer",
     "guild": "DOG",
@@ -12624,14 +12624,6 @@
     "world": "8-1"
   },
   {
-    "name": "방울이",
-    "level": 88,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "츄",
-    "world": "8-1"
-  },
-  {
     "name": "명품데이",
     "level": 88,
     "grade": 23,
@@ -12669,6 +12661,14 @@
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "진격의영포티",
+    "world": "8-1"
+  },
+  {
+    "name": "방울이",
+    "level": 88,
+    "grade": 23,
+    "class": "IncenseArcher",
+    "guild": "츄",
     "world": "8-1"
   },
   {
@@ -14792,19 +14792,19 @@
     "world": "8-4"
   },
   {
-    "name": "키라",
-    "level": 89,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "작은악마원",
     "level": 89,
     "grade": 23,
     "class": "Enforcer",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "키라",
+    "level": 89,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -14832,14 +14832,6 @@
     "world": "8-4"
   },
   {
-    "name": "하읭",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "데빌구",
     "level": 89,
     "grade": 24,
@@ -14853,6 +14845,14 @@
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "하읭",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -15536,18 +15536,18 @@
     "world": "8-5"
   },
   {
-    "name": "금쪽이",
-    "level": 90,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "장성",
     "level": 90,
     "grade": 24,
     "class": "IncenseArcher",
+    "guild": "금쪽이",
+    "world": "8-5"
+  },
+  {
+    "name": "금쪽이",
+    "level": 90,
+    "grade": 24,
+    "class": "RuneScribe",
     "guild": "금쪽이",
     "world": "8-5"
   },
@@ -15912,14 +15912,6 @@
     "world": "8-5"
   },
   {
-    "name": "하리",
-    "level": 89,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "CodeName",
-    "world": "8-5"
-  },
-  {
     "name": "파레형",
     "level": 89,
     "grade": 24,
@@ -15933,6 +15925,14 @@
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "강북",
+    "world": "8-5"
+  },
+  {
+    "name": "하리",
+    "level": 89,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "CodeName",
     "world": "8-5"
   },
   {
@@ -17400,14 +17400,6 @@
     "world": "10-2"
   },
   {
-    "name": "한치",
-    "level": 82,
-    "grade": 19,
-    "class": "AbyssRevenant",
-    "guild": "우왕",
-    "world": "10-2"
-  },
-  {
     "name": "엔드",
     "level": 82,
     "grade": 17,
@@ -17421,6 +17413,14 @@
     "grade": 17,
     "class": "SolarSentinel",
     "guild": "숙숙",
+    "world": "10-2"
+  },
+  {
+    "name": "한치",
+    "level": 82,
+    "grade": 19,
+    "class": "AbyssRevenant",
+    "guild": "우왕",
     "world": "10-2"
   },
   {
@@ -18672,19 +18672,19 @@
     "world": "10-4"
   },
   {
-    "name": "킹민지님",
-    "level": 85,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "야옹",
-    "world": "10-4"
-  },
-  {
     "name": "비싸개",
     "level": 85,
     "grade": 20,
     "class": "AbyssRevenant",
     "guild": "힐싸개",
+    "world": "10-4"
+  },
+  {
+    "name": "킹민지님",
+    "level": 85,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "야옹",
     "world": "10-4"
   },
   {
@@ -29096,18 +29096,18 @@
     "world": "14-2"
   },
   {
-    "name": "굴비",
-    "level": 85,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "아기고양이",
-    "world": "14-2"
-  },
-  {
     "name": "한치",
     "level": 85,
     "grade": 20,
     "class": "RuneScribe",
+    "guild": "아기고양이",
+    "world": "14-2"
+  },
+  {
+    "name": "굴비",
+    "level": 85,
+    "grade": 20,
+    "class": "Enforcer",
     "guild": "아기고양이",
     "world": "14-2"
   },
@@ -33936,6 +33936,14 @@
     "world": "16-3"
   },
   {
+    "name": "뭉게구름",
+    "level": 84,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "뻐근",
+    "world": "16-3"
+  },
+  {
     "name": "메탈",
     "level": 84,
     "grade": 19,
@@ -33949,14 +33957,6 @@
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "조선의활잡이",
-    "world": "16-3"
-  },
-  {
-    "name": "뭉게구름",
-    "level": 84,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "뻐근",
     "world": "16-3"
   },
   {
@@ -37896,19 +37896,19 @@
     "world": "27-3"
   },
   {
-    "name": "머신",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "AI",
-    "world": "27-3"
-  },
-  {
     "name": "비비",
     "level": 83,
     "grade": 19,
     "class": "Enforcer",
     "guild": "적이된걸환영한다",
+    "world": "27-3"
+  },
+  {
+    "name": "머신",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "AI",
     "world": "27-3"
   },
   {
