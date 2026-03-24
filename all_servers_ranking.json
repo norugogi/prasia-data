@@ -4328,18 +4328,18 @@
     "world": "3-1"
   },
   {
-    "name": "스으드림",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "NO",
-    "world": "3-1"
-  },
-  {
     "name": "스으다야",
     "level": 87,
     "grade": 21,
     "class": "SolarSentinel",
+    "guild": "NO",
+    "world": "3-1"
+  },
+  {
+    "name": "스으드림",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
     "guild": "NO",
     "world": "3-1"
   },
@@ -6080,19 +6080,19 @@
     "world": "3-3"
   },
   {
-    "name": "DELTA",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "가을",
-    "world": "3-3"
-  },
-  {
     "name": "김선비",
     "level": 87,
     "grade": 22,
     "class": "Enforcer",
     "guild": "광란",
+    "world": "3-3"
+  },
+  {
+    "name": "DELTA",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "가을",
     "world": "3-3"
   },
   {
@@ -11860,7 +11860,7 @@
     "level": 87,
     "grade": 23,
     "class": "SolarSentinel",
-    "guild": null,
+    "guild": "CATT",
     "world": "5-5"
   },
   {
@@ -12208,14 +12208,6 @@
     "world": "8-1"
   },
   {
-    "name": "명품맥스",
-    "level": 90,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "명품",
-    "world": "8-1"
-  },
-  {
     "name": "라즈몬",
     "level": 90,
     "grade": 24,
@@ -12236,6 +12228,14 @@
     "level": 90,
     "grade": 24,
     "class": "Enforcer",
+    "guild": "명품",
+    "world": "8-1"
+  },
+  {
+    "name": "명품맥스",
+    "level": 90,
+    "grade": 24,
+    "class": "RuneScribe",
     "guild": "명품",
     "world": "8-1"
   },
@@ -14792,19 +14792,19 @@
     "world": "8-4"
   },
   {
-    "name": "작은악마원",
-    "level": 89,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "노터치",
-    "world": "8-4"
-  },
-  {
     "name": "키라",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
+    "name": "작은악마원",
+    "level": 89,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "노터치",
     "world": "8-4"
   },
   {
