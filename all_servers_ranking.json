@@ -12688,6 +12688,14 @@
     "world": "8-1"
   },
   {
+    "name": "이끌이",
+    "level": 87,
+    "grade": 23,
+    "class": "SolarSentinel",
+    "guild": "츄",
+    "world": "8-1"
+  },
+  {
     "name": "시아몬",
     "level": 87,
     "grade": 24,
@@ -12700,14 +12708,6 @@
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
-    "guild": "츄",
-    "world": "8-1"
-  },
-  {
-    "name": "이끌이",
-    "level": 87,
-    "grade": 23,
-    "class": "SolarSentinel",
     "guild": "츄",
     "world": "8-1"
   },
@@ -14824,18 +14824,18 @@
     "world": "8-4"
   },
   {
-    "name": "뽀글",
-    "level": 89,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "하읭",
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
+    "name": "뽀글",
+    "level": 89,
+    "grade": 23,
+    "class": "IncenseArcher",
     "guild": "GOAT",
     "world": "8-4"
   },
@@ -15296,18 +15296,18 @@
     "world": "8-5"
   },
   {
-    "name": "곰띠형",
-    "level": 91,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "CodeName",
-    "world": "8-5"
-  },
-  {
     "name": "토리형",
     "level": 91,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "곰띠형",
+    "level": 91,
+    "grade": 24,
+    "class": "RuneScribe",
     "guild": "CodeName",
     "world": "8-5"
   },
@@ -15872,6 +15872,14 @@
     "world": "8-5"
   },
   {
+    "name": "골드엔산젘",
+    "level": 90,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "골드중독",
+    "world": "8-5"
+  },
+  {
     "name": "금쪽게이",
     "level": 89,
     "grade": 24,
@@ -15925,14 +15933,6 @@
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "강북",
-    "world": "8-5"
-  },
-  {
-    "name": "골드엔산젘",
-    "level": 89,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "골드중독",
     "world": "8-5"
   },
   {
@@ -17504,19 +17504,19 @@
     "world": "10-2"
   },
   {
-    "name": "킹순신",
-    "level": 82,
-    "grade": 16,
-    "class": "SolarSentinel",
-    "guild": "이장님",
-    "world": "10-2"
-  },
-  {
     "name": "여귀검",
     "level": 82,
     "grade": 20,
     "class": "MirageBlade",
     "guild": "우왕",
+    "world": "10-2"
+  },
+  {
+    "name": "킹순신",
+    "level": 82,
+    "grade": 16,
+    "class": "SolarSentinel",
+    "guild": "이장님",
     "world": "10-2"
   },
   {
@@ -19512,7 +19512,7 @@
     "world": "10-5"
   },
   {
-    "name": "개떡",
+    "name": "쌀떡",
     "level": 81,
     "grade": 15,
     "class": "Enforcer",
@@ -19520,7 +19520,7 @@
     "world": "10-5"
   },
   {
-    "name": "쌀떡",
+    "name": "개떡",
     "level": 81,
     "grade": 15,
     "class": "Enforcer",
@@ -32912,19 +32912,19 @@
     "world": "16-2"
   },
   {
-    "name": "투두투두투두투두투두",
-    "level": 87,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "니들이버기단을알어",
-    "world": "16-2"
-  },
-  {
     "name": "카이든",
     "level": 87,
     "grade": 23,
     "class": "MirageBlade",
     "guild": "화산",
+    "world": "16-2"
+  },
+  {
+    "name": "투두투두투두투두투두",
+    "level": 87,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "니들이버기단을알어",
     "world": "16-2"
   },
   {
@@ -33026,7 +33026,7 @@
   {
     "name": "김준현",
     "level": 86,
-    "grade": 21,
+    "grade": 22,
     "class": "Enforcer",
     "guild": "연예인결사",
     "world": "16-2"
