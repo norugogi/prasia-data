@@ -3568,14 +3568,6 @@
     "world": "2-5"
   },
   {
-    "name": "크롱아빠",
-    "level": 81,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "크롱이",
-    "world": "2-5"
-  },
-  {
     "name": "하수",
     "level": 81,
     "grade": 18,
@@ -3589,6 +3581,14 @@
     "grade": 18,
     "class": "MirageBlade",
     "guild": "구르르",
+    "world": "2-5"
+  },
+  {
+    "name": "크롱아빠",
+    "level": 81,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": "크롱이",
     "world": "2-5"
   },
   {
@@ -12080,14 +12080,6 @@
     "world": "8-1"
   },
   {
-    "name": "명품장군",
-    "level": 91,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "명품",
-    "world": "8-1"
-  },
-  {
     "name": "제주꼴통몬",
     "level": 91,
     "grade": 24,
@@ -12109,6 +12101,14 @@
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "츄",
+    "world": "8-1"
+  },
+  {
+    "name": "명품장군",
+    "level": 91,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "명품",
     "world": "8-1"
   },
   {
@@ -14640,19 +14640,19 @@
     "world": "8-4"
   },
   {
-    "name": "버디버디",
-    "level": 90,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "악연",
-    "world": "8-4"
-  },
-  {
     "name": "어시",
     "level": 90,
     "grade": 24,
     "class": "AbyssRevenant",
     "guild": "골드문",
+    "world": "8-4"
+  },
+  {
+    "name": "버디버디",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "악연",
     "world": "8-4"
   },
   {
@@ -20296,19 +20296,19 @@
     "world": "11-1"
   },
   {
-    "name": "학도",
-    "level": 84,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "방재실",
-    "world": "11-1"
-  },
-  {
     "name": "멸치",
     "level": 84,
     "grade": 18,
     "class": "IncenseArcher",
     "guild": "콩치",
+    "world": "11-1"
+  },
+  {
+    "name": "학도",
+    "level": 84,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "방재실",
     "world": "11-1"
   },
   {
@@ -20456,6 +20456,14 @@
     "world": "11-1"
   },
   {
+    "name": "다프넨",
+    "level": 83,
+    "grade": 19,
+    "class": "MirageBlade",
+    "guild": "방재실",
+    "world": "11-1"
+  },
+  {
     "name": "jjj",
     "level": 83,
     "grade": 19,
@@ -20468,14 +20476,6 @@
     "level": 83,
     "grade": 20,
     "class": "RuneScribe",
-    "guild": "방재실",
-    "world": "11-1"
-  },
-  {
-    "name": "다프넨",
-    "level": 83,
-    "grade": 19,
-    "class": "MirageBlade",
     "guild": "방재실",
     "world": "11-1"
   },
@@ -22489,7 +22489,7 @@
   },
   {
     "name": "향사수",
-    "level": 86,
+    "level": 87,
     "grade": 21,
     "class": "IncenseArcher",
     "guild": "AURA",
@@ -28704,19 +28704,19 @@
     "world": "14-1"
   },
   {
-    "name": "호이",
-    "level": 79,
-    "grade": 15,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "14-1"
-  },
-  {
     "name": "레인보우",
     "level": 79,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "레인일리아칸",
+    "world": "14-1"
+  },
+  {
+    "name": "호이",
+    "level": 79,
+    "grade": 15,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "14-1"
   },
   {
@@ -35608,14 +35608,6 @@
     "world": "16-5"
   },
   {
-    "name": "간츠",
-    "level": 83,
-    "grade": 21,
-    "class": "MirageBlade",
-    "guild": "마왕군",
-    "world": "16-5"
-  },
-  {
     "name": "SIN",
     "level": 83,
     "grade": 20,
@@ -35628,6 +35620,14 @@
     "level": 83,
     "grade": 19,
     "class": "IncenseArcher",
+    "guild": "마왕군",
+    "world": "16-5"
+  },
+  {
+    "name": "간츠",
+    "level": 83,
+    "grade": 21,
+    "class": "MirageBlade",
     "guild": "마왕군",
     "world": "16-5"
   },
@@ -38256,7 +38256,7 @@
     "world": "27-3"
   },
   {
-    "name": "부여명",
+    "name": "부여정",
     "level": 80,
     "grade": 18,
     "class": "Enforcer",
@@ -38264,7 +38264,7 @@
     "world": "27-3"
   },
   {
-    "name": "부여정",
+    "name": "부여명",
     "level": 80,
     "grade": 18,
     "class": "Enforcer",
@@ -38712,19 +38712,19 @@
     "world": "27-4"
   },
   {
-    "name": "난심연",
-    "level": 81,
-    "grade": 18,
-    "class": "AbyssRevenant",
-    "guild": "Nan",
-    "world": "27-4"
-  },
-  {
     "name": "레몬",
     "level": 81,
     "grade": 18,
     "class": "AbyssRevenant",
     "guild": "검증된연구가",
+    "world": "27-4"
+  },
+  {
+    "name": "난심연",
+    "level": 81,
+    "grade": 18,
+    "class": "AbyssRevenant",
+    "guild": "Nan",
     "world": "27-4"
   },
   {
