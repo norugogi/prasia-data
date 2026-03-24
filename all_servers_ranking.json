@@ -13529,7 +13529,7 @@
   },
   {
     "name": "킹승호",
-    "level": 81,
+    "level": 82,
     "grade": 19,
     "class": "Enforcer",
     "guild": "동물의숲",
@@ -26896,19 +26896,19 @@
     "world": "12-4"
   },
   {
-    "name": "영지보스",
-    "level": 83,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "봄봄",
-    "world": "12-4"
-  },
-  {
     "name": "자백",
     "level": 83,
     "grade": 17,
     "class": "SolarSentinel",
     "guild": "금괴",
+    "world": "12-4"
+  },
+  {
+    "name": "영지보스",
+    "level": 83,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": "봄봄",
     "world": "12-4"
   },
   {
@@ -37872,19 +37872,19 @@
     "world": "27-3"
   },
   {
-    "name": "거위",
-    "level": 83,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "월하익송",
-    "world": "27-3"
-  },
-  {
     "name": "재련",
     "level": 83,
     "grade": 20,
     "class": "SolarSentinel",
     "guild": "중립의꿈",
+    "world": "27-3"
+  },
+  {
+    "name": "거위",
+    "level": 83,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "월하익송",
     "world": "27-3"
   },
   {
@@ -38992,18 +38992,18 @@
     "world": "27-4"
   },
   {
-    "name": "빙하",
-    "level": 79,
-    "grade": 17,
-    "class": "AbyssRevenant",
-    "guild": "카오리",
-    "world": "27-4"
-  },
-  {
     "name": "난해피",
     "level": 79,
     "grade": 16,
     "class": "Enforcer",
+    "guild": "카오리",
+    "world": "27-4"
+  },
+  {
+    "name": "빙하",
+    "level": 79,
+    "grade": 17,
+    "class": "AbyssRevenant",
     "guild": "카오리",
     "world": "27-4"
   },
