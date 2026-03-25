@@ -4363,7 +4363,7 @@
     "name": "칸초",
     "level": 87,
     "grade": 23,
-    "class": "SolarSentinel",
+    "class": "WildWarrior",
     "guild": "이상해",
     "world": "3-1"
   },
@@ -4528,14 +4528,6 @@
     "world": "3-1"
   },
   {
-    "name": "이상해힐줌",
-    "level": 85,
-    "grade": 22,
-    "class": "RuneScribe",
-    "guild": "이상해",
-    "world": "3-1"
-  },
-  {
     "name": "이상한가시나",
     "level": 85,
     "grade": 21,
@@ -4556,6 +4548,14 @@
     "level": 85,
     "grade": 22,
     "class": "Enforcer",
+    "guild": "이상해",
+    "world": "3-1"
+  },
+  {
+    "name": "이상해힐줌",
+    "level": 85,
+    "grade": 22,
+    "class": "RuneScribe",
     "guild": "이상해",
     "world": "3-1"
   },
@@ -5048,17 +5048,17 @@
     "world": "3-2"
   },
   {
-    "name": "뉴발",
+    "name": "도로",
     "level": 89,
-    "grade": 24,
+    "grade": 22,
     "class": "RuneScribe",
     "guild": "MAD",
     "world": "3-2"
   },
   {
-    "name": "도로",
+    "name": "뉴발",
     "level": 89,
-    "grade": 22,
+    "grade": 24,
     "class": "RuneScribe",
     "guild": "MAD",
     "world": "3-2"
@@ -5611,7 +5611,7 @@
     "name": "아만투사",
     "level": 91,
     "grade": 24,
-    "class": "Enforcer",
+    "class": "WildWarrior",
     "guild": "광란",
     "world": "3-3"
   },
@@ -5707,7 +5707,7 @@
     "name": "배꼽냄새",
     "level": 90,
     "grade": 24,
-    "class": "IncenseArcher",
+    "class": "SolarSentinel",
     "guild": "광혼",
     "world": "3-3"
   },
@@ -8081,7 +8081,7 @@
   },
   {
     "name": "그림리퍼",
-    "level": 90,
+    "level": 91,
     "grade": 24,
     "class": "MirageBlade",
     "guild": "시그니처",
@@ -8235,7 +8235,7 @@
     "name": "사피엔스",
     "level": 89,
     "grade": 24,
-    "class": "MirageBlade",
+    "class": "WildWarrior",
     "guild": "시그니처",
     "world": "5-1"
   },
@@ -8563,7 +8563,7 @@
     "name": "또르르",
     "level": 87,
     "grade": 22,
-    "class": "MirageBlade",
+    "class": "WildWarrior",
     "guild": "처리천사",
     "world": "5-1"
   },
@@ -10891,7 +10891,7 @@
     "name": "레나",
     "level": 79,
     "grade": 15,
-    "class": "RuneScribe",
+    "class": "WildWarrior",
     "guild": "광명",
     "world": "5-4"
   },
@@ -11488,14 +11488,6 @@
     "world": "5-5"
   },
   {
-    "name": "더춘식",
-    "level": 89,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "DOG",
-    "world": "5-5"
-  },
-  {
     "name": "보축",
     "level": 89,
     "grade": 24,
@@ -11504,10 +11496,10 @@
     "world": "5-5"
   },
   {
-    "name": "학연",
+    "name": "더춘식",
     "level": 89,
     "grade": 24,
-    "class": "SolarSentinel",
+    "class": "MirageBlade",
     "guild": "DOG",
     "world": "5-5"
   },
@@ -11517,6 +11509,14 @@
     "grade": 23,
     "class": "Enforcer",
     "guild": "CATT",
+    "world": "5-5"
+  },
+  {
+    "name": "학연",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "DOG",
     "world": "5-5"
   },
   {
@@ -17448,19 +17448,19 @@
     "world": "10-2"
   },
   {
-    "name": "바오밥나무",
-    "level": 82,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "평화",
-    "world": "10-2"
-  },
-  {
     "name": "찹찹",
     "level": 82,
     "grade": 17,
     "class": "AbyssRevenant",
     "guild": "숙숙",
+    "world": "10-2"
+  },
+  {
+    "name": "바오밥나무",
+    "level": 82,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "평화",
     "world": "10-2"
   },
   {
@@ -22099,7 +22099,7 @@
     "name": "닥스훈트",
     "level": 80,
     "grade": 18,
-    "class": "Enforcer",
+    "class": "WildWarrior",
     "guild": "바다",
     "world": "11-3"
   },
@@ -22563,7 +22563,7 @@
     "name": "왕자",
     "level": 86,
     "grade": 21,
-    "class": "AbyssRevenant",
+    "class": "WildWarrior",
     "guild": "해피니스",
     "world": "11-4"
   },
@@ -23123,7 +23123,7 @@
     "name": "명왕",
     "level": 81,
     "grade": 17,
-    "class": "SolarSentinel",
+    "class": "WildWarrior",
     "guild": "킹덤",
     "world": "11-4"
   },
@@ -32304,18 +32304,18 @@
     "world": "16-1"
   },
   {
-    "name": "열일중",
-    "level": 85,
-    "grade": 20,
-    "class": "SolarSentinel",
-    "guild": "프리아",
-    "world": "16-1"
-  },
-  {
     "name": "오늘도있는가",
     "level": 85,
     "grade": 19,
     "class": "RuneScribe",
+    "guild": "프리아",
+    "world": "16-1"
+  },
+  {
+    "name": "열일중",
+    "level": 85,
+    "grade": 20,
+    "class": "SolarSentinel",
     "guild": "프리아",
     "world": "16-1"
   },
@@ -32977,7 +32977,7 @@
   },
   {
     "name": "추박",
-    "level": 86,
+    "level": 87,
     "grade": 22,
     "class": "AbyssRevenant",
     "guild": "연예인결사",
@@ -33059,7 +33059,7 @@
     "name": "연예인",
     "level": 86,
     "grade": 22,
-    "class": "RuneScribe",
+    "class": "WildWarrior",
     "guild": "연예인결사",
     "world": "16-2"
   },
@@ -35779,7 +35779,7 @@
     "name": "리치",
     "level": 82,
     "grade": 18,
-    "class": "AbyssRevenant",
+    "class": "WildWarrior",
     "guild": "푸릇",
     "world": "16-5"
   },
@@ -35921,7 +35921,7 @@
   },
   {
     "name": "동신노가다",
-    "level": 81,
+    "level": 80,
     "grade": 17,
     "class": "RuneScribe",
     "guild": "LOL",
@@ -36328,18 +36328,18 @@
     "world": "27-1"
   },
   {
-    "name": "에바",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "유기농",
-    "world": "27-1"
-  },
-  {
     "name": "루트",
     "level": 83,
     "grade": 19,
     "class": "IncenseArcher",
+    "guild": "유기농",
+    "world": "27-1"
+  },
+  {
+    "name": "에바",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
     "guild": "유기농",
     "world": "27-1"
   },
@@ -36475,7 +36475,7 @@
     "name": "난초",
     "level": 81,
     "grade": 18,
-    "class": "MirageBlade",
+    "class": "WildWarrior",
     "guild": "유기농",
     "world": "27-1"
   },
@@ -38712,14 +38712,6 @@
     "world": "27-4"
   },
   {
-    "name": "레몬",
-    "level": 81,
-    "grade": 18,
-    "class": "AbyssRevenant",
-    "guild": "검증된연구가",
-    "world": "27-4"
-  },
-  {
     "name": "난심연",
     "level": 81,
     "grade": 18,
@@ -38757,6 +38749,14 @@
     "grade": 18,
     "class": "SolarSentinel",
     "guild": "Nan",
+    "world": "27-4"
+  },
+  {
+    "name": "레몬",
+    "level": 81,
+    "grade": 18,
+    "class": "AbyssRevenant",
+    "guild": "검증된연구가",
     "world": "27-4"
   },
   {
@@ -39299,7 +39299,7 @@
     "name": "악마",
     "level": 82,
     "grade": 17,
-    "class": "SolarSentinel",
+    "class": "WildWarrior",
     "guild": "봄도둑",
     "world": "27-5"
   },
