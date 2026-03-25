@@ -4810,7 +4810,7 @@
   {
     "name": "프알",
     "level": 91,
-    "grade": 24,
+    "grade": 25,
     "class": "WildWarrior",
     "guild": "MAD",
     "world": "3-2"
@@ -14704,19 +14704,19 @@
     "world": "8-4"
   },
   {
-    "name": "진뻬이",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "악연",
-    "world": "8-4"
-  },
-  {
     "name": "현읭",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
+    "name": "진뻬이",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "악연",
     "world": "8-4"
   },
   {
@@ -15536,14 +15536,6 @@
     "world": "8-5"
   },
   {
-    "name": "장성",
-    "level": 90,
-    "grade": 24,
-    "class": "WildWarrior",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "금쪽이",
     "level": 90,
     "grade": 24,
@@ -15552,19 +15544,19 @@
     "world": "8-5"
   },
   {
-    "name": "강남꿀꿀",
-    "level": 90,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "강남",
-    "world": "8-5"
-  },
-  {
     "name": "축복마루",
     "level": 90,
     "grade": 25,
     "class": "SolarSentinel",
     "guild": "축복",
+    "world": "8-5"
+  },
+  {
+    "name": "장성",
+    "level": 90,
+    "grade": 24,
+    "class": "WildWarrior",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -15589,6 +15581,14 @@
     "grade": 24,
     "class": "WildWarrior",
     "guild": "금쪽이",
+    "world": "8-5"
+  },
+  {
+    "name": "강남꿀꿀",
+    "level": 90,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "강남",
     "world": "8-5"
   },
   {
@@ -19530,7 +19530,7 @@
   {
     "name": "순백",
     "level": 81,
-    "grade": 18,
+    "grade": 19,
     "class": "RuneScribe",
     "guild": "룬어",
     "world": "10-5"
@@ -26920,19 +26920,19 @@
     "world": "12-4"
   },
   {
-    "name": "안고은",
-    "level": 82,
-    "grade": 17,
-    "class": "SolarSentinel",
-    "guild": "모범택시",
-    "world": "12-4"
-  },
-  {
     "name": "사인각문주",
     "level": 82,
     "grade": 18,
     "class": "RuneScribe",
     "guild": "냐오",
+    "world": "12-4"
+  },
+  {
+    "name": "안고은",
+    "level": 82,
+    "grade": 17,
+    "class": "SolarSentinel",
+    "guild": "모범택시",
     "world": "12-4"
   },
   {
@@ -31832,19 +31832,19 @@
     "world": "14-5"
   },
   {
-    "name": "파무더",
-    "level": 82,
-    "grade": 18,
-    "class": "IncenseArcher",
-    "guild": "라",
-    "world": "14-5"
-  },
-  {
     "name": "호빵이",
     "level": 82,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "shadow",
+    "world": "14-5"
+  },
+  {
+    "name": "파무더",
+    "level": 82,
+    "grade": 18,
+    "class": "IncenseArcher",
+    "guild": "라",
     "world": "14-5"
   },
   {
@@ -31904,19 +31904,19 @@
     "world": "14-5"
   },
   {
-    "name": "도요",
-    "level": 82,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "핑크좀비",
-    "world": "14-5"
-  },
-  {
     "name": "야함",
     "level": 82,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "shadow",
+    "world": "14-5"
+  },
+  {
+    "name": "도요",
+    "level": 82,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "핑크좀비",
     "world": "14-5"
   },
   {
@@ -33056,19 +33056,19 @@
     "world": "16-2"
   },
   {
-    "name": "연예인",
-    "level": 86,
-    "grade": 22,
-    "class": "WildWarrior",
-    "guild": "연예인결사",
-    "world": "16-2"
-  },
-  {
     "name": "스피키",
     "level": 86,
     "grade": 23,
     "class": "WildWarrior",
     "guild": "허거덩",
+    "world": "16-2"
+  },
+  {
+    "name": "연예인",
+    "level": 86,
+    "grade": 22,
+    "class": "WildWarrior",
+    "guild": "연예인결사",
     "world": "16-2"
   },
   {
@@ -36232,19 +36232,19 @@
     "world": "27-1"
   },
   {
-    "name": "미나수",
-    "level": 84,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "바다",
-    "world": "27-1"
-  },
-  {
     "name": "프로토콜",
     "level": 84,
     "grade": 21,
     "class": "Enforcer",
     "guild": "탑",
+    "world": "27-1"
+  },
+  {
+    "name": "미나수",
+    "level": 84,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "바다",
     "world": "27-1"
   },
   {
