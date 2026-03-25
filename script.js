@@ -8,6 +8,7 @@ Enforcer:"집행관",
 IncenseArcher:"향사수",
 MirageBlade:"환영검사",
 RuneScribe:"주문각인사",
+WildWarrior:"야만투사",
 AbyssRevenant:"심연추방자"
 };
 
