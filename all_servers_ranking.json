@@ -6080,19 +6080,19 @@
     "world": "3-3"
   },
   {
-    "name": "DELTA",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "가을",
-    "world": "3-3"
-  },
-  {
     "name": "김선비",
     "level": 87,
     "grade": 22,
     "class": "Enforcer",
     "guild": "광란",
+    "world": "3-3"
+  },
+  {
+    "name": "DELTA",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "가을",
     "world": "3-3"
   },
   {
@@ -7298,7 +7298,7 @@
   {
     "name": "앙쨩",
     "level": 90,
-    "grade": 24,
+    "grade": 25,
     "class": "Enforcer",
     "guild": "광기",
     "world": "3-5"
@@ -9272,19 +9272,19 @@
     "world": "5-2"
   },
   {
-    "name": "보리",
-    "level": 79,
-    "grade": 15,
-    "class": "RuneScribe",
-    "guild": "2군",
-    "world": "5-2"
-  },
-  {
     "name": "불량아",
     "level": 79,
     "grade": 15,
     "class": "Enforcer",
     "guild": "풍월",
+    "world": "5-2"
+  },
+  {
+    "name": "보리",
+    "level": 79,
+    "grade": 15,
+    "class": "RuneScribe",
+    "guild": "2군",
     "world": "5-2"
   },
   {
@@ -11616,19 +11616,19 @@
     "world": "5-5"
   },
   {
-    "name": "랄랄",
-    "level": 88,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "DOG",
-    "world": "5-5"
-  },
-  {
     "name": "제파",
     "level": 88,
     "grade": 24,
     "class": "WildWarrior",
     "guild": "더킹",
+    "world": "5-5"
+  },
+  {
+    "name": "랄랄",
+    "level": 88,
+    "grade": 23,
+    "class": "RuneScribe",
+    "guild": "DOG",
     "world": "5-5"
   },
   {
@@ -15160,19 +15160,19 @@
     "world": "8-4"
   },
   {
-    "name": "감귤이아빠",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "흥흥이",
     "level": 87,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "감귤이아빠",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -16536,19 +16536,19 @@
     "world": "10-1"
   },
   {
-    "name": "찬란",
-    "level": 78,
-    "grade": 15,
-    "class": "Enforcer",
-    "guild": "라니스터",
-    "world": "10-1"
-  },
-  {
     "name": "트리니티",
     "level": 78,
     "grade": 15,
     "class": "Enforcer",
     "guild": "편하게",
+    "world": "10-1"
+  },
+  {
+    "name": "찬란",
+    "level": 78,
+    "grade": 15,
+    "class": "Enforcer",
+    "guild": "라니스터",
     "world": "10-1"
   },
   {
@@ -23275,7 +23275,7 @@
     "name": "드라고니아",
     "level": 83,
     "grade": 18,
-    "class": "MirageBlade",
+    "class": "WildWarrior",
     "guild": "사자심왕",
     "world": "11-5"
   },
@@ -32912,19 +32912,19 @@
     "world": "16-2"
   },
   {
-    "name": "투두투두투두투두투두",
-    "level": 87,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "니들이버기단을알어",
-    "world": "16-2"
-  },
-  {
     "name": "카이든",
     "level": 87,
     "grade": 23,
     "class": "MirageBlade",
     "guild": "화산",
+    "world": "16-2"
+  },
+  {
+    "name": "투두투두투두투두투두",
+    "level": 87,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "니들이버기단을알어",
     "world": "16-2"
   },
   {
@@ -33441,7 +33441,7 @@
   },
   {
     "name": "다이소",
-    "level": 83,
+    "level": 84,
     "grade": 20,
     "class": "WildWarrior",
     "guild": "니들이버기단을알어",
@@ -37632,6 +37632,14 @@
     "world": "27-3"
   },
   {
+    "name": "금새록",
+    "level": 85,
+    "grade": 20,
+    "class": "AbyssRevenant",
+    "guild": "스타",
+    "world": "27-3"
+  },
+  {
     "name": "진짜심연",
     "level": 85,
     "grade": 21,
@@ -37645,14 +37653,6 @@
     "grade": 21,
     "class": "Enforcer",
     "guild": "월하익송",
-    "world": "27-3"
-  },
-  {
-    "name": "금새록",
-    "level": 85,
-    "grade": 20,
-    "class": "AbyssRevenant",
-    "guild": "스타",
     "world": "27-3"
   },
   {
@@ -38288,19 +38288,19 @@
     "world": "27-3"
   },
   {
-    "name": "스텐더",
-    "level": 80,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "라스트댄스",
-    "world": "27-3"
-  },
-  {
     "name": "해준",
     "level": 80,
     "grade": 19,
     "class": "WildWarrior",
     "guild": "스타",
+    "world": "27-3"
+  },
+  {
+    "name": "스텐더",
+    "level": 80,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "라스트댄스",
     "world": "27-3"
   },
   {
