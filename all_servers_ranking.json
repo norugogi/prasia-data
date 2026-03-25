@@ -9968,19 +9968,19 @@
     "world": "5-3"
   },
   {
-    "name": "비치",
-    "level": 79,
-    "grade": 15,
-    "class": "MirageBlade",
-    "guild": "파스텔",
-    "world": "5-3"
-  },
-  {
     "name": "비공개",
     "level": 79,
     "grade": 7,
     "class": "AbyssRevenant",
     "guild": "비공개",
+    "world": "5-3"
+  },
+  {
+    "name": "비치",
+    "level": 79,
+    "grade": 15,
+    "class": "MirageBlade",
+    "guild": "파스텔",
     "world": "5-3"
   },
   {
@@ -10648,19 +10648,19 @@
     "world": "5-4"
   },
   {
-    "name": "강과장",
-    "level": 83,
-    "grade": 19,
-    "class": "WildWarrior",
-    "guild": "댕이",
-    "world": "5-4"
-  },
-  {
     "name": "카진",
     "level": 83,
     "grade": 18,
     "class": "Enforcer",
     "guild": "광명",
+    "world": "5-4"
+  },
+  {
+    "name": "강과장",
+    "level": 83,
+    "grade": 19,
+    "class": "WildWarrior",
+    "guild": "댕이",
     "world": "5-4"
   },
   {
@@ -16528,19 +16528,19 @@
     "world": "10-1"
   },
   {
-    "name": "추석",
-    "level": 78,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": "추론",
-    "world": "10-1"
-  },
-  {
     "name": "트리니티",
     "level": 78,
     "grade": 15,
     "class": "Enforcer",
     "guild": "편하게",
+    "world": "10-1"
+  },
+  {
+    "name": "추석",
+    "level": 78,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": "추론",
     "world": "10-1"
   },
   {
@@ -17288,14 +17288,6 @@
     "world": "10-2"
   },
   {
-    "name": "뜌감자",
-    "level": 83,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "이장님",
-    "world": "10-2"
-  },
-  {
     "name": "Ashrock",
     "level": 83,
     "grade": 19,
@@ -17333,6 +17325,14 @@
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "우왕",
+    "world": "10-2"
+  },
+  {
+    "name": "뜌감자",
+    "level": 82,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "이장님",
     "world": "10-2"
   },
   {
@@ -19088,19 +19088,19 @@
     "world": "10-4"
   },
   {
-    "name": "tttt",
-    "level": 82,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "tttt",
-    "world": "10-4"
-  },
-  {
     "name": "사건의지평선",
     "level": 82,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "중간계",
+    "world": "10-4"
+  },
+  {
+    "name": "tttt",
+    "level": 82,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "tttt",
     "world": "10-4"
   },
   {
@@ -21728,19 +21728,19 @@
     "world": "11-3"
   },
   {
-    "name": "귀염귀염",
-    "level": 85,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "HERO",
-    "world": "11-3"
-  },
-  {
     "name": "브라우니",
     "level": 85,
     "grade": 20,
     "class": "Enforcer",
     "guild": "유목민",
+    "world": "11-3"
+  },
+  {
+    "name": "귀염귀염",
+    "level": 85,
+    "grade": 20,
+    "class": "IncenseArcher",
+    "guild": "HERO",
     "world": "11-3"
   },
   {
@@ -22456,14 +22456,6 @@
     "world": "11-4"
   },
   {
-    "name": "시절인연",
-    "level": 87,
-    "grade": 22,
-    "class": "AbyssRevenant",
-    "guild": "AURA",
-    "world": "11-4"
-  },
-  {
     "name": "블링",
     "level": 87,
     "grade": 21,
@@ -22476,6 +22468,14 @@
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
+    "guild": "AURA",
+    "world": "11-4"
+  },
+  {
+    "name": "시절인연",
+    "level": 87,
+    "grade": 22,
+    "class": "AbyssRevenant",
     "guild": "AURA",
     "world": "11-4"
   },
@@ -22664,19 +22664,19 @@
     "world": "11-4"
   },
   {
-    "name": "휴식비둘기",
-    "level": 85,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "휴식",
-    "world": "11-4"
-  },
-  {
     "name": "수유리관성드리프트",
     "level": 85,
     "grade": 19,
     "class": "MirageBlade",
     "guild": "AURA",
+    "world": "11-4"
+  },
+  {
+    "name": "휴식비둘기",
+    "level": 85,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "휴식",
     "world": "11-4"
   },
   {
@@ -25235,7 +25235,7 @@
     "name": "크렌",
     "level": 85,
     "grade": 21,
-    "class": "AbyssRevenant",
+    "class": "WildWarrior",
     "guild": "전당포",
     "world": "12-2"
   },
@@ -37155,7 +37155,7 @@
     "name": "기상",
     "level": 85,
     "grade": 22,
-    "class": "AbyssRevenant",
+    "class": "RuneScribe",
     "guild": "북극성",
     "world": "27-2"
   },
@@ -39024,19 +39024,19 @@
     "world": "27-4"
   },
   {
-    "name": "넉살",
-    "level": 79,
-    "grade": 15,
-    "class": "AbyssRevenant",
-    "guild": "한국인",
-    "world": "27-4"
-  },
-  {
     "name": "날라",
     "level": 79,
     "grade": 17,
     "class": "AbyssRevenant",
     "guild": "Nan",
+    "world": "27-4"
+  },
+  {
+    "name": "넉살",
+    "level": 79,
+    "grade": 15,
+    "class": "AbyssRevenant",
+    "guild": "한국인",
     "world": "27-4"
   },
   {
