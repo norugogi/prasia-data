@@ -4857,7 +4857,7 @@
   },
   {
     "name": "털보",
-    "level": 90,
+    "level": 91,
     "grade": 24,
     "class": "WildWarrior",
     "guild": "MAD",
@@ -14280,19 +14280,19 @@
     "world": "8-3"
   },
   {
-    "name": "프라프치노",
-    "level": 77,
-    "grade": 15,
-    "class": "AbyssRevenant",
-    "guild": null,
-    "world": "8-3"
-  },
-  {
     "name": "다크꾸리",
     "level": 77,
     "grade": 15,
     "class": "IncenseArcher",
     "guild": "시아",
+    "world": "8-3"
+  },
+  {
+    "name": "프라프치노",
+    "level": 77,
+    "grade": 15,
+    "class": "AbyssRevenant",
+    "guild": null,
     "world": "8-3"
   },
   {
@@ -15145,7 +15145,7 @@
   },
   {
     "name": "참꺠",
-    "level": 87,
+    "level": 88,
     "grade": 24,
     "class": "Enforcer",
     "guild": "GOAT",
@@ -15840,14 +15840,6 @@
     "world": "8-5"
   },
   {
-    "name": "명검",
-    "level": 90,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "CodeName",
-    "world": "8-5"
-  },
-  {
     "name": "우루루설운도",
     "level": 90,
     "grade": 24,
@@ -15877,6 +15869,14 @@
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "금쪽이",
+    "world": "8-5"
+  },
+  {
+    "name": "명검",
+    "level": 89,
+    "grade": 24,
+    "class": "MirageBlade",
+    "guild": "CodeName",
     "world": "8-5"
   },
   {
@@ -32688,19 +32688,19 @@
     "world": "16-1"
   },
   {
-    "name": "짠별",
-    "level": 82,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "짠",
-    "world": "16-1"
-  },
-  {
     "name": "쿠샨",
     "level": 82,
     "grade": 17,
     "class": "AbyssRevenant",
     "guild": "표국",
+    "world": "16-1"
+  },
+  {
+    "name": "짠별",
+    "level": 82,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": "짠",
     "world": "16-1"
   },
   {
@@ -39864,19 +39864,19 @@
     "world": "27-5"
   },
   {
-    "name": "아퀴",
-    "level": 78,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "아퀴",
-    "world": "27-5"
-  },
-  {
     "name": "뭉치",
     "level": 78,
     "grade": 18,
     "class": "Enforcer",
     "guild": "봄도둑",
+    "world": "27-5"
+  },
+  {
+    "name": "아퀴",
+    "level": 78,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "아퀴",
     "world": "27-5"
   },
   {
