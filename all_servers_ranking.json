@@ -5162,7 +5162,7 @@
   {
     "name": "샤넬스트로우",
     "level": 88,
-    "grade": 24,
+    "grade": 25,
     "class": "RuneScribe",
     "guild": "MAD",
     "world": "3-2"
@@ -12744,6 +12744,14 @@
     "world": "8-1"
   },
   {
+    "name": "명품도군",
+    "level": 87,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "명품",
+    "world": "8-1"
+  },
+  {
     "name": "살생",
     "level": 87,
     "grade": 22,
@@ -12788,14 +12796,6 @@
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
-    "guild": "츄",
-    "world": "8-1"
-  },
-  {
-    "name": "츄리닝",
-    "level": 87,
-    "grade": 23,
-    "class": "RuneScribe",
     "guild": "츄",
     "world": "8-1"
   },
@@ -14680,19 +14680,19 @@
     "world": "8-4"
   },
   {
-    "name": "눈뜨니열두시",
-    "level": 89,
-    "grade": 24,
-    "class": "WildWarrior",
-    "guild": "GOAT",
-    "world": "8-4"
-  },
-  {
     "name": "쿼카",
     "level": 89,
     "grade": 24,
     "class": "WildWarrior",
     "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "눈뜨니열두시",
+    "level": 89,
+    "grade": 24,
+    "class": "WildWarrior",
+    "guild": "GOAT",
     "world": "8-4"
   },
   {
@@ -15752,6 +15752,14 @@
     "world": "8-5"
   },
   {
+    "name": "강마스터이",
+    "level": 90,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "강남",
+    "world": "8-5"
+  },
+  {
     "name": "강타카",
     "level": 90,
     "grade": 24,
@@ -15804,14 +15812,6 @@
     "level": 90,
     "grade": 24,
     "class": "WildWarrior",
-    "guild": "강남",
-    "world": "8-5"
-  },
-  {
-    "name": "강마스터이",
-    "level": 90,
-    "grade": 24,
-    "class": "IncenseArcher",
     "guild": "강남",
     "world": "8-5"
   },
@@ -21136,19 +21136,19 @@
     "world": "11-2"
   },
   {
-    "name": "착한농사꾼",
-    "level": 85,
-    "grade": 21,
-    "class": "IncenseArcher",
-    "guild": "농사를지읍시다",
-    "world": "11-2"
-  },
-  {
     "name": "꽃돼지",
     "level": 85,
     "grade": 22,
     "class": "SolarSentinel",
     "guild": "동물구조대",
+    "world": "11-2"
+  },
+  {
+    "name": "착한농사꾼",
+    "level": 85,
+    "grade": 21,
+    "class": "IncenseArcher",
+    "guild": "농사를지읍시다",
     "world": "11-2"
   },
   {
@@ -28553,7 +28553,7 @@
   },
   {
     "name": "잉어킹",
-    "level": 80,
+    "level": 81,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "인벌",
@@ -35448,14 +35448,6 @@
     "world": "16-5"
   },
   {
-    "name": "지도자",
-    "level": 85,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "마왕군",
-    "world": "16-5"
-  },
-  {
     "name": "패션후르츠",
     "level": 85,
     "grade": 20,
@@ -35468,6 +35460,14 @@
     "level": 85,
     "grade": 21,
     "class": "WildWarrior",
+    "guild": "마왕군",
+    "world": "16-5"
+  },
+  {
+    "name": "지도자",
+    "level": 85,
+    "grade": 20,
+    "class": "Enforcer",
     "guild": "마왕군",
     "world": "16-5"
   },
