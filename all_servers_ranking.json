@@ -3072,19 +3072,19 @@
     "world": "2-4"
   },
   {
-    "name": "길잡이",
-    "level": 78,
-    "grade": 15,
-    "class": "MirageBlade",
-    "guild": "길잡이",
-    "world": "2-4"
-  },
-  {
     "name": "레오오",
     "level": 78,
     "grade": 15,
     "class": "MirageBlade",
     "guild": "바다",
+    "world": "2-4"
+  },
+  {
+    "name": "길잡이",
+    "level": 78,
+    "grade": 15,
+    "class": "MirageBlade",
+    "guild": "길잡이",
     "world": "2-4"
   },
   {
@@ -5248,6 +5248,14 @@
     "world": "3-2"
   },
   {
+    "name": "상어",
+    "level": 88,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "ZED",
+    "world": "3-2"
+  },
+  {
     "name": "단골",
     "level": 88,
     "grade": 24,
@@ -5261,14 +5269,6 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "MAD",
-    "world": "3-2"
-  },
-  {
-    "name": "상어",
-    "level": 88,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "ZED",
     "world": "3-2"
   },
   {
@@ -7104,19 +7104,19 @@
     "world": "3-4"
   },
   {
-    "name": "다소미",
-    "level": 85,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "개",
-    "world": "3-4"
-  },
-  {
     "name": "은가비",
     "level": 85,
     "grade": 21,
     "class": "RuneScribe",
     "guild": "IYOU",
+    "world": "3-4"
+  },
+  {
+    "name": "다소미",
+    "level": 85,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "개",
     "world": "3-4"
   },
   {
@@ -22489,7 +22489,7 @@
   },
   {
     "name": "향사수",
-    "level": 86,
+    "level": 87,
     "grade": 21,
     "class": "IncenseArcher",
     "guild": "AURA",
@@ -28536,19 +28536,19 @@
     "world": "14-1"
   },
   {
-    "name": "삐삐",
-    "level": 81,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "TT",
-    "world": "14-1"
-  },
-  {
     "name": "잉어킹",
     "level": 81,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "인벌",
+    "world": "14-1"
+  },
+  {
+    "name": "삐삐",
+    "level": 81,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "TT",
     "world": "14-1"
   },
   {
@@ -33256,6 +33256,14 @@
     "world": "16-2"
   },
   {
+    "name": "계부",
+    "level": 85,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "니들이버기단을알어",
+    "world": "16-2"
+  },
+  {
     "name": "고양이최애간식츄르",
     "level": 84,
     "grade": 21,
@@ -33285,14 +33293,6 @@
     "grade": 20,
     "class": "Enforcer",
     "guild": "화산",
-    "world": "16-2"
-  },
-  {
-    "name": "계부",
-    "level": 84,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "니들이버기단을알어",
     "world": "16-2"
   },
   {
