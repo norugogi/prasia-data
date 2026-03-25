@@ -5560,19 +5560,19 @@
     "world": "3-2"
   },
   {
-    "name": "청바지",
-    "level": 86,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "적토마",
-    "world": "3-2"
-  },
-  {
     "name": "동의",
     "level": 86,
     "grade": 21,
     "class": "Enforcer",
     "guild": "SAD",
+    "world": "3-2"
+  },
+  {
+    "name": "청바지",
+    "level": 86,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "적토마",
     "world": "3-2"
   },
   {
@@ -12944,18 +12944,18 @@
     "world": "8-2"
   },
   {
-    "name": "라이드",
-    "level": 86,
-    "grade": 21,
-    "class": "IncenseArcher",
-    "guild": "홀리데이",
-    "world": "8-2"
-  },
-  {
     "name": "속쓰리면트리겔정",
     "level": 86,
     "grade": 22,
     "class": "RuneScribe",
+    "guild": "홀리데이",
+    "world": "8-2"
+  },
+  {
+    "name": "라이드",
+    "level": 86,
+    "grade": 21,
+    "class": "IncenseArcher",
     "guild": "홀리데이",
     "world": "8-2"
   },
@@ -15616,14 +15616,6 @@
     "world": "8-5"
   },
   {
-    "name": "어둠라미",
-    "level": 90,
-    "grade": 24,
-    "class": "WildWarrior",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "강테릭",
     "level": 90,
     "grade": 24,
@@ -15645,6 +15637,14 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "축복",
+    "world": "8-5"
+  },
+  {
+    "name": "어둠라미",
+    "level": 90,
+    "grade": 24,
+    "class": "WildWarrior",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -18859,7 +18859,7 @@
     "name": "힐해",
     "level": 83,
     "grade": 21,
-    "class": "MirageBlade",
+    "class": "WildWarrior",
     "guild": "힐싸개",
     "world": "10-4"
   },
@@ -21091,7 +21091,7 @@
     "name": "오다코",
     "level": 86,
     "grade": 20,
-    "class": "Enforcer",
+    "class": "WildWarrior",
     "guild": "흑살",
     "world": "11-2"
   },
@@ -21464,14 +21464,6 @@
     "world": "11-2"
   },
   {
-    "name": "술취한하마",
-    "level": 82,
-    "grade": 19,
-    "class": "MirageBlade",
-    "guild": "동물구조대",
-    "world": "11-2"
-  },
-  {
     "name": "별사탕",
     "level": 82,
     "grade": 19,
@@ -21485,6 +21477,14 @@
     "grade": 18,
     "class": "Enforcer",
     "guild": null,
+    "world": "11-2"
+  },
+  {
+    "name": "술취한하마",
+    "level": 82,
+    "grade": 19,
+    "class": "MirageBlade",
+    "guild": "동물구조대",
     "world": "11-2"
   },
   {
@@ -23936,19 +23936,19 @@
     "world": "11-5"
   },
   {
-    "name": "금옥",
-    "level": 75,
-    "grade": 14,
-    "class": "Enforcer",
-    "guild": null,
-    "world": "11-5"
-  },
-  {
     "name": "찐띠",
     "level": 75,
     "grade": 15,
     "class": "IncenseArcher",
     "guild": "솔라스톤",
+    "world": "11-5"
+  },
+  {
+    "name": "금옥",
+    "level": 75,
+    "grade": 14,
+    "class": "Enforcer",
+    "guild": null,
     "world": "11-5"
   },
   {
@@ -24194,7 +24194,7 @@
   {
     "name": "삐뽀삐뽀저승차",
     "level": 84,
-    "grade": 20,
+    "grade": 21,
     "class": "RuneScribe",
     "guild": "저승",
     "world": "12-1"
@@ -25184,6 +25184,14 @@
     "world": "12-2"
   },
   {
+    "name": "사오정",
+    "level": 85,
+    "grade": 21,
+    "class": "IncenseArcher",
+    "guild": "페리카나주문진점",
+    "world": "12-2"
+  },
+  {
     "name": "츠키",
     "level": 85,
     "grade": 20,
@@ -25197,14 +25205,6 @@
     "grade": 21,
     "class": "RuneScribe",
     "guild": "킹덤",
-    "world": "12-2"
-  },
-  {
-    "name": "사오정",
-    "level": 85,
-    "grade": 21,
-    "class": "IncenseArcher",
-    "guild": "페리카나주문진점",
     "world": "12-2"
   },
   {
@@ -25544,14 +25544,6 @@
     "world": "12-2"
   },
   {
-    "name": "사구다시",
-    "level": 83,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "전당포",
-    "world": "12-2"
-  },
-  {
     "name": "신화",
     "level": 83,
     "grade": 19,
@@ -25581,6 +25573,14 @@
     "grade": 19,
     "class": "SolarSentinel",
     "guild": "지능",
+    "world": "12-2"
+  },
+  {
+    "name": "사구다시",
+    "level": 83,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "전당포",
     "world": "12-2"
   },
   {
@@ -32995,7 +32995,7 @@
     "name": "엔티",
     "level": 86,
     "grade": 23,
-    "class": "IncenseArcher",
+    "class": "WildWarrior",
     "guild": "화산",
     "world": "16-2"
   },
@@ -36521,7 +36521,7 @@
   },
   {
     "name": "피클",
-    "level": 80,
+    "level": 81,
     "grade": 17,
     "class": "MirageBlade",
     "guild": "유기농",
