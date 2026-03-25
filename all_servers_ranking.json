@@ -4898,7 +4898,7 @@
   {
     "name": "판사",
     "level": 90,
-    "grade": 24,
+    "grade": 25,
     "class": "Enforcer",
     "guild": "MAD",
     "world": "3-2"
@@ -5513,7 +5513,7 @@
   },
   {
     "name": "청실",
-    "level": 86,
+    "level": 87,
     "grade": 22,
     "class": "WildWarrior",
     "guild": "아마존",
@@ -7354,7 +7354,7 @@
   {
     "name": "아뵤",
     "level": 90,
-    "grade": 24,
+    "grade": 25,
     "class": "Enforcer",
     "guild": "광기",
     "world": "3-5"
@@ -8352,18 +8352,18 @@
     "world": "5-1"
   },
   {
-    "name": "깡날여왕",
-    "level": 89,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "미깡",
-    "world": "5-1"
-  },
-  {
     "name": "한방형",
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "미깡",
+    "world": "5-1"
+  },
+  {
+    "name": "깡날여왕",
+    "level": 89,
+    "grade": 23,
+    "class": "Enforcer",
     "guild": "미깡",
     "world": "5-1"
   },
@@ -15272,19 +15272,19 @@
     "world": "8-5"
   },
   {
-    "name": "코카콜라",
-    "level": 91,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "나나나나",
     "level": 91,
     "grade": 25,
     "class": "SolarSentinel",
     "guild": "축복",
+    "world": "8-5"
+  },
+  {
+    "name": "코카콜라",
+    "level": 91,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -15544,19 +15544,19 @@
     "world": "8-5"
   },
   {
-    "name": "강남꿀꿀",
-    "level": 90,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "강남",
-    "world": "8-5"
-  },
-  {
     "name": "축복마루",
     "level": 90,
     "grade": 25,
     "class": "SolarSentinel",
     "guild": "축복",
+    "world": "8-5"
+  },
+  {
+    "name": "강남꿀꿀",
+    "level": 90,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "강남",
     "world": "8-5"
   },
   {
@@ -18960,19 +18960,19 @@
     "world": "10-4"
   },
   {
-    "name": "봄이온다",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "힐싸개",
-    "world": "10-4"
-  },
-  {
     "name": "암혼",
     "level": 83,
     "grade": 19,
     "class": "MirageBlade",
     "guild": "흑백",
+    "world": "10-4"
+  },
+  {
+    "name": "봄이온다",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "힐싸개",
     "world": "10-4"
   },
   {
@@ -21248,19 +21248,19 @@
     "world": "11-2"
   },
   {
-    "name": "프랭",
-    "level": 84,
-    "grade": 21,
-    "class": "SolarSentinel",
-    "guild": "달빛",
-    "world": "11-2"
-  },
-  {
     "name": "교탁",
     "level": 84,
     "grade": 21,
     "class": "SolarSentinel",
     "guild": "오리온",
+    "world": "11-2"
+  },
+  {
+    "name": "프랭",
+    "level": 84,
+    "grade": 21,
+    "class": "SolarSentinel",
+    "guild": "달빛",
     "world": "11-2"
   },
   {
@@ -29288,19 +29288,19 @@
     "world": "14-2"
   },
   {
-    "name": "변경합니다",
-    "level": 83,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "프리덤",
-    "world": "14-2"
-  },
-  {
     "name": "허준",
     "level": 83,
     "grade": 19,
     "class": "SolarSentinel",
     "guild": "드라마",
+    "world": "14-2"
+  },
+  {
+    "name": "변경합니다",
+    "level": 83,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "프리덤",
     "world": "14-2"
   },
   {
@@ -36240,19 +36240,19 @@
     "world": "27-1"
   },
   {
-    "name": "미나수",
-    "level": 84,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "바다",
-    "world": "27-1"
-  },
-  {
     "name": "개념",
     "level": 84,
     "grade": 20,
     "class": "Enforcer",
     "guild": "탑",
+    "world": "27-1"
+  },
+  {
+    "name": "미나수",
+    "level": 84,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "바다",
     "world": "27-1"
   },
   {
@@ -36888,19 +36888,19 @@
     "world": "27-2"
   },
   {
-    "name": "검휘",
-    "level": 87,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "천랑성",
-    "world": "27-2"
-  },
-  {
     "name": "왈라리요",
     "level": 87,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "북극성",
+    "world": "27-2"
+  },
+  {
+    "name": "검휘",
+    "level": 87,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "천랑성",
     "world": "27-2"
   },
   {
@@ -37033,7 +37033,7 @@
   },
   {
     "name": "진짜창동이",
-    "level": 85,
+    "level": 86,
     "grade": 23,
     "class": "SolarSentinel",
     "guild": "북극성",
