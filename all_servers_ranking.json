@@ -3210,7 +3210,7 @@
   {
     "name": "아델리",
     "level": 88,
-    "grade": 24,
+    "grade": 25,
     "class": "Enforcer",
     "guild": "최고",
     "world": "2-5"
@@ -4003,7 +4003,7 @@
     "name": "노덴버",
     "level": 92,
     "grade": 24,
-    "class": "IncenseArcher",
+    "class": "SolarSentinel",
     "guild": "NO",
     "world": "3-1"
   },
@@ -5331,7 +5331,7 @@
     "name": "바알",
     "level": 87,
     "grade": 22,
-    "class": "RuneScribe",
+    "class": "WildWarrior",
     "guild": "SAD",
     "world": "3-2"
   },
@@ -8627,7 +8627,7 @@
     "name": "포도탕후루",
     "level": 86,
     "grade": 23,
-    "class": "Enforcer",
+    "class": "WildWarrior",
     "guild": "탕후루",
     "world": "5-1"
   },
@@ -12803,7 +12803,7 @@
     "name": "올라",
     "level": 90,
     "grade": 24,
-    "class": "AbyssRevenant",
+    "class": "RuneScribe",
     "guild": "홀리데이",
     "world": "8-2"
   },
@@ -14760,18 +14760,18 @@
     "world": "8-4"
   },
   {
-    "name": "죄대한",
-    "level": 89,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "노터치",
-    "world": "8-4"
-  },
-  {
     "name": "쿼카츄",
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "죄대한",
+    "level": 89,
+    "grade": 24,
+    "class": "Enforcer",
     "guild": "노터치",
     "world": "8-4"
   },
@@ -17472,19 +17472,19 @@
     "world": "10-2"
   },
   {
-    "name": "왕거성",
-    "level": 82,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "10-2"
-  },
-  {
     "name": "초보우",
     "level": 82,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "폭풍두둥",
+    "world": "10-2"
+  },
+  {
+    "name": "왕거성",
+    "level": 82,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "10-2"
   },
   {
@@ -22168,7 +22168,7 @@
     "world": "11-3"
   },
   {
-    "name": "페른",
+    "name": "벨리온",
     "level": 79,
     "grade": 15,
     "class": "IncenseArcher",
@@ -22176,7 +22176,7 @@
     "world": "11-3"
   },
   {
-    "name": "벨리온",
+    "name": "페른",
     "level": 79,
     "grade": 15,
     "class": "IncenseArcher",
@@ -28707,7 +28707,7 @@
     "name": "리플",
     "level": 80,
     "grade": 17,
-    "class": "SolarSentinel",
+    "class": "WildWarrior",
     "guild": "치면죽음",
     "world": "14-1"
   },
@@ -29120,19 +29120,19 @@
     "world": "14-2"
   },
   {
-    "name": "챌린지",
-    "level": 84,
-    "grade": 20,
-    "class": "WildWarrior",
-    "guild": "아기고양이",
-    "world": "14-2"
-  },
-  {
     "name": "스타별",
     "level": 84,
     "grade": 19,
     "class": "MirageBlade",
     "guild": "드라마",
+    "world": "14-2"
+  },
+  {
+    "name": "챌린지",
+    "level": 84,
+    "grade": 20,
+    "class": "WildWarrior",
+    "guild": "아기고양이",
     "world": "14-2"
   },
   {
@@ -38160,19 +38160,19 @@
     "world": "27-3"
   },
   {
-    "name": "심연포차",
-    "level": 81,
-    "grade": 18,
-    "class": "WildWarrior",
-    "guild": "수호",
-    "world": "27-3"
-  },
-  {
     "name": "자하드",
     "level": 81,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "월하익송",
+    "world": "27-3"
+  },
+  {
+    "name": "심연포차",
+    "level": 81,
+    "grade": 18,
+    "class": "WildWarrior",
+    "guild": "수호",
     "world": "27-3"
   },
   {
@@ -39872,14 +39872,6 @@
     "world": "27-5"
   },
   {
-    "name": "스릉",
-    "level": 78,
-    "grade": 15,
-    "class": "Enforcer",
-    "guild": "FreeZone",
-    "world": "27-5"
-  },
-  {
     "name": "뭉치",
     "level": 78,
     "grade": 18,
@@ -39888,11 +39880,11 @@
     "world": "27-5"
   },
   {
-    "name": "박보영",
+    "name": "스릉",
     "level": 78,
-    "grade": 12,
-    "class": "AbyssRevenant",
-    "guild": "좋은친구들",
+    "grade": 15,
+    "class": "Enforcer",
+    "guild": "FreeZone",
     "world": "27-5"
   },
   {
@@ -39901,6 +39893,14 @@
     "grade": 7,
     "class": "AbyssRevenant",
     "guild": "Iran",
+    "world": "27-5"
+  },
+  {
+    "name": "박보영",
+    "level": 78,
+    "grade": 12,
+    "class": "AbyssRevenant",
+    "guild": "좋은친구들",
     "world": "27-5"
   },
   {
