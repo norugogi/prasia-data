@@ -7552,18 +7552,18 @@
     "world": "3-5"
   },
   {
-    "name": "간지쨩",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "광인",
-    "world": "3-5"
-  },
-  {
     "name": "슈스",
     "level": 89,
     "grade": 23,
     "class": "SolarSentinel",
+    "guild": "광인",
+    "world": "3-5"
+  },
+  {
+    "name": "간지쨩",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
     "guild": "광인",
     "world": "3-5"
   },
@@ -11640,18 +11640,18 @@
     "world": "5-5"
   },
   {
-    "name": "머두",
-    "level": 88,
-    "grade": 23,
-    "class": "WildWarrior",
-    "guild": "더킹",
-    "world": "5-5"
-  },
-  {
     "name": "기묘한이호와벚꽃엔딩",
     "level": 88,
     "grade": 24,
     "class": "RuneScribe",
+    "guild": "더킹",
+    "world": "5-5"
+  },
+  {
+    "name": "머두",
+    "level": 88,
+    "grade": 23,
+    "class": "WildWarrior",
     "guild": "더킹",
     "world": "5-5"
   },
@@ -12026,7 +12026,7 @@
   {
     "name": "탱준몬",
     "level": 91,
-    "grade": 24,
+    "grade": 25,
     "class": "IncenseArcher",
     "guild": "진격의영포티",
     "world": "8-1"
@@ -12058,7 +12058,7 @@
   {
     "name": "DlOR",
     "level": 91,
-    "grade": 24,
+    "grade": 25,
     "class": "SolarSentinel",
     "guild": "츄",
     "world": "8-1"
@@ -15226,7 +15226,7 @@
   {
     "name": "온달",
     "level": 92,
-    "grade": 24,
+    "grade": 25,
     "class": "Enforcer",
     "guild": "축복",
     "world": "8-5"
@@ -15752,14 +15752,6 @@
     "world": "8-5"
   },
   {
-    "name": "강마스터이",
-    "level": 90,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "강남",
-    "world": "8-5"
-  },
-  {
     "name": "강타카",
     "level": 90,
     "grade": 24,
@@ -15789,6 +15781,14 @@
     "grade": 24,
     "class": "RuneScribe",
     "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "강마스터이",
+    "level": 90,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "강남",
     "world": "8-5"
   },
   {
@@ -20259,7 +20259,7 @@
     "name": "콩조수",
     "level": 84,
     "grade": 20,
-    "class": "RuneScribe",
+    "class": "WildWarrior",
     "guild": "콩치",
     "world": "11-1"
   },
@@ -21155,7 +21155,7 @@
     "name": "카피바라",
     "level": 85,
     "grade": 20,
-    "class": "AbyssRevenant",
+    "class": "WildWarrior",
     "guild": "동물구조대",
     "world": "11-2"
   },
@@ -28049,7 +28049,7 @@
   },
   {
     "name": "뚜따",
-    "level": 87,
+    "level": 86,
     "grade": 22,
     "class": "WildWarrior",
     "guild": "요로",
@@ -30955,7 +30955,7 @@
     "name": "약속",
     "level": 75,
     "grade": 13,
-    "class": "MirageBlade",
+    "class": "WildWarrior",
     "guild": "위로",
     "world": "14-4"
   },
@@ -33064,19 +33064,19 @@
     "world": "16-2"
   },
   {
-    "name": "장혁",
-    "level": 86,
-    "grade": 20,
-    "class": "AbyssRevenant",
-    "guild": "연예인결사",
-    "world": "16-2"
-  },
-  {
     "name": "스피키",
     "level": 86,
     "grade": 23,
     "class": "WildWarrior",
     "guild": "허거덩",
+    "world": "16-2"
+  },
+  {
+    "name": "장혁",
+    "level": 86,
+    "grade": 20,
+    "class": "AbyssRevenant",
+    "guild": "연예인결사",
     "world": "16-2"
   },
   {
@@ -35227,7 +35227,7 @@
     "name": "차렷",
     "level": 89,
     "grade": 24,
-    "class": "WildWarrior",
+    "class": "Enforcer",
     "guild": "푸릇",
     "world": "16-5"
   },
@@ -36992,19 +36992,19 @@
     "world": "27-2"
   },
   {
-    "name": "바리",
-    "level": 86,
-    "grade": 23,
-    "class": "SolarSentinel",
-    "guild": "북극성",
-    "world": "27-2"
-  },
-  {
     "name": "로제",
     "level": 86,
     "grade": 23,
     "class": "Enforcer",
     "guild": "천랑성",
+    "world": "27-2"
+  },
+  {
+    "name": "바리",
+    "level": 86,
+    "grade": 23,
+    "class": "SolarSentinel",
+    "guild": "북극성",
     "world": "27-2"
   },
   {
@@ -37675,7 +37675,7 @@
     "name": "밍개",
     "level": 85,
     "grade": 20,
-    "class": "MirageBlade",
+    "class": "WildWarrior",
     "guild": "수호",
     "world": "27-3"
   },
@@ -39331,7 +39331,7 @@
     "name": "서황",
     "level": 81,
     "grade": 18,
-    "class": "Enforcer",
+    "class": "WildWarrior",
     "guild": "봄도둑",
     "world": "27-5"
   },
@@ -39451,7 +39451,7 @@
     "name": "송가",
     "level": 80,
     "grade": 18,
-    "class": "Enforcer",
+    "class": "WildWarrior",
     "guild": "봄도둑",
     "world": "27-5"
   },
