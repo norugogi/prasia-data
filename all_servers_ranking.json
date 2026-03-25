@@ -4011,7 +4011,7 @@
     "name": "참킹",
     "level": 90,
     "grade": 24,
-    "class": "Enforcer",
+    "class": "MirageBlade",
     "guild": "NO",
     "world": "3-1"
   },
@@ -8587,7 +8587,7 @@
     "name": "후냐",
     "level": 87,
     "grade": 22,
-    "class": "Enforcer",
+    "class": "WildWarrior",
     "guild": "시그니처",
     "world": "5-1"
   },
@@ -10008,6 +10008,14 @@
     "world": "5-3"
   },
   {
+    "name": "걸이지",
+    "level": 79,
+    "grade": 16,
+    "class": "IncenseArcher",
+    "guild": "오엔",
+    "world": "5-3"
+  },
+  {
     "name": "하준하빈",
     "level": 79,
     "grade": 16,
@@ -10021,14 +10029,6 @@
     "grade": 16,
     "class": "IncenseArcher",
     "guild": "YouTube",
-    "world": "5-3"
-  },
-  {
-    "name": "걸이지",
-    "level": 78,
-    "grade": 16,
-    "class": "IncenseArcher",
-    "guild": "오엔",
     "world": "5-3"
   },
   {
@@ -11976,6 +11976,14 @@
     "world": "5-5"
   },
   {
+    "name": "혈압",
+    "level": 87,
+    "grade": 22,
+    "class": "IncenseArcher",
+    "guild": "CATT",
+    "world": "5-5"
+  },
+  {
     "name": "어피치",
     "level": 87,
     "grade": 21,
@@ -11989,14 +11997,6 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "DOG",
-    "world": "5-5"
-  },
-  {
-    "name": "혈압",
-    "level": 87,
-    "grade": 22,
-    "class": "IncenseArcher",
-    "guild": "CATT",
     "world": "5-5"
   },
   {
@@ -14419,7 +14419,7 @@
     "name": "Hermes",
     "level": 92,
     "grade": 24,
-    "class": "Enforcer",
+    "class": "WildWarrior",
     "guild": "노터치",
     "world": "8-4"
   },
@@ -17464,6 +17464,14 @@
     "world": "10-2"
   },
   {
+    "name": "해적왕",
+    "level": 82,
+    "grade": 19,
+    "class": "SolarSentinel",
+    "guild": "우왕",
+    "world": "10-2"
+  },
+  {
     "name": "왕거성",
     "level": 82,
     "grade": 19,
@@ -17477,14 +17485,6 @@
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "폭풍두둥",
-    "world": "10-2"
-  },
-  {
-    "name": "해적왕",
-    "level": 82,
-    "grade": 19,
-    "class": "SolarSentinel",
-    "guild": "우왕",
     "world": "10-2"
   },
   {
@@ -21419,7 +21419,7 @@
     "name": "wony",
     "level": 83,
     "grade": 19,
-    "class": "SolarSentinel",
+    "class": "IncenseArcher",
     "guild": "동물구조대",
     "world": "11-2"
   },
@@ -28960,19 +28960,19 @@
     "world": "14-2"
   },
   {
-    "name": "러너스하이",
-    "level": 86,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "드라마",
-    "world": "14-2"
-  },
-  {
     "name": "밤토끼",
     "level": 86,
     "grade": 21,
     "class": "IncenseArcher",
     "guild": "아기고양이",
+    "world": "14-2"
+  },
+  {
+    "name": "러너스하이",
+    "level": 86,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "드라마",
     "world": "14-2"
   },
   {
@@ -35312,19 +35312,19 @@
     "world": "16-5"
   },
   {
-    "name": "FAKER",
-    "level": 87,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "마왕군",
-    "world": "16-5"
-  },
-  {
     "name": "치왈왈",
     "level": 87,
     "grade": 22,
     "class": "RuneScribe",
     "guild": "푸릇",
+    "world": "16-5"
+  },
+  {
+    "name": "FAKER",
+    "level": 87,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "마왕군",
     "world": "16-5"
   },
   {
@@ -37011,7 +37011,7 @@
     "name": "다잘해",
     "level": 86,
     "grade": 23,
-    "class": "Enforcer",
+    "class": "AbyssRevenant",
     "guild": "천랑성",
     "world": "27-2"
   },
@@ -37211,7 +37211,7 @@
     "name": "으니",
     "level": 84,
     "grade": 20,
-    "class": "SolarSentinel",
+    "class": "IncenseArcher",
     "guild": "천랑성",
     "world": "27-2"
   },
@@ -37563,7 +37563,7 @@
     "name": "톡톡이",
     "level": 81,
     "grade": 17,
-    "class": "Enforcer",
+    "class": "RuneScribe",
     "guild": "천랑성",
     "world": "27-2"
   },
@@ -38160,19 +38160,19 @@
     "world": "27-3"
   },
   {
-    "name": "심연포차",
-    "level": 81,
-    "grade": 18,
-    "class": "WildWarrior",
-    "guild": "수호",
-    "world": "27-3"
-  },
-  {
     "name": "히든",
     "level": 81,
     "grade": 19,
     "class": "Enforcer",
     "guild": "월하익송",
+    "world": "27-3"
+  },
+  {
+    "name": "심연포차",
+    "level": 81,
+    "grade": 18,
+    "class": "WildWarrior",
+    "guild": "수호",
     "world": "27-3"
   },
   {
