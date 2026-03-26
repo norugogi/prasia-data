@@ -1120,19 +1120,19 @@
     "world": "2-2"
   },
   {
-    "name": "의미",
-    "level": 81,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "2-2"
-  },
-  {
     "name": "퇴근좀",
     "level": 81,
     "grade": 19,
     "class": "MirageBlade",
     "guild": "미라클",
+    "world": "2-2"
+  },
+  {
+    "name": "의미",
+    "level": 81,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "2-2"
   },
   {
@@ -4856,19 +4856,19 @@
     "world": "3-2"
   },
   {
-    "name": "털보",
-    "level": 91,
-    "grade": 25,
-    "class": "WildWarrior",
-    "guild": "MAD",
-    "world": "3-2"
-  },
-  {
     "name": "제드",
     "level": 91,
     "grade": 24,
     "class": "Enforcer",
     "guild": "ZED",
+    "world": "3-2"
+  },
+  {
+    "name": "털보",
+    "level": 91,
+    "grade": 25,
+    "class": "WildWarrior",
+    "guild": "MAD",
     "world": "3-2"
   },
   {
@@ -5176,19 +5176,19 @@
     "world": "3-2"
   },
   {
-    "name": "록리의취권",
-    "level": 88,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "MAD",
-    "world": "3-2"
-  },
-  {
     "name": "제또",
     "level": 88,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "ZED",
+    "world": "3-2"
+  },
+  {
+    "name": "록리의취권",
+    "level": 88,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "MAD",
     "world": "3-2"
   },
   {
@@ -12768,18 +12768,18 @@
     "world": "8-1"
   },
   {
-    "name": "츄요",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "츄",
-    "world": "8-1"
-  },
-  {
     "name": "시츄",
     "level": 87,
     "grade": 23,
     "class": "RuneScribe",
+    "guild": "츄",
+    "world": "8-1"
+  },
+  {
+    "name": "츄요",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
     "guild": "츄",
     "world": "8-1"
   },
@@ -15848,19 +15848,19 @@
     "world": "8-5"
   },
   {
-    "name": "명검",
-    "level": 90,
-    "grade": 25,
-    "class": "MirageBlade",
-    "guild": "CodeName",
-    "world": "8-5"
-  },
-  {
     "name": "오은영",
     "level": 90,
     "grade": 25,
     "class": "IncenseArcher",
     "guild": "은쪽이",
+    "world": "8-5"
+  },
+  {
+    "name": "명검",
+    "level": 90,
+    "grade": 25,
+    "class": "MirageBlade",
+    "guild": "CodeName",
     "world": "8-5"
   },
   {
@@ -25440,19 +25440,19 @@
     "world": "12-2"
   },
   {
-    "name": "멋쟁이",
-    "level": 84,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "지능",
-    "world": "12-2"
-  },
-  {
     "name": "더킹",
     "level": 84,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
+    "name": "멋쟁이",
+    "level": 84,
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "지능",
     "world": "12-2"
   },
   {
@@ -25576,14 +25576,6 @@
     "world": "12-2"
   },
   {
-    "name": "사구다시",
-    "level": 83,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "전당포",
-    "world": "12-2"
-  },
-  {
     "name": "플로리댕",
     "level": 83,
     "grade": 21,
@@ -25597,6 +25589,14 @@
     "grade": 19,
     "class": "SolarSentinel",
     "guild": "지능",
+    "world": "12-2"
+  },
+  {
+    "name": "사구다시",
+    "level": 83,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "전당포",
     "world": "12-2"
   },
   {
@@ -33792,19 +33792,19 @@
     "world": "16-3"
   },
   {
-    "name": "스텐더",
-    "level": 86,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "조선의활잡이",
-    "world": "16-3"
-  },
-  {
     "name": "카스중독자",
     "level": 86,
     "grade": 21,
     "class": "MirageBlade",
     "guild": "교도소",
+    "world": "16-3"
+  },
+  {
+    "name": "스텐더",
+    "level": 86,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "조선의활잡이",
     "world": "16-3"
   },
   {
@@ -36728,19 +36728,19 @@
     "world": "27-1"
   },
   {
-    "name": "두쫀쿠멜론튀김",
-    "level": 79,
-    "grade": 15,
-    "class": "Enforcer",
-    "guild": "백",
-    "world": "27-1"
-  },
-  {
     "name": "국정원",
     "level": 79,
     "grade": 17,
     "class": "AbyssRevenant",
     "guild": "유기농",
+    "world": "27-1"
+  },
+  {
+    "name": "두쫀쿠멜론튀김",
+    "level": 79,
+    "grade": 15,
+    "class": "Enforcer",
+    "guild": "백",
     "world": "27-1"
   },
   {
