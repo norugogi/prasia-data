@@ -1762,7 +1762,7 @@
   {
     "name": "돌아온수달",
     "level": 82,
-    "grade": 17,
+    "grade": 18,
     "class": "IncenseArcher",
     "guild": "해결사",
     "world": "2-3"
@@ -8019,7 +8019,7 @@
     "name": "빅찬스",
     "level": 91,
     "grade": 24,
-    "class": "RuneScribe",
+    "class": "WildWarrior",
     "guild": "미깡",
     "world": "5-1"
   },
@@ -8176,19 +8176,19 @@
     "world": "5-1"
   },
   {
-    "name": "꿀감자",
-    "level": 90,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "미깡",
-    "world": "5-1"
-  },
-  {
     "name": "심청이",
     "level": 90,
     "grade": 24,
     "class": "WildWarrior",
     "guild": "시그니처",
+    "world": "5-1"
+  },
+  {
+    "name": "꿀감자",
+    "level": 90,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "미깡",
     "world": "5-1"
   },
   {
@@ -8729,7 +8729,7 @@
   },
   {
     "name": "핫걸임",
-    "level": 85,
+    "level": 86,
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "시그니처",
@@ -10320,19 +10320,19 @@
     "world": "5-3"
   },
   {
-    "name": "여후",
-    "level": 76,
-    "grade": 14,
-    "class": "AbyssRevenant",
-    "guild": null,
-    "world": "5-3"
-  },
-  {
     "name": "보잉",
     "level": 76,
     "grade": 15,
     "class": "Enforcer",
     "guild": "YY",
+    "world": "5-3"
+  },
+  {
+    "name": "여후",
+    "level": 76,
+    "grade": 14,
+    "class": "AbyssRevenant",
+    "guild": null,
     "world": "5-3"
   },
   {
@@ -11560,19 +11560,19 @@
     "world": "5-5"
   },
   {
-    "name": "진빼이꼬",
-    "level": 89,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "CATT",
-    "world": "5-5"
-  },
-  {
     "name": "핸섬한삼호와벚꽃엔딩",
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
     "guild": "더킹",
+    "world": "5-5"
+  },
+  {
+    "name": "진빼이꼬",
+    "level": 89,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "CATT",
     "world": "5-5"
   },
   {
@@ -16931,7 +16931,7 @@
     "name": "순정",
     "level": 85,
     "grade": 19,
-    "class": "WildWarrior",
+    "class": "RuneScribe",
     "guild": "카리나",
     "world": "10-2"
   },
@@ -21304,19 +21304,19 @@
     "world": "11-2"
   },
   {
-    "name": "루이",
-    "level": 83,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "드라마덕후",
-    "world": "11-2"
-  },
-  {
     "name": "흑살",
     "level": 83,
     "grade": 18,
     "class": "SolarSentinel",
     "guild": "흑살",
+    "world": "11-2"
+  },
+  {
+    "name": "루이",
+    "level": 83,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "드라마덕후",
     "world": "11-2"
   },
   {
@@ -25560,19 +25560,19 @@
     "world": "12-2"
   },
   {
-    "name": "퓨어",
-    "level": 83,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "네코",
-    "world": "12-2"
-  },
-  {
     "name": "푸리무무",
     "level": 83,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
+    "name": "퓨어",
+    "level": 83,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "네코",
     "world": "12-2"
   },
   {
@@ -26896,19 +26896,19 @@
     "world": "12-4"
   },
   {
-    "name": "영지보스",
-    "level": 83,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "봄봄",
-    "world": "12-4"
-  },
-  {
     "name": "자백",
     "level": 83,
     "grade": 17,
     "class": "SolarSentinel",
     "guild": "금괴",
+    "world": "12-4"
+  },
+  {
+    "name": "영지보스",
+    "level": 83,
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "봄봄",
     "world": "12-4"
   },
   {
@@ -32488,14 +32488,6 @@
     "world": "16-1"
   },
   {
-    "name": "고돌",
-    "level": 83,
-    "grade": 19,
-    "class": "SolarSentinel",
-    "guild": "라이트",
-    "world": "16-1"
-  },
-  {
     "name": "안식",
     "level": 83,
     "grade": 19,
@@ -32517,6 +32509,14 @@
     "grade": 20,
     "class": "RuneScribe",
     "guild": "프리아",
+    "world": "16-1"
+  },
+  {
+    "name": "고돌",
+    "level": 83,
+    "grade": 19,
+    "class": "SolarSentinel",
+    "guild": "라이트",
     "world": "16-1"
   },
   {
@@ -39808,19 +39808,19 @@
     "world": "27-5"
   },
   {
-    "name": "가을",
-    "level": 78,
-    "grade": 15,
-    "class": "MirageBlade",
-    "guild": "수지",
-    "world": "27-5"
-  },
-  {
     "name": "잔잔",
     "level": 78,
     "grade": 15,
     "class": "SolarSentinel",
     "guild": "하늘물결안식",
+    "world": "27-5"
+  },
+  {
+    "name": "가을",
+    "level": 78,
+    "grade": 15,
+    "class": "MirageBlade",
+    "guild": "수지",
     "world": "27-5"
   },
   {
