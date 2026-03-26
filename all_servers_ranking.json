@@ -2675,7 +2675,7 @@
     "name": "레오닉",
     "level": 82,
     "grade": 17,
-    "class": "Enforcer",
+    "class": "MirageBlade",
     "guild": "신화",
     "world": "2-4"
   },
@@ -2928,19 +2928,19 @@
     "world": "2-4"
   },
   {
-    "name": "다람이",
-    "level": 79,
-    "grade": 15,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "2-4"
-  },
-  {
     "name": "태양곰",
     "level": 79,
     "grade": 16,
     "class": "MirageBlade",
     "guild": "백곰",
+    "world": "2-4"
+  },
+  {
+    "name": "다람이",
+    "level": 79,
+    "grade": 15,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "2-4"
   },
   {
@@ -4090,7 +4090,7 @@
   {
     "name": "사랑",
     "level": 89,
-    "grade": 24,
+    "grade": 25,
     "class": "Enforcer",
     "guild": "NO",
     "world": "3-1"
@@ -5618,7 +5618,7 @@
   {
     "name": "곰표",
     "level": 91,
-    "grade": 24,
+    "grade": 25,
     "class": "RuneScribe",
     "guild": "광혼",
     "world": "3-3"
@@ -5794,7 +5794,7 @@
   {
     "name": "힐러리",
     "level": 89,
-    "grade": 24,
+    "grade": 25,
     "class": "Enforcer",
     "guild": "광란",
     "world": "3-3"
@@ -10264,19 +10264,19 @@
     "world": "5-3"
   },
   {
-    "name": "윤나라",
-    "level": 77,
-    "grade": 13,
-    "class": "RuneScribe",
-    "guild": "명예",
-    "world": "5-3"
-  },
-  {
     "name": "무자비",
     "level": 77,
     "grade": 13,
     "class": "RuneScribe",
     "guild": "수호",
+    "world": "5-3"
+  },
+  {
+    "name": "윤나라",
+    "level": 77,
+    "grade": 13,
+    "class": "RuneScribe",
+    "guild": "명예",
     "world": "5-3"
   },
   {
@@ -10499,7 +10499,7 @@
     "name": "스킨",
     "level": 85,
     "grade": 21,
-    "class": "RuneScribe",
+    "class": "WildWarrior",
     "guild": "헌터",
     "world": "5-4"
   },
@@ -26112,19 +26112,19 @@
     "world": "12-3"
   },
   {
-    "name": "신짜오",
-    "level": 81,
-    "grade": 15,
-    "class": "RuneScribe",
-    "guild": "똥",
-    "world": "12-3"
-  },
-  {
     "name": "티나양",
     "level": 81,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "양떼",
+    "world": "12-3"
+  },
+  {
+    "name": "신짜오",
+    "level": 81,
+    "grade": 15,
+    "class": "RuneScribe",
+    "guild": "똥",
     "world": "12-3"
   },
   {
@@ -32616,19 +32616,19 @@
     "world": "16-1"
   },
   {
-    "name": "버들잎",
-    "level": 82,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "라이트",
-    "world": "16-1"
-  },
-  {
     "name": "짠썬이",
     "level": 82,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "짠",
+    "world": "16-1"
+  },
+  {
+    "name": "버들잎",
+    "level": 82,
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "라이트",
     "world": "16-1"
   },
   {
@@ -37560,14 +37560,6 @@
     "world": "27-2"
   },
   {
-    "name": "톡톡이",
-    "level": 81,
-    "grade": 17,
-    "class": "RuneScribe",
-    "guild": "천랑성",
-    "world": "27-2"
-  },
-  {
     "name": "다롱이",
     "level": 81,
     "grade": 19,
@@ -37581,6 +37573,14 @@
     "grade": 17,
     "class": "WildWarrior",
     "guild": "서울",
+    "world": "27-2"
+  },
+  {
+    "name": "톡톡이",
+    "level": 81,
+    "grade": 17,
+    "class": "RuneScribe",
+    "guild": "천랑성",
     "world": "27-2"
   },
   {
@@ -37867,7 +37867,7 @@
     "name": "밤달",
     "level": 83,
     "grade": 20,
-    "class": "Enforcer",
+    "class": "SolarSentinel",
     "guild": "월하익송",
     "world": "27-3"
   },
@@ -38304,19 +38304,19 @@
     "world": "27-3"
   },
   {
-    "name": "히히",
-    "level": 80,
-    "grade": 17,
-    "class": "SolarSentinel",
-    "guild": "해거름인면수",
-    "world": "27-3"
-  },
-  {
     "name": "자기야",
     "level": 80,
     "grade": 17,
     "class": "WildWarrior",
     "guild": "월하익송",
+    "world": "27-3"
+  },
+  {
+    "name": "히히",
+    "level": 80,
+    "grade": 17,
+    "class": "SolarSentinel",
+    "guild": "해거름인면수",
     "world": "27-3"
   },
   {
@@ -39768,19 +39768,19 @@
     "world": "27-5"
   },
   {
-    "name": "미네랄",
-    "level": 78,
-    "grade": 15,
-    "class": "MirageBlade",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "Eve",
     "level": 78,
     "grade": 17,
     "class": "Enforcer",
     "guild": "아퀴",
+    "world": "27-5"
+  },
+  {
+    "name": "미네랄",
+    "level": 78,
+    "grade": 15,
+    "class": "MirageBlade",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
