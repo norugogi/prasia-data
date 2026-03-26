@@ -4304,18 +4304,18 @@
     "world": "3-1"
   },
   {
-    "name": "임겨울",
-    "level": 87,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "NO",
-    "world": "3-1"
-  },
-  {
     "name": "에헤라디야",
     "level": 87,
     "grade": 23,
     "class": "IncenseArcher",
+    "guild": "NO",
+    "world": "3-1"
+  },
+  {
+    "name": "임겨울",
+    "level": 87,
+    "grade": 23,
+    "class": "RuneScribe",
     "guild": "NO",
     "world": "3-1"
   },
@@ -13760,19 +13760,19 @@
     "world": "8-3"
   },
   {
-    "name": "영혼",
-    "level": 82,
-    "grade": 17,
-    "class": "IncenseArcher",
-    "guild": "시아",
-    "world": "8-3"
-  },
-  {
     "name": "라홀",
     "level": 82,
     "grade": 18,
     "class": "SolarSentinel",
     "guild": "숲의미소",
+    "world": "8-3"
+  },
+  {
+    "name": "영혼",
+    "level": 82,
+    "grade": 17,
+    "class": "IncenseArcher",
+    "guild": "시아",
     "world": "8-3"
   },
   {
@@ -14936,18 +14936,18 @@
     "world": "8-4"
   },
   {
-    "name": "너의묫자리",
-    "level": 88,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "악연",
-    "world": "8-4"
-  },
-  {
     "name": "참격",
     "level": 88,
     "grade": 23,
     "class": "Enforcer",
+    "guild": "악연",
+    "world": "8-4"
+  },
+  {
+    "name": "너의묫자리",
+    "level": 88,
+    "grade": 24,
+    "class": "SolarSentinel",
     "guild": "악연",
     "world": "8-4"
   },
@@ -15602,7 +15602,7 @@
   {
     "name": "함마",
     "level": 90,
-    "grade": 24,
+    "grade": 25,
     "class": "SolarSentinel",
     "guild": "강남",
     "world": "8-5"
@@ -15632,19 +15632,19 @@
     "world": "8-5"
   },
   {
-    "name": "강테릭",
-    "level": 90,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "강남",
-    "world": "8-5"
-  },
-  {
     "name": "녹턴",
     "level": 90,
     "grade": 24,
     "class": "Enforcer",
     "guild": "축복",
+    "world": "8-5"
+  },
+  {
+    "name": "강테릭",
+    "level": 90,
+    "grade": 24,
+    "class": "MirageBlade",
+    "guild": "강남",
     "world": "8-5"
   },
   {
@@ -15872,6 +15872,14 @@
     "world": "8-5"
   },
   {
+    "name": "골드엔산젘",
+    "level": 90,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "골드중독",
+    "world": "8-5"
+  },
+  {
     "name": "금쪽게이",
     "level": 90,
     "grade": 24,
@@ -15917,14 +15925,6 @@
     "grade": 24,
     "class": "WildWarrior",
     "guild": "CodeName",
-    "world": "8-5"
-  },
-  {
-    "name": "골드엔산젘",
-    "level": 89,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "골드중독",
     "world": "8-5"
   },
   {
@@ -25392,19 +25392,19 @@
     "world": "12-2"
   },
   {
-    "name": "쪽제비",
-    "level": 84,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "동물원",
-    "world": "12-2"
-  },
-  {
     "name": "와칸다",
     "level": 84,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "냐옹",
+    "world": "12-2"
+  },
+  {
+    "name": "쪽제비",
+    "level": 84,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "동물원",
     "world": "12-2"
   },
   {
@@ -28848,19 +28848,19 @@
     "world": "14-2"
   },
   {
-    "name": "선물",
-    "level": 88,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "아기고양이",
-    "world": "14-2"
-  },
-  {
     "name": "꼬마",
     "level": 88,
     "grade": 24,
     "class": "Enforcer",
     "guild": "오브",
+    "world": "14-2"
+  },
+  {
+    "name": "선물",
+    "level": 88,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "아기고양이",
     "world": "14-2"
   },
   {
@@ -32728,19 +32728,19 @@
     "world": "16-1"
   },
   {
-    "name": "딱풀핑",
-    "level": 82,
-    "grade": 16,
-    "class": "SolarSentinel",
-    "guild": "Noble",
-    "world": "16-1"
-  },
-  {
     "name": "잔별이",
     "level": 82,
     "grade": 19,
     "class": "Enforcer",
     "guild": "프리아",
+    "world": "16-1"
+  },
+  {
+    "name": "딱풀핑",
+    "level": 82,
+    "grade": 16,
+    "class": "SolarSentinel",
+    "guild": "Noble",
     "world": "16-1"
   },
   {
@@ -32985,7 +32985,7 @@
   },
   {
     "name": "블랙타투",
-    "level": 86,
+    "level": 87,
     "grade": 23,
     "class": "Enforcer",
     "guild": "화산",
