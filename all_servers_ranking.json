@@ -3323,7 +3323,7 @@
     "name": "괴도",
     "level": 85,
     "grade": 20,
-    "class": "WildWarrior",
+    "class": "AbyssRevenant",
     "guild": "최고",
     "world": "2-5"
   },
@@ -4592,14 +4592,6 @@
     "world": "3-1"
   },
   {
-    "name": "로또일등바빵",
-    "level": 85,
-    "grade": 21,
-    "class": "IncenseArcher",
-    "guild": "이상해",
-    "world": "3-1"
-  },
-  {
     "name": "이상해꽃",
     "level": 85,
     "grade": 20,
@@ -4621,6 +4613,14 @@
     "grade": 19,
     "class": "Enforcer",
     "guild": "NO",
+    "world": "3-1"
+  },
+  {
+    "name": "로또일등바빵",
+    "level": 85,
+    "grade": 21,
+    "class": "IncenseArcher",
+    "guild": "이상해",
     "world": "3-1"
   },
   {
@@ -5634,7 +5634,7 @@
   {
     "name": "특별",
     "level": 90,
-    "grade": 24,
+    "grade": 25,
     "class": "IncenseArcher",
     "guild": "광란",
     "world": "3-3"
@@ -6904,18 +6904,18 @@
     "world": "3-4"
   },
   {
-    "name": "멍멍",
-    "level": 86,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "IYOU",
-    "world": "3-4"
-  },
-  {
     "name": "고슴도치",
     "level": 86,
     "grade": 21,
     "class": "Enforcer",
+    "guild": "IYOU",
+    "world": "3-4"
+  },
+  {
+    "name": "멍멍",
+    "level": 86,
+    "grade": 20,
+    "class": "IncenseArcher",
     "guild": "IYOU",
     "world": "3-4"
   },
@@ -7890,7 +7890,7 @@
   {
     "name": "초코핑",
     "level": 85,
-    "grade": 20,
+    "grade": 21,
     "class": "IncenseArcher",
     "guild": "광인",
     "world": "3-5"
@@ -12186,7 +12186,7 @@
   {
     "name": "츄상룡",
     "level": 90,
-    "grade": 24,
+    "grade": 25,
     "class": "SolarSentinel",
     "guild": "츄",
     "world": "8-1"
@@ -12784,18 +12784,18 @@
     "world": "8-1"
   },
   {
-    "name": "츄다",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "츄",
-    "world": "8-1"
-  },
-  {
     "name": "시츄",
     "level": 87,
     "grade": 23,
     "class": "RuneScribe",
+    "guild": "츄",
+    "world": "8-1"
+  },
+  {
+    "name": "츄다",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
     "guild": "츄",
     "world": "8-1"
   },
@@ -14736,19 +14736,19 @@
     "world": "8-4"
   },
   {
-    "name": "무단",
-    "level": 89,
-    "grade": 24,
-    "class": "WildWarrior",
-    "guild": "노터치",
-    "world": "8-4"
-  },
-  {
     "name": "어묵튀기는장인이에요",
     "level": 89,
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "인연",
+    "world": "8-4"
+  },
+  {
+    "name": "무단",
+    "level": 89,
+    "grade": 24,
+    "class": "WildWarrior",
+    "guild": "노터치",
     "world": "8-4"
   },
   {
@@ -15433,7 +15433,7 @@
   },
   {
     "name": "샌드형",
-    "level": 90,
+    "level": 91,
     "grade": 25,
     "class": "SolarSentinel",
     "guild": "블랙중독",
@@ -21992,18 +21992,18 @@
     "world": "11-3"
   },
   {
-    "name": "향유고래",
-    "level": 82,
-    "grade": 18,
-    "class": "AbyssRevenant",
-    "guild": "바다",
-    "world": "11-3"
-  },
-  {
     "name": "수애",
     "level": 82,
     "grade": 19,
     "class": "RuneScribe",
+    "guild": "바다",
+    "world": "11-3"
+  },
+  {
+    "name": "향유고래",
+    "level": 82,
+    "grade": 18,
+    "class": "AbyssRevenant",
     "guild": "바다",
     "world": "11-3"
   },
@@ -31824,19 +31824,19 @@
     "world": "14-5"
   },
   {
-    "name": "테오드",
-    "level": 82,
-    "grade": 18,
-    "class": "IncenseArcher",
-    "guild": "결사",
-    "world": "14-5"
-  },
-  {
     "name": "호빵이",
     "level": 82,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "shadow",
+    "world": "14-5"
+  },
+  {
+    "name": "테오드",
+    "level": 82,
+    "grade": 18,
+    "class": "IncenseArcher",
+    "guild": "결사",
     "world": "14-5"
   },
   {
@@ -39520,19 +39520,19 @@
     "world": "27-5"
   },
   {
-    "name": "목돌아간비둘기",
-    "level": 79,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "오예스",
     "level": 79,
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "와써또와써",
+    "world": "27-5"
+  },
+  {
+    "name": "목돌아간비둘기",
+    "level": 79,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
