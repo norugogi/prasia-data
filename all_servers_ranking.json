@@ -521,7 +521,7 @@
   },
   {
     "name": "탈모",
-    "level": 80,
+    "level": 81,
     "grade": 18,
     "class": "MirageBlade",
     "guild": "미르",
@@ -8328,18 +8328,18 @@
     "world": "5-1"
   },
   {
-    "name": "타잔",
-    "level": 89,
-    "grade": 24,
-    "class": "WildWarrior",
-    "guild": "시그니처",
-    "world": "5-1"
-  },
-  {
     "name": "피테쿠스",
     "level": 89,
     "grade": 24,
     "class": "Enforcer",
+    "guild": "시그니처",
+    "world": "5-1"
+  },
+  {
+    "name": "타잔",
+    "level": 89,
+    "grade": 24,
+    "class": "WildWarrior",
     "guild": "시그니처",
     "world": "5-1"
   },
@@ -14760,18 +14760,18 @@
     "world": "8-4"
   },
   {
-    "name": "쿼카츄",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "노터치",
-    "world": "8-4"
-  },
-  {
     "name": "죄대한",
     "level": 89,
     "grade": 24,
     "class": "Enforcer",
+    "guild": "노터치",
+    "world": "8-4"
+  },
+  {
+    "name": "쿼카츄",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
     "guild": "노터치",
     "world": "8-4"
   },
@@ -17008,19 +17008,19 @@
     "world": "10-2"
   },
   {
-    "name": "띠로링",
-    "level": 85,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "따르릉",
-    "world": "10-2"
-  },
-  {
     "name": "네간",
     "level": 85,
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "우왕",
+    "world": "10-2"
+  },
+  {
+    "name": "띠로링",
+    "level": 85,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "따르릉",
     "world": "10-2"
   },
   {
@@ -17312,19 +17312,19 @@
     "world": "10-2"
   },
   {
-    "name": "일호점썸남",
-    "level": 83,
-    "grade": 18,
-    "class": "IncenseArcher",
-    "guild": "호얌",
-    "world": "10-2"
-  },
-  {
     "name": "매화",
     "level": 83,
     "grade": 19,
     "class": "AbyssRevenant",
     "guild": "이장님",
+    "world": "10-2"
+  },
+  {
+    "name": "일호점썸남",
+    "level": 83,
+    "grade": 18,
+    "class": "IncenseArcher",
+    "guild": "호얌",
     "world": "10-2"
   },
   {
@@ -18826,7 +18826,7 @@
   {
     "name": "곰뮤",
     "level": 84,
-    "grade": 18,
+    "grade": 19,
     "class": "RuneScribe",
     "guild": "힐싸개",
     "world": "10-4"
@@ -32008,7 +32008,7 @@
     "world": "16-1"
   },
   {
-    "name": "따꿍",
+    "name": "두껍",
     "level": 88,
     "grade": 24,
     "class": "Enforcer",
@@ -32016,7 +32016,7 @@
     "world": "16-1"
   },
   {
-    "name": "두껍",
+    "name": "따꿍",
     "level": 88,
     "grade": 24,
     "class": "Enforcer",
@@ -33729,7 +33729,7 @@
   },
   {
     "name": "학폭주동자",
-    "level": 86,
+    "level": 87,
     "grade": 22,
     "class": "RuneScribe",
     "guild": "교도소",
@@ -33760,19 +33760,19 @@
     "world": "16-3"
   },
   {
-    "name": "학폭가해자",
-    "level": 86,
-    "grade": 21,
-    "class": "RuneScribe",
-    "guild": "교도소",
-    "world": "16-3"
-  },
-  {
     "name": "러닝",
     "level": 86,
     "grade": 21,
     "class": "SolarSentinel",
     "guild": "탱탱볼따구",
+    "world": "16-3"
+  },
+  {
+    "name": "학폭가해자",
+    "level": 86,
+    "grade": 21,
+    "class": "RuneScribe",
+    "guild": "교도소",
     "world": "16-3"
   },
   {
@@ -39080,18 +39080,18 @@
     "world": "27-4"
   },
   {
-    "name": "못된다워니",
-    "level": 79,
-    "grade": 16,
-    "class": "AbyssRevenant",
-    "guild": "로하",
-    "world": "27-4"
-  },
-  {
     "name": "하아농약을쓰던겁니까",
     "level": 79,
     "grade": 18,
     "class": "IncenseArcher",
+    "guild": "로하",
+    "world": "27-4"
+  },
+  {
+    "name": "못된다워니",
+    "level": 79,
+    "grade": 16,
+    "class": "AbyssRevenant",
     "guild": "로하",
     "world": "27-4"
   },
