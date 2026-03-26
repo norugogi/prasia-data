@@ -9488,19 +9488,19 @@
     "world": "5-2"
   },
   {
-    "name": "강한바람",
-    "level": 77,
-    "grade": 14,
-    "class": "Enforcer",
-    "guild": "도도비",
-    "world": "5-2"
-  },
-  {
     "name": "야만전사",
     "level": 77,
     "grade": 16,
     "class": "WildWarrior",
     "guild": "혼냥",
+    "world": "5-2"
+  },
+  {
+    "name": "강한바람",
+    "level": 77,
+    "grade": 14,
+    "class": "Enforcer",
+    "guild": "도도비",
     "world": "5-2"
   },
   {
@@ -9665,7 +9665,7 @@
   },
   {
     "name": "크카",
-    "level": 85,
+    "level": 86,
     "grade": 20,
     "class": "Enforcer",
     "guild": "중립휴식",
@@ -12080,19 +12080,19 @@
     "world": "8-1"
   },
   {
-    "name": "명품장군",
-    "level": 91,
-    "grade": 25,
-    "class": "Enforcer",
-    "guild": "명품",
-    "world": "8-1"
-  },
-  {
     "name": "제주꼴통몬",
     "level": 91,
     "grade": 25,
     "class": "Enforcer",
     "guild": "진격의영포티",
+    "world": "8-1"
+  },
+  {
+    "name": "명품장군",
+    "level": 91,
+    "grade": 25,
+    "class": "Enforcer",
+    "guild": "명품",
     "world": "8-1"
   },
   {
@@ -14808,14 +14808,6 @@
     "world": "8-4"
   },
   {
-    "name": "나야월드",
-    "level": 89,
-    "grade": 24,
-    "class": "WildWarrior",
-    "guild": "인연",
-    "world": "8-4"
-  },
-  {
     "name": "뽀글",
     "level": 89,
     "grade": 23,
@@ -14845,6 +14837,14 @@
     "grade": 24,
     "class": "WildWarrior",
     "guild": "GOAT",
+    "world": "8-4"
+  },
+  {
+    "name": "나야월드",
+    "level": 89,
+    "grade": 24,
+    "class": "WildWarrior",
+    "guild": "인연",
     "world": "8-4"
   },
   {
@@ -15832,14 +15832,6 @@
     "world": "8-5"
   },
   {
-    "name": "미스터",
-    "level": 90,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "축복",
-    "world": "8-5"
-  },
-  {
     "name": "우루루설운도",
     "level": 90,
     "grade": 24,
@@ -15869,6 +15861,14 @@
     "grade": 23,
     "class": "Enforcer",
     "guild": "골드중독",
+    "world": "8-5"
+  },
+  {
+    "name": "미스터",
+    "level": 90,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "축복",
     "world": "8-5"
   },
   {
