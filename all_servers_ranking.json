@@ -4112,6 +4112,14 @@
     "world": "3-1"
   },
   {
+    "name": "향쓱이",
+    "level": 89,
+    "grade": 23,
+    "class": "IncenseArcher",
+    "guild": "NO",
+    "world": "3-1"
+  },
+  {
     "name": "비늬",
     "level": 89,
     "grade": 24,
@@ -4124,14 +4132,6 @@
     "level": 89,
     "grade": 24,
     "class": "WildWarrior",
-    "guild": "NO",
-    "world": "3-1"
-  },
-  {
-    "name": "향쓱이",
-    "level": 89,
-    "grade": 23,
-    "class": "IncenseArcher",
     "guild": "NO",
     "world": "3-1"
   },
@@ -5888,6 +5888,14 @@
     "world": "3-3"
   },
   {
+    "name": "별의별",
+    "level": 88,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "광란",
+    "world": "3-3"
+  },
+  {
     "name": "금강불괴",
     "level": 88,
     "grade": 22,
@@ -5909,14 +5917,6 @@
     "grade": 23,
     "class": "Enforcer",
     "guild": "가을",
-    "world": "3-3"
-  },
-  {
-    "name": "별의별",
-    "level": 88,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "광란",
     "world": "3-3"
   },
   {
@@ -12288,19 +12288,19 @@
     "world": "8-1"
   },
   {
-    "name": "탄생몬",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "진격의영포티",
-    "world": "8-1"
-  },
-  {
     "name": "챱챱츄",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "츄",
+    "world": "8-1"
+  },
+  {
+    "name": "탄생몬",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "진격의영포티",
     "world": "8-1"
   },
   {
@@ -13952,19 +13952,19 @@
     "world": "8-3"
   },
   {
-    "name": "티발",
-    "level": 80,
-    "grade": 17,
-    "class": "MirageBlade",
-    "guild": "중립대학",
-    "world": "8-3"
-  },
-  {
     "name": "여몽펀치",
     "level": 80,
     "grade": 16,
     "class": "MirageBlade",
     "guild": "투팩",
+    "world": "8-3"
+  },
+  {
+    "name": "티발",
+    "level": 80,
+    "grade": 17,
+    "class": "MirageBlade",
+    "guild": "중립대학",
     "world": "8-3"
   },
   {
@@ -14643,7 +14643,7 @@
     "name": "어시",
     "level": 90,
     "grade": 24,
-    "class": "RuneScribe",
+    "class": "SolarSentinel",
     "guild": "골드문",
     "world": "8-4"
   },
@@ -15736,19 +15736,19 @@
     "world": "8-5"
   },
   {
-    "name": "마지막싶새",
-    "level": 90,
-    "grade": 25,
-    "class": "SolarSentinel",
-    "guild": "금쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "강마스터이",
     "level": 90,
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "강남",
+    "world": "8-5"
+  },
+  {
+    "name": "마지막싶새",
+    "level": 90,
+    "grade": 25,
+    "class": "SolarSentinel",
+    "guild": "금쪽이",
     "world": "8-5"
   },
   {
@@ -17312,18 +17312,18 @@
     "world": "10-2"
   },
   {
-    "name": "Ashrock",
-    "level": 83,
-    "grade": 19,
-    "class": "MirageBlade",
-    "guild": "호얌",
-    "world": "10-2"
-  },
-  {
     "name": "일호점썸남",
     "level": 83,
     "grade": 18,
     "class": "IncenseArcher",
+    "guild": "호얌",
+    "world": "10-2"
+  },
+  {
+    "name": "Ashrock",
+    "level": 83,
+    "grade": 19,
+    "class": "MirageBlade",
     "guild": "호얌",
     "world": "10-2"
   },
@@ -25472,19 +25472,19 @@
     "world": "12-2"
   },
   {
-    "name": "슈퍼하마",
-    "level": 84,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "지능",
-    "world": "12-2"
-  },
-  {
     "name": "무자비",
     "level": 84,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "페리카나주문진점",
+    "world": "12-2"
+  },
+  {
+    "name": "슈퍼하마",
+    "level": 84,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "지능",
     "world": "12-2"
   },
   {
