@@ -4304,19 +4304,19 @@
     "world": "3-1"
   },
   {
-    "name": "임겨울",
-    "level": 87,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "NO",
-    "world": "3-1"
-  },
-  {
     "name": "이상한냥이",
     "level": 87,
     "grade": 21,
     "class": "RuneScribe",
     "guild": "이상해",
+    "world": "3-1"
+  },
+  {
+    "name": "임겨울",
+    "level": 87,
+    "grade": 23,
+    "class": "RuneScribe",
+    "guild": "NO",
     "world": "3-1"
   },
   {
@@ -5096,14 +5096,6 @@
     "world": "3-2"
   },
   {
-    "name": "심판",
-    "level": 88,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "아마존",
-    "world": "3-2"
-  },
-  {
     "name": "수호",
     "level": 88,
     "grade": 23,
@@ -5117,6 +5109,14 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "심판",
+    "level": 88,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "아마존",
     "world": "3-2"
   },
   {
@@ -10320,18 +10320,18 @@
     "world": "5-3"
   },
   {
-    "name": "여후",
-    "level": 76,
-    "grade": 14,
-    "class": "AbyssRevenant",
-    "guild": "YY",
-    "world": "5-3"
-  },
-  {
     "name": "보잉",
     "level": 76,
     "grade": 15,
     "class": "Enforcer",
+    "guild": "YY",
+    "world": "5-3"
+  },
+  {
+    "name": "여후",
+    "level": 76,
+    "grade": 14,
+    "class": "AbyssRevenant",
     "guild": "YY",
     "world": "5-3"
   },
@@ -20392,18 +20392,18 @@
     "world": "11-1"
   },
   {
-    "name": "소주상어",
-    "level": 83,
-    "grade": 19,
-    "class": "WildWarrior",
-    "guild": "콩치",
-    "world": "11-1"
-  },
-  {
     "name": "제주하루팡",
     "level": 83,
     "grade": 19,
     "class": "IncenseArcher",
+    "guild": "콩치",
+    "world": "11-1"
+  },
+  {
+    "name": "소주상어",
+    "level": 83,
+    "grade": 19,
+    "class": "WildWarrior",
     "guild": "콩치",
     "world": "11-1"
   },
@@ -31313,7 +31313,7 @@
   },
   {
     "name": "비풍초",
-    "level": 87,
+    "level": 88,
     "grade": 24,
     "class": "Enforcer",
     "guild": "핑크좀비",
@@ -35451,7 +35451,7 @@
     "name": "지도자",
     "level": 85,
     "grade": 20,
-    "class": "WildWarrior",
+    "class": "Enforcer",
     "guild": "마왕군",
     "world": "16-5"
   },
