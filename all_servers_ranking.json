@@ -8451,7 +8451,7 @@
     "name": "또아",
     "level": 88,
     "grade": 24,
-    "class": "RuneScribe",
+    "class": "AbyssRevenant",
     "guild": "시그니처",
     "world": "5-1"
   },
@@ -12080,6 +12080,14 @@
     "world": "8-1"
   },
   {
+    "name": "제주꼴통몬",
+    "level": 91,
+    "grade": 25,
+    "class": "Enforcer",
+    "guild": "진격의영포티",
+    "world": "8-1"
+  },
+  {
     "name": "이슬맞은비둘기",
     "level": 91,
     "grade": 25,
@@ -12093,14 +12101,6 @@
     "grade": 25,
     "class": "Enforcer",
     "guild": "명품",
-    "world": "8-1"
-  },
-  {
-    "name": "제주꼴통몬",
-    "level": 91,
-    "grade": 25,
-    "class": "Enforcer",
-    "guild": "진격의영포티",
     "world": "8-1"
   },
   {
@@ -17440,18 +17440,18 @@
     "world": "10-2"
   },
   {
-    "name": "눈의여왕",
-    "level": 82,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "우왕",
-    "world": "10-2"
-  },
-  {
     "name": "해적왕",
     "level": 82,
     "grade": 19,
     "class": "SolarSentinel",
+    "guild": "우왕",
+    "world": "10-2"
+  },
+  {
+    "name": "눈의여왕",
+    "level": 82,
+    "grade": 19,
+    "class": "RuneScribe",
     "guild": "우왕",
     "world": "10-2"
   },
@@ -17480,19 +17480,19 @@
     "world": "10-2"
   },
   {
-    "name": "왕거성",
-    "level": 82,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "10-2"
-  },
-  {
     "name": "빙수",
     "level": 82,
     "grade": 17,
     "class": "SolarSentinel",
     "guild": "숙숙",
+    "world": "10-2"
+  },
+  {
+    "name": "왕거성",
+    "level": 82,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "10-2"
   },
   {
@@ -27314,7 +27314,7 @@
   {
     "name": "피닛",
     "level": 86,
-    "grade": 21,
+    "grade": 22,
     "class": "AbyssRevenant",
     "guild": "마샬",
     "world": "12-5"
@@ -30568,19 +30568,19 @@
     "world": "14-4"
   },
   {
-    "name": "거북이",
-    "level": 82,
-    "grade": 18,
-    "class": "SolarSentinel",
-    "guild": "쩜오",
-    "world": "14-4"
-  },
-  {
     "name": "올리",
     "level": 82,
     "grade": 17,
     "class": "AbyssRevenant",
     "guild": "주먹",
+    "world": "14-4"
+  },
+  {
+    "name": "거북이",
+    "level": 82,
+    "grade": 18,
+    "class": "SolarSentinel",
+    "guild": "쩜오",
     "world": "14-4"
   },
   {
@@ -31313,7 +31313,7 @@
   },
   {
     "name": "비풍초",
-    "level": 88,
+    "level": 87,
     "grade": 24,
     "class": "Enforcer",
     "guild": "핑크좀비",
@@ -37712,14 +37712,6 @@
     "world": "27-3"
   },
   {
-    "name": "아르세우스",
-    "level": 84,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "월하익송",
-    "world": "27-3"
-  },
-  {
     "name": "유달리",
     "level": 84,
     "grade": 21,
@@ -37741,6 +37733,14 @@
     "grade": 21,
     "class": "WildWarrior",
     "guild": "스타",
+    "world": "27-3"
+  },
+  {
+    "name": "아르세우스",
+    "level": 84,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "월하익송",
     "world": "27-3"
   },
   {
@@ -38185,7 +38185,7 @@
   },
   {
     "name": "Rust",
-    "level": 80,
+    "level": 81,
     "grade": 17,
     "class": "Enforcer",
     "guild": "프라",
@@ -39848,19 +39848,19 @@
     "world": "27-5"
   },
   {
-    "name": "일반",
-    "level": 78,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "아퀴",
-    "world": "27-5"
-  },
-  {
     "name": "뭉치",
     "level": 78,
     "grade": 18,
     "class": "Enforcer",
     "guild": "봄도둑",
+    "world": "27-5"
+  },
+  {
+    "name": "일반",
+    "level": 78,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "아퀴",
     "world": "27-5"
   },
   {
