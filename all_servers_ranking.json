@@ -4112,18 +4112,18 @@
     "world": "3-1"
   },
   {
-    "name": "향쓱이",
-    "level": 89,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "NO",
-    "world": "3-1"
-  },
-  {
     "name": "비늬",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
+    "guild": "NO",
+    "world": "3-1"
+  },
+  {
+    "name": "향쓱이",
+    "level": 89,
+    "grade": 23,
+    "class": "IncenseArcher",
     "guild": "NO",
     "world": "3-1"
   },
@@ -5128,14 +5128,6 @@
     "world": "3-2"
   },
   {
-    "name": "박카스",
-    "level": 88,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "ZED",
-    "world": "3-2"
-  },
-  {
     "name": "제모",
     "level": 88,
     "grade": 23,
@@ -5157,6 +5149,14 @@
     "grade": 23,
     "class": "Enforcer",
     "guild": "아마존",
+    "world": "3-2"
+  },
+  {
+    "name": "박카스",
+    "level": 88,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "ZED",
     "world": "3-2"
   },
   {
@@ -7640,19 +7640,19 @@
     "world": "3-5"
   },
   {
-    "name": "찬형",
-    "level": 88,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "광인",
-    "world": "3-5"
-  },
-  {
     "name": "신비",
     "level": 88,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "광기",
+    "world": "3-5"
+  },
+  {
+    "name": "찬형",
+    "level": 88,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "광인",
     "world": "3-5"
   },
   {
@@ -11201,7 +11201,7 @@
   },
   {
     "name": "유튜브맛나는꼬꼬",
-    "level": 92,
+    "level": 93,
     "grade": 25,
     "class": "AbyssRevenant",
     "guild": "DOG",
@@ -11952,19 +11952,19 @@
     "world": "5-5"
   },
   {
-    "name": "준꼬",
-    "level": 87,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "DOG",
-    "world": "5-5"
-  },
-  {
     "name": "혈압",
     "level": 87,
     "grade": 22,
     "class": "IncenseArcher",
     "guild": "CATT",
+    "world": "5-5"
+  },
+  {
+    "name": "준꼬",
+    "level": 87,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "DOG",
     "world": "5-5"
   },
   {
@@ -15680,19 +15680,19 @@
     "world": "8-5"
   },
   {
-    "name": "블러드",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "은쪽이",
-    "world": "8-5"
-  },
-  {
     "name": "펩시형",
     "level": 90,
     "grade": 24,
     "class": "Enforcer",
     "guild": "블랙중독",
+    "world": "8-5"
+  },
+  {
+    "name": "블러드",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "은쪽이",
     "world": "8-5"
   },
   {
@@ -15714,7 +15714,7 @@
   {
     "name": "사도형",
     "level": 90,
-    "grade": 24,
+    "grade": 25,
     "class": "Enforcer",
     "guild": "블랙중독",
     "world": "8-5"
@@ -15840,19 +15840,19 @@
     "world": "8-5"
   },
   {
-    "name": "우루루설운도",
-    "level": 90,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "우루루",
-    "world": "8-5"
-  },
-  {
     "name": "오은영",
     "level": 90,
     "grade": 25,
     "class": "IncenseArcher",
     "guild": "은쪽이",
+    "world": "8-5"
+  },
+  {
+    "name": "우루루설운도",
+    "level": 90,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "우루루",
     "world": "8-5"
   },
   {
@@ -21312,19 +21312,19 @@
     "world": "11-2"
   },
   {
-    "name": "루이",
-    "level": 83,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "드라마덕후",
-    "world": "11-2"
-  },
-  {
     "name": "뽕맞은곰",
     "level": 83,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "동물구조대",
+    "world": "11-2"
+  },
+  {
+    "name": "루이",
+    "level": 83,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "드라마덕후",
     "world": "11-2"
   },
   {
@@ -28976,19 +28976,19 @@
     "world": "14-2"
   },
   {
-    "name": "에리스",
-    "level": 86,
-    "grade": 22,
-    "class": "RuneScribe",
-    "guild": "오브",
-    "world": "14-2"
-  },
-  {
     "name": "전우",
     "level": 86,
     "grade": 21,
     "class": "WildWarrior",
     "guild": "아기고양이",
+    "world": "14-2"
+  },
+  {
+    "name": "에리스",
+    "level": 86,
+    "grade": 22,
+    "class": "RuneScribe",
+    "guild": "오브",
     "world": "14-2"
   },
   {
@@ -33344,14 +33344,6 @@
     "world": "16-2"
   },
   {
-    "name": "은은한꽃향",
-    "level": 84,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "니들이버기단을알어",
-    "world": "16-2"
-  },
-  {
     "name": "고은",
     "level": 84,
     "grade": 20,
@@ -33364,6 +33356,14 @@
     "level": 84,
     "grade": 20,
     "class": "RuneScribe",
+    "guild": "니들이버기단을알어",
+    "world": "16-2"
+  },
+  {
+    "name": "은은한꽃향",
+    "level": 84,
+    "grade": 20,
+    "class": "Enforcer",
     "guild": "니들이버기단을알어",
     "world": "16-2"
   },
@@ -39992,7 +39992,7 @@
     "world": "27-5"
   },
   {
-    "name": "족쇄",
+    "name": "시간",
     "level": 78,
     "grade": 15,
     "class": "IncenseArcher",
