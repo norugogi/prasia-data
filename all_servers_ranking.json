@@ -5376,19 +5376,19 @@
     "world": "3-2"
   },
   {
-    "name": "가위",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "아마존",
-    "world": "3-2"
-  },
-  {
     "name": "아헤",
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
     "guild": "MAD",
+    "world": "3-2"
+  },
+  {
+    "name": "가위",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "아마존",
     "world": "3-2"
   },
   {
@@ -5619,7 +5619,7 @@
     "name": "곰표",
     "level": 91,
     "grade": 25,
-    "class": "RuneScribe",
+    "class": "SolarSentinel",
     "guild": "광혼",
     "world": "3-3"
   },
@@ -9041,7 +9041,7 @@
   },
   {
     "name": "심쿵해",
-    "level": 82,
+    "level": 81,
     "grade": 17,
     "class": "Enforcer",
     "guild": "풍월",
@@ -15936,19 +15936,19 @@
     "world": "8-5"
   },
   {
-    "name": "강너굴",
-    "level": 89,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "강북",
-    "world": "8-5"
-  },
-  {
     "name": "햇님형",
     "level": 89,
     "grade": 25,
     "class": "RuneScribe",
     "guild": "CodeName",
+    "world": "8-5"
+  },
+  {
+    "name": "강너굴",
+    "level": 89,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "강북",
     "world": "8-5"
   },
   {
@@ -16083,7 +16083,7 @@
     "name": "소방",
     "level": 84,
     "grade": 20,
-    "class": "SolarSentinel",
+    "class": "Enforcer",
     "guild": "편하게",
     "world": "10-1"
   },
@@ -16858,7 +16858,7 @@
   {
     "name": "도선대사",
     "level": 87,
-    "grade": 21,
+    "grade": 22,
     "class": "AbyssRevenant",
     "guild": "평화",
     "world": "10-2"
@@ -33064,6 +33064,14 @@
     "world": "16-2"
   },
   {
+    "name": "장혁",
+    "level": 86,
+    "grade": 20,
+    "class": "AbyssRevenant",
+    "guild": "연예인결사",
+    "world": "16-2"
+  },
+  {
     "name": "연예인",
     "level": 86,
     "grade": 22,
@@ -33084,14 +33092,6 @@
     "level": 86,
     "grade": 21,
     "class": "RuneScribe",
-    "guild": "연예인결사",
-    "world": "16-2"
-  },
-  {
-    "name": "장혁",
-    "level": 86,
-    "grade": 20,
-    "class": "AbyssRevenant",
     "guild": "연예인결사",
     "world": "16-2"
   },
@@ -34578,7 +34578,7 @@
   {
     "name": "수리남마약왕",
     "level": 85,
-    "grade": 20,
+    "grade": 21,
     "class": "Enforcer",
     "guild": "신분증",
     "world": "16-4"
@@ -36624,19 +36624,19 @@
     "world": "27-1"
   },
   {
-    "name": "MEGA",
-    "level": 80,
-    "grade": 18,
-    "class": "RuneScribe",
-    "guild": "산호만선발대",
-    "world": "27-1"
-  },
-  {
     "name": "RON",
     "level": 80,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "탑",
+    "world": "27-1"
+  },
+  {
+    "name": "MEGA",
+    "level": 80,
+    "grade": 18,
+    "class": "RuneScribe",
+    "guild": "산호만선발대",
     "world": "27-1"
   },
   {
@@ -37288,19 +37288,19 @@
     "world": "27-2"
   },
   {
-    "name": "주각이요",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "쉼터",
-    "world": "27-2"
-  },
-  {
     "name": "굴러",
     "level": 83,
     "grade": 19,
     "class": "WildWarrior",
     "guild": "천랑성",
+    "world": "27-2"
+  },
+  {
+    "name": "주각이요",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "쉼터",
     "world": "27-2"
   },
   {
@@ -39688,19 +39688,19 @@
     "world": "27-5"
   },
   {
-    "name": "행파",
-    "level": 79,
-    "grade": 15,
-    "class": "IncenseArcher",
-    "guild": "노즈라이딩",
-    "world": "27-5"
-  },
-  {
     "name": "아아",
     "level": 79,
     "grade": 15,
     "class": "Enforcer",
     "guild": "우리",
+    "world": "27-5"
+  },
+  {
+    "name": "행파",
+    "level": 79,
+    "grade": 15,
+    "class": "IncenseArcher",
+    "guild": "노즈라이딩",
     "world": "27-5"
   },
   {
@@ -39824,19 +39824,19 @@
     "world": "27-5"
   },
   {
-    "name": "미네랄",
-    "level": 78,
-    "grade": 15,
-    "class": "MirageBlade",
-    "guild": "봄도둑",
-    "world": "27-5"
-  },
-  {
     "name": "영웅",
     "level": 78,
     "grade": 17,
     "class": "Enforcer",
     "guild": "아퀴",
+    "world": "27-5"
+  },
+  {
+    "name": "미네랄",
+    "level": 78,
+    "grade": 15,
+    "class": "MirageBlade",
+    "guild": "봄도둑",
     "world": "27-5"
   },
   {
