@@ -8,7 +8,7 @@ fetch("all_servers_ranking.json")
 
 data=json;
 
-let count=data.filter(p=>p.grade>=25).length;
+let count=data.filter(p=>p.grade>=26).length;
 
 let now=new Date();
 
