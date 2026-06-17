@@ -5936,18 +5936,18 @@
     "world": "3-3"
   },
   {
-    "name": "명품추월",
-    "level": 89,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "명품",
-    "world": "3-3"
-  },
-  {
     "name": "명품츄르",
     "level": 89,
     "grade": 24,
     "class": "SolarSentinel",
+    "guild": "명품",
+    "world": "3-3"
+  },
+  {
+    "name": "명품추월",
+    "level": 89,
+    "grade": 23,
+    "class": "Enforcer",
     "guild": "명품",
     "world": "3-3"
   },
@@ -6176,19 +6176,19 @@
     "world": "3-3"
   },
   {
-    "name": "그래도좋아괜찮아",
-    "level": 86,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "버디버디",
-    "world": "3-3"
-  },
-  {
     "name": "명품강부자",
     "level": 86,
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "명품",
+    "world": "3-3"
+  },
+  {
+    "name": "그래도좋아괜찮아",
+    "level": 86,
+    "grade": 23,
+    "class": "RuneScribe",
+    "guild": "버디버디",
     "world": "3-3"
   },
   {
@@ -6592,14 +6592,6 @@
     "world": "3-4"
   },
   {
-    "name": "파천왕",
-    "level": 92,
-    "grade": 25,
-    "class": "Enforcer",
-    "guild": "매드",
-    "world": "3-4"
-  },
-  {
     "name": "쏘자",
     "level": 92,
     "grade": 25,
@@ -6637,6 +6629,14 @@
     "grade": 25,
     "class": "WildWarrior",
     "guild": "제드",
+    "world": "3-4"
+  },
+  {
+    "name": "파천왕",
+    "level": 92,
+    "grade": 25,
+    "class": "Enforcer",
+    "guild": "매드",
     "world": "3-4"
   },
   {
@@ -10616,7 +10616,7 @@
     "world": "5-4"
   },
   {
-    "name": "코리",
+    "name": "밤바",
     "level": 91,
     "grade": 25,
     "class": "Enforcer",
@@ -10624,7 +10624,7 @@
     "world": "5-4"
   },
   {
-    "name": "밤바",
+    "name": "코리",
     "level": 91,
     "grade": 25,
     "class": "Enforcer",
@@ -13088,14 +13088,6 @@
     "world": "8-2"
   },
   {
-    "name": "여름밤",
-    "level": 90,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "GOAT",
-    "world": "8-2"
-  },
-  {
     "name": "앰릿",
     "level": 90,
     "grade": 23,
@@ -13109,6 +13101,14 @@
     "grade": 24,
     "class": "WildWarrior",
     "guild": "홀리데이",
+    "world": "8-2"
+  },
+  {
+    "name": "여름밤",
+    "level": 89,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "GOAT",
     "world": "8-2"
   },
   {
@@ -17568,19 +17568,19 @@
     "world": "10-2"
   },
   {
-    "name": "크로이츠",
-    "level": 83,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "크로이츠",
-    "world": "10-2"
-  },
-  {
     "name": "독자",
     "level": 83,
     "grade": 20,
     "class": "AbyssRevenant",
     "guild": "우왕",
+    "world": "10-2"
+  },
+  {
+    "name": "크로이츠",
+    "level": 83,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "크로이츠",
     "world": "10-2"
   },
   {
@@ -18584,14 +18584,6 @@
     "world": "10-4"
   },
   {
-    "name": "솜검",
-    "level": 91,
-    "grade": 25,
-    "class": "MirageBlade",
-    "guild": "코드네임",
-    "world": "10-4"
-  },
-  {
     "name": "거니",
     "level": 91,
     "grade": 25,
@@ -18621,6 +18613,14 @@
     "grade": 25,
     "class": "IncenseArcher",
     "guild": "미깡",
+    "world": "10-4"
+  },
+  {
+    "name": "솜검",
+    "level": 91,
+    "grade": 25,
+    "class": "MirageBlade",
+    "guild": "코드네임",
     "world": "10-4"
   },
   {
@@ -26624,19 +26624,19 @@
     "world": "12-4"
   },
   {
-    "name": "붉은사막",
-    "level": 91,
-    "grade": 25,
-    "class": "SolarSentinel",
-    "guild": "봄봄",
-    "world": "12-4"
-  },
-  {
     "name": "미르형",
     "level": 91,
     "grade": 25,
     "class": "WildWarrior",
     "guild": "블랙중독",
+    "world": "12-4"
+  },
+  {
+    "name": "붉은사막",
+    "level": 91,
+    "grade": 25,
+    "class": "SolarSentinel",
+    "guild": "봄봄",
     "world": "12-4"
   },
   {
@@ -37512,6 +37512,14 @@
     "world": "27-2"
   },
   {
+    "name": "뚝딱이",
+    "level": 85,
+    "grade": 21,
+    "class": "Enforcer",
+    "guild": "월하익송",
+    "world": "27-2"
+  },
+  {
     "name": "나여아까그놈",
     "level": 85,
     "grade": 20,
@@ -37525,14 +37533,6 @@
     "grade": 21,
     "class": "Enforcer",
     "guild": "뉴비방범대",
-    "world": "27-2"
-  },
-  {
-    "name": "뚝딱이",
-    "level": 85,
-    "grade": 21,
-    "class": "Enforcer",
-    "guild": "월하익송",
     "world": "27-2"
   },
   {
