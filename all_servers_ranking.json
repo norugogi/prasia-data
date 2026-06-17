@@ -7088,19 +7088,19 @@
     "world": "3-4"
   },
   {
-    "name": "도로오",
-    "level": 90,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "매드",
-    "world": "3-4"
-  },
-  {
     "name": "이슬사랑",
     "level": 90,
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "백야",
+    "world": "3-4"
+  },
+  {
+    "name": "도로오",
+    "level": 90,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "매드",
     "world": "3-4"
   },
   {
@@ -16873,7 +16873,7 @@
   },
   {
     "name": "내가왕이될상인가",
-    "level": 89,
+    "level": 88,
     "grade": 23,
     "class": "Enforcer",
     "guild": "우왕",
@@ -17368,19 +17368,19 @@
     "world": "10-2"
   },
   {
-    "name": "빛궁",
-    "level": 84,
-    "grade": 20,
-    "class": "AbyssRevenant",
-    "guild": "이장님",
-    "world": "10-2"
-  },
-  {
     "name": "왕중왕",
     "level": 84,
     "grade": 20,
     "class": "SolarSentinel",
     "guild": "초밥집",
+    "world": "10-2"
+  },
+  {
+    "name": "빛궁",
+    "level": 84,
+    "grade": 20,
+    "class": "AbyssRevenant",
+    "guild": "이장님",
     "world": "10-2"
   },
   {
@@ -25152,6 +25152,14 @@
     "world": "12-2"
   },
   {
+    "name": "제로스",
+    "level": 87,
+    "grade": 21,
+    "class": "Enforcer",
+    "guild": "킹덤",
+    "world": "12-2"
+  },
+  {
     "name": "Crosstalk",
     "level": 87,
     "grade": 21,
@@ -25172,14 +25180,6 @@
     "level": 87,
     "grade": 22,
     "class": "RuneScribe",
-    "guild": "킹덤",
-    "world": "12-2"
-  },
-  {
-    "name": "제로스",
-    "level": 87,
-    "grade": 21,
-    "class": "Enforcer",
     "guild": "킹덤",
     "world": "12-2"
   },
