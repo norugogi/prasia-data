@@ -1660,7 +1660,7 @@
     "level": 86,
     "grade": 20,
     "class": "Enforcer",
-    "guild": null,
+    "guild": "불꽃",
     "world": "2-3"
   },
   {
@@ -4868,7 +4868,7 @@
     "level": 92,
     "grade": 25,
     "class": "RuneScribe",
-    "guild": "인스타그램",
+    "guild": null,
     "world": "3-2"
   },
   {
@@ -10872,18 +10872,18 @@
     "world": "5-4"
   },
   {
-    "name": "도나스",
-    "level": 88,
-    "grade": 22,
-    "class": "MirageBlade",
-    "guild": "은쪽이",
-    "world": "5-4"
-  },
-  {
     "name": "쌍패",
     "level": 88,
     "grade": 23,
     "class": "Enforcer",
+    "guild": "은쪽이",
+    "world": "5-4"
+  },
+  {
+    "name": "도나스",
+    "level": 88,
+    "grade": 22,
+    "class": "MirageBlade",
     "guild": "은쪽이",
     "world": "5-4"
   },
@@ -12936,6 +12936,14 @@
     "world": "8-2"
   },
   {
+    "name": "쌍용햇",
+    "level": 91,
+    "grade": 24,
+    "class": "Enforcer",
+    "guild": "홀리데이",
+    "world": "8-2"
+  },
+  {
     "name": "가사아",
     "level": 91,
     "grade": 25,
@@ -12957,14 +12965,6 @@
     "grade": 25,
     "class": "RuneScribe",
     "guild": "GOAT",
-    "world": "8-2"
-  },
-  {
-    "name": "쌍용햇",
-    "level": 91,
-    "grade": 24,
-    "class": "Enforcer",
-    "guild": "홀리데이",
     "world": "8-2"
   },
   {
@@ -16873,7 +16873,7 @@
   },
   {
     "name": "내가왕이될상인가",
-    "level": 88,
+    "level": 89,
     "grade": 23,
     "class": "Enforcer",
     "guild": "우왕",
@@ -23936,19 +23936,19 @@
     "world": "11-5"
   },
   {
-    "name": "힐까요",
-    "level": 87,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "솔라스톤",
-    "world": "11-5"
-  },
-  {
     "name": "샌드",
     "level": 87,
     "grade": 21,
     "class": "Enforcer",
     "guild": "제과점",
+    "world": "11-5"
+  },
+  {
+    "name": "힐까요",
+    "level": 87,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "솔라스톤",
     "world": "11-5"
   },
   {
@@ -29408,6 +29408,14 @@
     "world": "14-2"
   },
   {
+    "name": "대장금",
+    "level": 84,
+    "grade": 20,
+    "class": "AbyssRevenant",
+    "guild": "드라마",
+    "world": "14-2"
+  },
+  {
     "name": "노란고래",
     "level": 84,
     "grade": 19,
@@ -29421,14 +29429,6 @@
     "grade": 19,
     "class": "MirageBlade",
     "guild": "아기고양이",
-    "world": "14-2"
-  },
-  {
-    "name": "대장금",
-    "level": 84,
-    "grade": 20,
-    "class": "AbyssRevenant",
-    "guild": "드라마",
     "world": "14-2"
   },
   {
@@ -36040,6 +36040,14 @@
     "world": "27-1"
   },
   {
+    "name": "무씨",
+    "level": 91,
+    "grade": 25,
+    "class": "WildWarrior",
+    "guild": "TOP",
+    "world": "27-1"
+  },
+  {
     "name": "도리",
     "level": 91,
     "grade": 25,
@@ -36049,14 +36057,6 @@
   },
   {
     "name": "레신",
-    "level": 91,
-    "grade": 25,
-    "class": "WildWarrior",
-    "guild": "TOP",
-    "world": "27-1"
-  },
-  {
-    "name": "무씨",
     "level": 91,
     "grade": 25,
     "class": "WildWarrior",
@@ -36272,18 +36272,18 @@
     "world": "27-1"
   },
   {
-    "name": "쐐기",
-    "level": 88,
-    "grade": 24,
-    "class": "WildWarrior",
-    "guild": "TOP",
-    "world": "27-1"
-  },
-  {
     "name": "애니",
     "level": 88,
     "grade": 24,
     "class": "Enforcer",
+    "guild": "TOP",
+    "world": "27-1"
+  },
+  {
+    "name": "쐐기",
+    "level": 88,
+    "grade": 24,
+    "class": "WildWarrior",
     "guild": "TOP",
     "world": "27-1"
   },
