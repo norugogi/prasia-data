@@ -5416,19 +5416,19 @@
     "world": "3-2"
   },
   {
-    "name": "망망몬",
-    "level": 91,
-    "grade": 25,
-    "class": "IncenseArcher",
-    "guild": "진격의디지몬",
-    "world": "3-2"
-  },
-  {
     "name": "강똘끼",
     "level": 91,
     "grade": 25,
     "class": "IncenseArcher",
     "guild": "인스타그램",
+    "world": "3-2"
+  },
+  {
+    "name": "망망몬",
+    "level": 91,
+    "grade": 25,
+    "class": "IncenseArcher",
+    "guild": "진격의디지몬",
     "world": "3-2"
   },
   {
@@ -8824,7 +8824,7 @@
     "world": "5-2"
   },
   {
-    "name": "세마형",
+    "name": "왕자형",
     "level": 92,
     "grade": 25,
     "class": "WildWarrior",
@@ -8832,7 +8832,7 @@
     "world": "5-2"
   },
   {
-    "name": "왕자형",
+    "name": "세마형",
     "level": 92,
     "grade": 25,
     "class": "WildWarrior",
@@ -9592,11 +9592,11 @@
     "world": "5-2"
   },
   {
-    "name": "오뚜기",
+    "name": "금옥",
     "level": 88,
     "grade": 22,
-    "class": "Enforcer",
-    "guild": "AURA",
+    "class": "RuneScribe",
+    "guild": "노타치",
     "world": "5-2"
   },
   {
@@ -10960,18 +10960,18 @@
     "world": "5-4"
   },
   {
-    "name": "화랑이",
-    "level": 88,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "은쪽이",
-    "world": "5-4"
-  },
-  {
     "name": "암살자",
     "level": 88,
     "grade": 23,
     "class": "MirageBlade",
+    "guild": "은쪽이",
+    "world": "5-4"
+  },
+  {
+    "name": "화랑이",
+    "level": 88,
+    "grade": 23,
+    "class": "IncenseArcher",
     "guild": "은쪽이",
     "world": "5-4"
   },
@@ -12328,19 +12328,19 @@
     "world": "8-1"
   },
   {
-    "name": "덕선이",
-    "level": 86,
-    "grade": 21,
-    "class": "IncenseArcher",
-    "guild": "고스톱",
-    "world": "8-1"
-  },
-  {
     "name": "청령",
     "level": 86,
     "grade": 22,
     "class": "WildWarrior",
     "guild": "야구여왕",
+    "world": "8-1"
+  },
+  {
+    "name": "덕선이",
+    "level": 86,
+    "grade": 21,
+    "class": "IncenseArcher",
+    "guild": "고스톱",
     "world": "8-1"
   },
   {
@@ -17184,6 +17184,14 @@
     "world": "10-2"
   },
   {
+    "name": "서린",
+    "level": 85,
+    "grade": 20,
+    "class": "IncenseArcher",
+    "guild": "서리꽃",
+    "world": "10-2"
+  },
+  {
     "name": "치깡",
     "level": 85,
     "grade": 20,
@@ -17213,14 +17221,6 @@
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "우왕",
-    "world": "10-2"
-  },
-  {
-    "name": "서린",
-    "level": 85,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "서리꽃",
     "world": "10-2"
   },
   {
@@ -18872,6 +18872,14 @@
     "world": "10-4"
   },
   {
+    "name": "순자",
+    "level": 90,
+    "grade": 23,
+    "class": "RuneScribe",
+    "guild": "힐싸개",
+    "world": "10-4"
+  },
+  {
     "name": "오브",
     "level": 90,
     "grade": 24,
@@ -18885,14 +18893,6 @@
     "grade": 24,
     "class": "RuneScribe",
     "guild": "미깡",
-    "world": "10-4"
-  },
-  {
-    "name": "순자",
-    "level": 90,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "힐싸개",
     "world": "10-4"
   },
   {
@@ -24656,19 +24656,19 @@
     "world": "12-1"
   },
   {
-    "name": "레임",
-    "level": 80,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "테리아",
-    "world": "12-1"
-  },
-  {
     "name": "화산신룡",
     "level": 80,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "빛",
+    "world": "12-1"
+  },
+  {
+    "name": "레임",
+    "level": 80,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "테리아",
     "world": "12-1"
   },
   {
@@ -25368,19 +25368,19 @@
     "world": "12-2"
   },
   {
-    "name": "멋쟁이",
-    "level": 86,
-    "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "지능",
-    "world": "12-2"
-  },
-  {
     "name": "주각사",
     "level": 86,
     "grade": 22,
     "class": "WildWarrior",
     "guild": "킹덤",
+    "world": "12-2"
+  },
+  {
+    "name": "멋쟁이",
+    "level": 86,
+    "grade": 20,
+    "class": "IncenseArcher",
+    "guild": "지능",
     "world": "12-2"
   },
   {
@@ -28937,7 +28937,7 @@
   },
   {
     "name": "굴비",
-    "level": 87,
+    "level": 88,
     "grade": 22,
     "class": "Enforcer",
     "guild": "그림자",
@@ -37208,7 +37208,7 @@
     "world": "27-2"
   },
   {
-    "name": "꿀뚜",
+    "name": "목탁맨",
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
@@ -37216,7 +37216,7 @@
     "world": "27-2"
   },
   {
-    "name": "목탁맨",
+    "name": "꿀뚜",
     "level": 87,
     "grade": 23,
     "class": "Enforcer",
@@ -37344,6 +37344,14 @@
     "world": "27-2"
   },
   {
+    "name": "눈을감자",
+    "level": 86,
+    "grade": 21,
+    "class": "Enforcer",
+    "guild": "하우스",
+    "world": "27-2"
+  },
+  {
     "name": "도망자",
     "level": 86,
     "grade": 23,
@@ -37357,14 +37365,6 @@
     "grade": 23,
     "class": "Enforcer",
     "guild": "월하익송",
-    "world": "27-2"
-  },
-  {
-    "name": "눈을감자",
-    "level": 86,
-    "grade": 21,
-    "class": "Enforcer",
-    "guild": "하우스",
     "world": "27-2"
   },
   {
@@ -38064,19 +38064,19 @@
     "world": "27-3"
   },
   {
-    "name": "백만볼트조카츄",
-    "level": 82,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "미르",
-    "world": "27-3"
-  },
-  {
     "name": "부키",
     "level": 82,
     "grade": 19,
     "class": "IncenseArcher",
     "guild": "프라",
+    "world": "27-3"
+  },
+  {
+    "name": "백만볼트조카츄",
+    "level": 82,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "미르",
     "world": "27-3"
   },
   {
