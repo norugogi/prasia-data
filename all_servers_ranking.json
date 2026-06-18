@@ -9024,14 +9024,6 @@
     "world": "5-2"
   },
   {
-    "name": "베리밤",
-    "level": 91,
-    "grade": 25,
-    "class": "RuneScribe",
-    "guild": "AUPU",
-    "world": "5-2"
-  },
-  {
     "name": "바투",
     "level": 91,
     "grade": 25,
@@ -9045,6 +9037,14 @@
     "grade": 25,
     "class": "IncenseArcher",
     "guild": "AURA",
+    "world": "5-2"
+  },
+  {
+    "name": "베리밤",
+    "level": 91,
+    "grade": 25,
+    "class": "RuneScribe",
+    "guild": "AUPU",
     "world": "5-2"
   },
   {
@@ -9544,6 +9544,14 @@
     "world": "5-2"
   },
   {
+    "name": "땃쥐가화나면돈땃쥐",
+    "level": 88,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "AURA",
+    "world": "5-2"
+  },
+  {
     "name": "우주한입사과",
     "level": 88,
     "grade": 21,
@@ -9556,14 +9564,6 @@
     "level": 88,
     "grade": 23,
     "class": "Enforcer",
-    "guild": "AURA",
-    "world": "5-2"
-  },
-  {
-    "name": "땃쥐가화나면돈땃쥐",
-    "level": 88,
-    "grade": 24,
-    "class": "IncenseArcher",
     "guild": "AURA",
     "world": "5-2"
   },
@@ -14248,19 +14248,19 @@
     "world": "8-3"
   },
   {
-    "name": "단초마",
-    "level": 86,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "인연",
-    "world": "8-3"
-  },
-  {
     "name": "별봉",
     "level": 86,
     "grade": 20,
     "class": "Enforcer",
     "guild": "투팍",
+    "world": "8-3"
+  },
+  {
+    "name": "단초마",
+    "level": 86,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "인연",
     "world": "8-3"
   },
   {
@@ -14896,19 +14896,19 @@
     "world": "8-4"
   },
   {
-    "name": "니뭣꼬",
-    "level": 83,
-    "grade": 19,
-    "class": "IncenseArcher",
-    "guild": "에테루",
-    "world": "8-4"
-  },
-  {
     "name": "연장오",
     "level": 83,
     "grade": 19,
     "class": "RuneScribe",
     "guild": "이겜왜함",
+    "world": "8-4"
+  },
+  {
+    "name": "니뭣꼬",
+    "level": 83,
+    "grade": 19,
+    "class": "IncenseArcher",
+    "guild": "에테루",
     "world": "8-4"
   },
   {
@@ -19360,18 +19360,18 @@
     "world": "10-5"
   },
   {
-    "name": "샤갈",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "Galaxy",
-    "world": "10-5"
-  },
-  {
     "name": "우짜라고",
     "level": 89,
     "grade": 24,
     "class": "Enforcer",
+    "guild": "Galaxy",
+    "world": "10-5"
+  },
+  {
+    "name": "샤갈",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
     "guild": "Galaxy",
     "world": "10-5"
   },
@@ -22704,18 +22704,18 @@
     "world": "11-4"
   },
   {
-    "name": "가을라떼",
-    "level": 84,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "당근마트",
-    "world": "11-4"
-  },
-  {
     "name": "혼짱",
     "level": 84,
     "grade": 20,
     "class": "WildWarrior",
+    "guild": "당근마트",
+    "world": "11-4"
+  },
+  {
+    "name": "가을라떼",
+    "level": 84,
+    "grade": 20,
+    "class": "RuneScribe",
     "guild": "당근마트",
     "world": "11-4"
   },
@@ -24648,19 +24648,19 @@
     "world": "12-1"
   },
   {
-    "name": "그림판",
-    "level": 80,
-    "grade": 16,
-    "class": "RuneScribe",
-    "guild": "뱀파이어",
-    "world": "12-1"
-  },
-  {
     "name": "제성",
     "level": 80,
     "grade": 17,
     "class": "MirageBlade",
     "guild": "빛",
+    "world": "12-1"
+  },
+  {
+    "name": "그림판",
+    "level": 80,
+    "grade": 16,
+    "class": "RuneScribe",
+    "guild": "뱀파이어",
     "world": "12-1"
   },
   {
@@ -32176,18 +32176,18 @@
     "world": "16-1"
   },
   {
-    "name": "꼬북꼬북꼬부기",
-    "level": 91,
-    "grade": 25,
-    "class": "Enforcer",
-    "guild": "시그니처",
-    "world": "16-1"
-  },
-  {
     "name": "핵터",
     "level": 91,
     "grade": 24,
     "class": "IncenseArcher",
+    "guild": "시그니처",
+    "world": "16-1"
+  },
+  {
+    "name": "꼬북꼬북꼬부기",
+    "level": 91,
+    "grade": 25,
+    "class": "Enforcer",
     "guild": "시그니처",
     "world": "16-1"
   },
@@ -33080,19 +33080,19 @@
     "world": "16-2"
   },
   {
-    "name": "다솜",
-    "level": 84,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": "평화롭게",
-    "world": "16-2"
-  },
-  {
     "name": "아보카도",
     "level": 84,
     "grade": 18,
     "class": "Enforcer",
     "guild": "LEMONADE",
+    "world": "16-2"
+  },
+  {
+    "name": "다솜",
+    "level": 84,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": "평화롭게",
     "world": "16-2"
   },
   {
