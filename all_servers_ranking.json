@@ -7168,19 +7168,19 @@
     "world": "3-4"
   },
   {
-    "name": "캐치",
-    "level": 90,
-    "grade": 25,
-    "class": "Enforcer",
-    "guild": "백야",
-    "world": "3-4"
-  },
-  {
     "name": "거친자",
     "level": 90,
     "grade": 25,
     "class": "RuneScribe",
     "guild": "황혼",
+    "world": "3-4"
+  },
+  {
+    "name": "캐치",
+    "level": 90,
+    "grade": 25,
+    "class": "Enforcer",
+    "guild": "백야",
     "world": "3-4"
   },
   {
@@ -12384,19 +12384,19 @@
     "world": "8-1"
   },
   {
-    "name": "천공비",
-    "level": 85,
-    "grade": 21,
-    "class": "RuneScribe",
-    "guild": "Oasis",
-    "world": "8-1"
-  },
-  {
     "name": "샤크",
     "level": 85,
     "grade": 20,
     "class": "RuneScribe",
     "guild": "5세대",
+    "world": "8-1"
+  },
+  {
+    "name": "천공비",
+    "level": 85,
+    "grade": 21,
+    "class": "RuneScribe",
+    "guild": "Oasis",
     "world": "8-1"
   },
   {
@@ -18640,18 +18640,18 @@
     "world": "10-4"
   },
   {
-    "name": "춘향",
-    "level": 91,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "미깡",
-    "world": "10-4"
-  },
-  {
     "name": "주기",
     "level": 91,
     "grade": 24,
     "class": "IncenseArcher",
+    "guild": "미깡",
+    "world": "10-4"
+  },
+  {
+    "name": "춘향",
+    "level": 91,
+    "grade": 24,
+    "class": "MirageBlade",
     "guild": "미깡",
     "world": "10-4"
   },
@@ -23832,19 +23832,19 @@
     "world": "11-5"
   },
   {
-    "name": "하늘",
-    "level": 87,
-    "grade": 22,
-    "class": "RuneScribe",
-    "guild": "정복자",
-    "world": "11-5"
-  },
-  {
     "name": "소보로빵",
     "level": 87,
     "grade": 23,
     "class": "IncenseArcher",
     "guild": "제과점",
+    "world": "11-5"
+  },
+  {
+    "name": "하늘",
+    "level": 87,
+    "grade": 22,
+    "class": "RuneScribe",
+    "guild": "정복자",
     "world": "11-5"
   },
   {
@@ -33192,19 +33192,19 @@
     "world": "16-2"
   },
   {
-    "name": "키위",
-    "level": 83,
-    "grade": 17,
-    "class": "Enforcer",
-    "guild": "LEMONADE",
-    "world": "16-2"
-  },
-  {
     "name": "달아달아",
     "level": 83,
     "grade": 19,
     "class": "Enforcer",
     "guild": "니들이버기단을알어",
+    "world": "16-2"
+  },
+  {
+    "name": "키위",
+    "level": 83,
+    "grade": 17,
+    "class": "Enforcer",
+    "guild": "LEMONADE",
     "world": "16-2"
   },
   {
@@ -34336,19 +34336,19 @@
     "world": "16-3"
   },
   {
-    "name": "특별한사람",
-    "level": 81,
-    "grade": 17,
-    "class": "SolarSentinel",
-    "guild": "재미와여유사이",
-    "world": "16-3"
-  },
-  {
     "name": "솔라",
     "level": 81,
     "grade": 15,
     "class": "RuneScribe",
     "guild": "조선의활잡이",
+    "world": "16-3"
+  },
+  {
+    "name": "특별한사람",
+    "level": 81,
+    "grade": 17,
+    "class": "SolarSentinel",
+    "guild": "재미와여유사이",
     "world": "16-3"
   },
   {
@@ -34768,19 +34768,19 @@
     "world": "16-4"
   },
   {
-    "name": "한국음악",
-    "level": 85,
-    "grade": 20,
-    "class": "SolarSentinel",
-    "guild": null,
-    "world": "16-4"
-  },
-  {
     "name": "여명천사",
     "level": 85,
     "grade": 22,
     "class": "Enforcer",
     "guild": "neo",
+    "world": "16-4"
+  },
+  {
+    "name": "한국음악",
+    "level": 85,
+    "grade": 20,
+    "class": "SolarSentinel",
+    "guild": null,
     "world": "16-4"
   },
   {
