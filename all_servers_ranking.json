@@ -4488,18 +4488,18 @@
     "world": "3-1"
   },
   {
-    "name": "라기토끼",
-    "level": 88,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "토끼",
-    "world": "3-1"
-  },
-  {
     "name": "칼날토끼",
     "level": 88,
     "grade": 23,
     "class": "SolarSentinel",
+    "guild": "토끼",
+    "world": "3-1"
+  },
+  {
+    "name": "라기토끼",
+    "level": 88,
+    "grade": 23,
+    "class": "RuneScribe",
     "guild": "토끼",
     "world": "3-1"
   },
@@ -5048,19 +5048,19 @@
     "world": "3-2"
   },
   {
-    "name": "강테릭",
-    "level": 91,
-    "grade": 25,
-    "class": "Enforcer",
-    "guild": "네이트온",
-    "world": "3-2"
-  },
-  {
     "name": "도토리마루",
     "level": 91,
     "grade": 26,
     "class": "IncenseArcher",
     "guild": "싸이월드",
+    "world": "3-2"
+  },
+  {
+    "name": "강테릭",
+    "level": 91,
+    "grade": 25,
+    "class": "Enforcer",
+    "guild": "네이트온",
     "world": "3-2"
   },
   {
@@ -8928,18 +8928,18 @@
     "world": "5-2"
   },
   {
-    "name": "센쥬",
-    "level": 91,
-    "grade": 25,
-    "class": "RuneScribe",
-    "guild": "돈타치",
-    "world": "5-2"
-  },
-  {
     "name": "몽형",
     "level": 91,
     "grade": 25,
     "class": "WildWarrior",
+    "guild": "돈타치",
+    "world": "5-2"
+  },
+  {
+    "name": "센쥬",
+    "level": 91,
+    "grade": 25,
+    "class": "RuneScribe",
     "guild": "돈타치",
     "world": "5-2"
   },
@@ -11008,14 +11008,6 @@
     "world": "5-4"
   },
   {
-    "name": "귀신",
-    "level": 87,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "은쪽이",
-    "world": "5-4"
-  },
-  {
     "name": "이쟈무스요",
     "level": 87,
     "grade": 21,
@@ -11035,6 +11027,14 @@
     "name": "바브린카",
     "level": 87,
     "grade": 21,
+    "class": "Enforcer",
+    "guild": "은쪽이",
+    "world": "5-4"
+  },
+  {
+    "name": "귀신",
+    "level": 87,
+    "grade": 22,
     "class": "Enforcer",
     "guild": "은쪽이",
     "world": "5-4"
@@ -12576,18 +12576,18 @@
     "world": "8-1"
   },
   {
-    "name": "안다르크",
-    "level": 83,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "야구여왕",
-    "world": "8-1"
-  },
-  {
     "name": "아야카",
     "level": 83,
     "grade": 19,
     "class": "IncenseArcher",
+    "guild": "야구여왕",
+    "world": "8-1"
+  },
+  {
+    "name": "안다르크",
+    "level": 83,
+    "grade": 19,
+    "class": "RuneScribe",
     "guild": "야구여왕",
     "world": "8-1"
   },
@@ -14208,14 +14208,6 @@
     "world": "8-3"
   },
   {
-    "name": "단초마",
-    "level": 86,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": "인연",
-    "world": "8-3"
-  },
-  {
     "name": "악소",
     "level": 86,
     "grade": 21,
@@ -14245,6 +14237,14 @@
     "grade": 23,
     "class": "Enforcer",
     "guild": "악연",
+    "world": "8-3"
+  },
+  {
+    "name": "단초마",
+    "level": 86,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": "인연",
     "world": "8-3"
   },
   {
@@ -23064,14 +23064,6 @@
     "world": "11-4"
   },
   {
-    "name": "시크미",
-    "level": 82,
-    "grade": 18,
-    "class": "SolarSentinel",
-    "guild": "두두",
-    "world": "11-4"
-  },
-  {
     "name": "오렌지쥬스",
     "level": 82,
     "grade": 16,
@@ -23085,6 +23077,14 @@
     "grade": 17,
     "class": "IncenseArcher",
     "guild": "무지개고래",
+    "world": "11-4"
+  },
+  {
+    "name": "시크미",
+    "level": 82,
+    "grade": 18,
+    "class": "SolarSentinel",
+    "guild": "두두",
     "world": "11-4"
   },
   {
@@ -23938,7 +23938,7 @@
   {
     "name": "샌드",
     "level": 87,
-    "grade": 21,
+    "grade": 22,
     "class": "Enforcer",
     "guild": "제과점",
     "world": "11-5"
@@ -26361,7 +26361,7 @@
   },
   {
     "name": "초우니지원",
-    "level": 80,
+    "level": 81,
     "grade": 18,
     "class": "RuneScribe",
     "guild": "별의조각",
@@ -30336,19 +30336,19 @@
     "world": "14-3"
   },
   {
-    "name": "짐승키키",
-    "level": 81,
-    "grade": 16,
-    "class": "MirageBlade",
-    "guild": "부킹나이트",
-    "world": "14-3"
-  },
-  {
     "name": "등대지기",
     "level": 81,
     "grade": 17,
     "class": "AbyssRevenant",
     "guild": "신분증",
+    "world": "14-3"
+  },
+  {
+    "name": "짐승키키",
+    "level": 81,
+    "grade": 16,
+    "class": "MirageBlade",
+    "guild": "부킹나이트",
     "world": "14-3"
   },
   {
