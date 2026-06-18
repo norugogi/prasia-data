@@ -5128,19 +5128,19 @@
     "world": "3-2"
   },
   {
-    "name": "무제",
-    "level": 91,
-    "grade": 25,
-    "class": "WildWarrior",
-    "guild": "싸이월드",
-    "world": "3-2"
-  },
-  {
     "name": "레옹",
     "level": 91,
     "grade": 25,
     "class": "WildWarrior",
     "guild": "유니크",
+    "world": "3-2"
+  },
+  {
+    "name": "무제",
+    "level": 91,
+    "grade": 25,
+    "class": "WildWarrior",
+    "guild": "싸이월드",
     "world": "3-2"
   },
   {
@@ -8130,7 +8130,7 @@
   {
     "name": "유월사랑",
     "level": 90,
-    "grade": 25,
+    "grade": 26,
     "class": "Enforcer",
     "guild": "동물사랑",
     "world": "5-1"
@@ -10456,14 +10456,6 @@
     "world": "5-4"
   },
   {
-    "name": "금쪽이",
-    "level": 92,
-    "grade": 25,
-    "class": "RuneScribe",
-    "guild": "금쪽이",
-    "world": "5-4"
-  },
-  {
     "name": "뭐라씨부리노",
     "level": 92,
     "grade": 25,
@@ -10477,6 +10469,14 @@
     "grade": 25,
     "class": "RuneScribe",
     "guild": "은쪽이",
+    "world": "5-4"
+  },
+  {
+    "name": "금쪽이",
+    "level": 92,
+    "grade": 25,
+    "class": "RuneScribe",
+    "guild": "금쪽이",
     "world": "5-4"
   },
   {
@@ -11064,19 +11064,19 @@
     "world": "5-4"
   },
   {
-    "name": "천왕군",
-    "level": 87,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "KPOP",
-    "world": "5-4"
-  },
-  {
     "name": "잘빠노",
     "level": 87,
     "grade": 22,
     "class": "Enforcer",
     "guild": "은쪽이",
+    "world": "5-4"
+  },
+  {
+    "name": "천왕군",
+    "level": 87,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "KPOP",
     "world": "5-4"
   },
   {
@@ -17040,19 +17040,19 @@
     "world": "10-2"
   },
   {
-    "name": "호롱",
-    "level": 86,
-    "grade": 21,
-    "class": "Enforcer",
-    "guild": "숙숙",
-    "world": "10-2"
-  },
-  {
     "name": "대마",
     "level": 86,
     "grade": 22,
     "class": "RuneScribe",
     "guild": "우왕",
+    "world": "10-2"
+  },
+  {
+    "name": "호롱",
+    "level": 86,
+    "grade": 21,
+    "class": "Enforcer",
+    "guild": "숙숙",
     "world": "10-2"
   },
   {
@@ -26840,19 +26840,19 @@
     "world": "12-4"
   },
   {
-    "name": "범인",
-    "level": 90,
-    "grade": 24,
-    "class": "SolarSentinel",
-    "guild": "고블린하우스",
-    "world": "12-4"
-  },
-  {
     "name": "후니형",
     "level": 90,
     "grade": 24,
     "class": "IncenseArcher",
     "guild": "골드중독",
+    "world": "12-4"
+  },
+  {
+    "name": "범인",
+    "level": 90,
+    "grade": 24,
+    "class": "SolarSentinel",
+    "guild": "고블린하우스",
     "world": "12-4"
   },
   {
@@ -30080,19 +30080,19 @@
     "world": "14-3"
   },
   {
-    "name": "인천국제공항",
-    "level": 84,
-    "grade": 20,
-    "class": "Enforcer",
-    "guild": "코스트코",
-    "world": "14-3"
-  },
-  {
     "name": "로은",
     "level": 84,
     "grade": 21,
     "class": "WildWarrior",
     "guild": "하루카",
+    "world": "14-3"
+  },
+  {
+    "name": "인천국제공항",
+    "level": 84,
+    "grade": 20,
+    "class": "Enforcer",
+    "guild": "코스트코",
     "world": "14-3"
   },
   {
@@ -30744,18 +30744,18 @@
     "world": "14-4"
   },
   {
-    "name": "프로도",
-    "level": 90,
-    "grade": 25,
-    "class": "WildWarrior",
-    "guild": "CAT",
-    "world": "14-4"
-  },
-  {
     "name": "모꼬",
     "level": 90,
     "grade": 25,
     "class": "Enforcer",
+    "guild": "CAT",
+    "world": "14-4"
+  },
+  {
+    "name": "프로도",
+    "level": 90,
+    "grade": 25,
+    "class": "WildWarrior",
     "guild": "CAT",
     "world": "14-4"
   },
@@ -32176,6 +32176,14 @@
     "world": "16-1"
   },
   {
+    "name": "꼬북꼬북꼬부기",
+    "level": 91,
+    "grade": 25,
+    "class": "Enforcer",
+    "guild": "시그니처",
+    "world": "16-1"
+  },
+  {
     "name": "핵터",
     "level": 91,
     "grade": 24,
@@ -32204,14 +32212,6 @@
     "level": 91,
     "grade": 25,
     "class": "WildWarrior",
-    "guild": "시그니처",
-    "world": "16-1"
-  },
-  {
-    "name": "꼬북꼬북꼬부기",
-    "level": 90,
-    "grade": 25,
-    "class": "Enforcer",
     "guild": "시그니처",
     "world": "16-1"
   },
@@ -34128,19 +34128,19 @@
     "world": "16-3"
   },
   {
-    "name": "맨토쓰",
-    "level": 82,
-    "grade": 19,
-    "class": "RuneScribe",
-    "guild": "시정잡배",
-    "world": "16-3"
-  },
-  {
     "name": "원영",
     "level": 82,
     "grade": 18,
     "class": "WildWarrior",
     "guild": "조선의활잡이",
+    "world": "16-3"
+  },
+  {
+    "name": "맨토쓰",
+    "level": 82,
+    "grade": 19,
+    "class": "RuneScribe",
+    "guild": "시정잡배",
     "world": "16-3"
   },
   {
@@ -34800,14 +34800,6 @@
     "world": "16-4"
   },
   {
-    "name": "구찌구찌",
-    "level": 85,
-    "grade": 21,
-    "class": "RuneScribe",
-    "guild": "neo",
-    "world": "16-4"
-  },
-  {
     "name": "자비",
     "level": 85,
     "grade": 20,
@@ -34821,6 +34813,14 @@
     "grade": 20,
     "class": "Enforcer",
     "guild": "귀칼",
+    "world": "16-4"
+  },
+  {
+    "name": "구찌구찌",
+    "level": 85,
+    "grade": 21,
+    "class": "RuneScribe",
+    "guild": "neo",
     "world": "16-4"
   },
   {
