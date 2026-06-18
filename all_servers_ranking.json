@@ -2976,19 +2976,19 @@
     "world": "2-4"
   },
   {
-    "name": "켈비",
-    "level": 80,
-    "grade": 15,
-    "class": "Enforcer",
-    "guild": null,
-    "world": "2-4"
-  },
-  {
     "name": "초신성",
     "level": 80,
     "grade": 10,
     "class": "IncenseArcher",
     "guild": "익명",
+    "world": "2-4"
+  },
+  {
+    "name": "켈비",
+    "level": 80,
+    "grade": 15,
+    "class": "Enforcer",
+    "guild": null,
     "world": "2-4"
   },
   {
@@ -4272,18 +4272,18 @@
     "world": "3-1"
   },
   {
-    "name": "저격토끼",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "토끼",
-    "world": "3-1"
-  },
-  {
     "name": "포스토끼",
     "level": 89,
     "grade": 25,
     "class": "WildWarrior",
+    "guild": "토끼",
+    "world": "3-1"
+  },
+  {
+    "name": "저격토끼",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
     "guild": "토끼",
     "world": "3-1"
   },
@@ -13682,7 +13682,7 @@
   {
     "name": "World",
     "level": 91,
-    "grade": 25,
+    "grade": 26,
     "class": "Enforcer",
     "guild": "악연",
     "world": "8-3"
@@ -13936,19 +13936,19 @@
     "world": "8-3"
   },
   {
-    "name": "이킹",
-    "level": 88,
-    "grade": 21,
-    "class": "IncenseArcher",
-    "guild": "인연",
-    "world": "8-3"
-  },
-  {
     "name": "LILA",
     "level": 88,
     "grade": 24,
     "class": "RuneScribe",
     "guild": "악연",
+    "world": "8-3"
+  },
+  {
+    "name": "이킹",
+    "level": 88,
+    "grade": 21,
+    "class": "IncenseArcher",
+    "guild": "인연",
     "world": "8-3"
   },
   {
@@ -19904,14 +19904,6 @@
     "world": "10-5"
   },
   {
-    "name": "TIT",
-    "level": 82,
-    "grade": 19,
-    "class": "SolarSentinel",
-    "guild": "의형제",
-    "world": "10-5"
-  },
-  {
     "name": "순백",
     "level": 82,
     "grade": 19,
@@ -19925,6 +19917,14 @@
     "grade": 15,
     "class": "MirageBlade",
     "guild": "침하하",
+    "world": "10-5"
+  },
+  {
+    "name": "TIT",
+    "level": 82,
+    "grade": 19,
+    "class": "SolarSentinel",
+    "guild": "의형제",
     "world": "10-5"
   },
   {
@@ -23992,11 +23992,11 @@
     "world": "11-5"
   },
   {
-    "name": "쿄주로",
+    "name": "초코콘",
     "level": 86,
     "grade": 20,
-    "class": "SolarSentinel",
-    "guild": "센스",
+    "class": "IncenseArcher",
+    "guild": "제과점",
     "world": "11-5"
   },
   {
@@ -33608,18 +33608,18 @@
     "world": "16-3"
   },
   {
-    "name": "간단요정가민이",
-    "level": 91,
-    "grade": 25,
-    "class": "IncenseArcher",
-    "guild": "시정잡배",
-    "world": "16-3"
-  },
-  {
     "name": "간단요정예린",
     "level": 91,
     "grade": 25,
     "class": "WildWarrior",
+    "guild": "시정잡배",
+    "world": "16-3"
+  },
+  {
+    "name": "간단요정가민이",
+    "level": 91,
+    "grade": 25,
+    "class": "IncenseArcher",
     "guild": "시정잡배",
     "world": "16-3"
   },
