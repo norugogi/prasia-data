@@ -810,7 +810,7 @@
   {
     "name": "통닭",
     "level": 91,
-    "grade": 25,
+    "grade": 26,
     "class": "Enforcer",
     "guild": "헌터",
     "world": "2-2"
@@ -7960,19 +7960,19 @@
     "world": "3-5"
   },
   {
-    "name": "푸푹",
-    "level": 80,
-    "grade": 15,
-    "class": "Enforcer",
-    "guild": "푸슝",
-    "world": "3-5"
-  },
-  {
     "name": "춘삼이",
     "level": 80,
     "grade": 18,
     "class": "RuneScribe",
     "guild": "우리가남이가",
+    "world": "3-5"
+  },
+  {
+    "name": "푸푹",
+    "level": 80,
+    "grade": 15,
+    "class": "Enforcer",
+    "guild": "푸슝",
     "world": "3-5"
   },
   {
@@ -8976,19 +8976,19 @@
     "world": "5-2"
   },
   {
-    "name": "붐붐",
-    "level": 91,
-    "grade": 25,
-    "class": "RuneScribe",
-    "guild": "노타치",
-    "world": "5-2"
-  },
-  {
     "name": "무드",
     "level": 91,
     "grade": 25,
     "class": "Enforcer",
     "guild": "AUPU",
+    "world": "5-2"
+  },
+  {
+    "name": "붐붐",
+    "level": 91,
+    "grade": 25,
+    "class": "RuneScribe",
+    "guild": "노타치",
     "world": "5-2"
   },
   {
@@ -10616,7 +10616,7 @@
     "world": "5-4"
   },
   {
-    "name": "밤바",
+    "name": "코리",
     "level": 91,
     "grade": 25,
     "class": "Enforcer",
@@ -10624,7 +10624,7 @@
     "world": "5-4"
   },
   {
-    "name": "코리",
+    "name": "밤바",
     "level": 91,
     "grade": 25,
     "class": "Enforcer",
@@ -22984,14 +22984,6 @@
     "world": "11-4"
   },
   {
-    "name": "시크미",
-    "level": 82,
-    "grade": 18,
-    "class": "SolarSentinel",
-    "guild": "두두",
-    "world": "11-4"
-  },
-  {
     "name": "SNOWBOARD",
     "level": 82,
     "grade": 20,
@@ -23005,6 +22997,14 @@
     "grade": 14,
     "class": "IncenseArcher",
     "guild": "몰루",
+    "world": "11-4"
+  },
+  {
+    "name": "시크미",
+    "level": 82,
+    "grade": 18,
+    "class": "SolarSentinel",
+    "guild": "두두",
     "world": "11-4"
   },
   {
@@ -23440,18 +23440,18 @@
     "world": "11-5"
   },
   {
-    "name": "로메드",
-    "level": 90,
-    "grade": 24,
-    "class": "MirageBlade",
-    "guild": "정복자",
-    "world": "11-5"
-  },
-  {
     "name": "도솔산낙지볶음밥",
     "level": 90,
     "grade": 25,
     "class": "WildWarrior",
+    "guild": "정복자",
+    "world": "11-5"
+  },
+  {
+    "name": "로메드",
+    "level": 90,
+    "grade": 24,
+    "class": "MirageBlade",
     "guild": "정복자",
     "world": "11-5"
   },
@@ -29896,19 +29896,19 @@
     "world": "14-3"
   },
   {
-    "name": "앙티가바부다빠앙",
-    "level": 86,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "신분증",
-    "world": "14-3"
-  },
-  {
     "name": "견과류",
     "level": 86,
     "grade": 20,
     "class": "Enforcer",
     "guild": "침대",
+    "world": "14-3"
+  },
+  {
+    "name": "앙티가바부다빠앙",
+    "level": 86,
+    "grade": 20,
+    "class": "RuneScribe",
+    "guild": "신분증",
     "world": "14-3"
   },
   {
@@ -30056,19 +30056,19 @@
     "world": "14-3"
   },
   {
-    "name": "침대임",
-    "level": 84,
-    "grade": 19,
-    "class": "Enforcer",
-    "guild": "침대",
-    "world": "14-3"
-  },
-  {
     "name": "변백현",
     "level": 84,
     "grade": 19,
     "class": "MirageBlade",
     "guild": "변백현",
+    "world": "14-3"
+  },
+  {
+    "name": "침대임",
+    "level": 84,
+    "grade": 19,
+    "class": "Enforcer",
+    "guild": "침대",
     "world": "14-3"
   },
   {
@@ -32352,19 +32352,19 @@
     "world": "16-1"
   },
   {
-    "name": "단밤",
-    "level": 89,
-    "grade": 23,
-    "class": "WildWarrior",
-    "guild": "프리아",
-    "world": "16-1"
-  },
-  {
     "name": "삼양",
     "level": 89,
     "grade": 22,
     "class": "RuneScribe",
     "guild": "시그니처",
+    "world": "16-1"
+  },
+  {
+    "name": "단밤",
+    "level": 89,
+    "grade": 23,
+    "class": "WildWarrior",
+    "guild": "프리아",
     "world": "16-1"
   },
   {
@@ -33780,7 +33780,7 @@
     "level": 86,
     "grade": 21,
     "class": "Enforcer",
-    "guild": "골드코스트",
+    "guild": null,
     "world": "16-3"
   },
   {
@@ -36832,18 +36832,18 @@
     "world": "27-2"
   },
   {
-    "name": "료마",
-    "level": 91,
-    "grade": 25,
-    "class": "RuneScribe",
-    "guild": "북두칠성",
-    "world": "27-2"
-  },
-  {
     "name": "뉴월",
     "level": 91,
     "grade": 25,
     "class": "WildWarrior",
+    "guild": "북두칠성",
+    "world": "27-2"
+  },
+  {
+    "name": "료마",
+    "level": 91,
+    "grade": 25,
+    "class": "RuneScribe",
     "guild": "북두칠성",
     "world": "27-2"
   },
