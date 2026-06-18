@@ -5416,19 +5416,19 @@
     "world": "3-2"
   },
   {
-    "name": "망망몬",
-    "level": 91,
-    "grade": 25,
-    "class": "IncenseArcher",
-    "guild": "진격의디지몬",
-    "world": "3-2"
-  },
-  {
     "name": "강똘끼",
     "level": 91,
     "grade": 25,
     "class": "IncenseArcher",
     "guild": "인스타그램",
+    "world": "3-2"
+  },
+  {
+    "name": "망망몬",
+    "level": 91,
+    "grade": 25,
+    "class": "IncenseArcher",
+    "guild": "진격의디지몬",
     "world": "3-2"
   },
   {
@@ -7202,7 +7202,7 @@
   {
     "name": "악마",
     "level": 92,
-    "grade": 25,
+    "grade": 26,
     "class": "WildWarrior",
     "guild": "심판",
     "world": "3-5"
@@ -9400,14 +9400,6 @@
     "world": "5-2"
   },
   {
-    "name": "잭팟",
-    "level": 89,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "노타치",
-    "world": "5-2"
-  },
-  {
     "name": "꾸댕",
     "level": 89,
     "grade": 23,
@@ -9432,10 +9424,10 @@
     "world": "5-2"
   },
   {
-    "name": "대우형",
-    "level": 88,
+    "name": "잭팟",
+    "level": 89,
     "grade": 23,
-    "class": "IncenseArcher",
+    "class": "RuneScribe",
     "guild": "노타치",
     "world": "5-2"
   },
@@ -9445,6 +9437,14 @@
     "grade": 23,
     "class": "RuneScribe",
     "guild": "돈타치",
+    "world": "5-2"
+  },
+  {
+    "name": "대우형",
+    "level": 88,
+    "grade": 23,
+    "class": "IncenseArcher",
+    "guild": "노타치",
     "world": "5-2"
   },
   {
@@ -9464,18 +9464,18 @@
     "world": "5-2"
   },
   {
-    "name": "소아",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "AUPU",
-    "world": "5-2"
-  },
-  {
     "name": "버니",
     "level": 88,
     "grade": 22,
     "class": "Enforcer",
+    "guild": "AUPU",
+    "world": "5-2"
+  },
+  {
+    "name": "소아",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
     "guild": "AUPU",
     "world": "5-2"
   },
@@ -13368,19 +13368,19 @@
     "world": "8-2"
   },
   {
-    "name": "폭군특임대",
-    "level": 88,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "홀리데이",
-    "world": "8-2"
-  },
-  {
     "name": "타쪼",
     "level": 88,
     "grade": 22,
     "class": "IncenseArcher",
     "guild": "GOAT",
+    "world": "8-2"
+  },
+  {
+    "name": "폭군특임대",
+    "level": 88,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "홀리데이",
     "world": "8-2"
   },
   {
@@ -23592,6 +23592,14 @@
     "world": "11-5"
   },
   {
+    "name": "Vkki",
+    "level": 89,
+    "grade": 25,
+    "class": "IncenseArcher",
+    "guild": "정복자",
+    "world": "11-5"
+  },
+  {
     "name": "피해자",
     "level": 89,
     "grade": 23,
@@ -23605,14 +23613,6 @@
     "grade": 25,
     "class": "Enforcer",
     "guild": "제과점",
-    "world": "11-5"
-  },
-  {
-    "name": "Vkki",
-    "level": 89,
-    "grade": 25,
-    "class": "IncenseArcher",
-    "guild": "정복자",
     "world": "11-5"
   },
   {
@@ -30744,18 +30744,18 @@
     "world": "14-4"
   },
   {
-    "name": "모꼬",
-    "level": 90,
-    "grade": 25,
-    "class": "Enforcer",
-    "guild": "CAT",
-    "world": "14-4"
-  },
-  {
     "name": "프로도",
     "level": 90,
     "grade": 25,
     "class": "WildWarrior",
+    "guild": "CAT",
+    "world": "14-4"
+  },
+  {
+    "name": "모꼬",
+    "level": 90,
+    "grade": 25,
+    "class": "Enforcer",
     "guild": "CAT",
     "world": "14-4"
   },
@@ -33584,19 +33584,19 @@
     "world": "16-2"
   },
   {
-    "name": "촉새",
-    "level": 78,
-    "grade": 10,
-    "class": "IncenseArcher",
-    "guild": "배민",
-    "world": "16-2"
-  },
-  {
     "name": "아이온이뭐길래",
     "level": 78,
     "grade": 15,
     "class": "Enforcer",
     "guild": "LEMONADE",
+    "world": "16-2"
+  },
+  {
+    "name": "촉새",
+    "level": 78,
+    "grade": 10,
+    "class": "IncenseArcher",
+    "guild": "배민",
     "world": "16-2"
   },
   {
@@ -38040,19 +38040,19 @@
     "world": "27-3"
   },
   {
-    "name": "지나가는나그네",
-    "level": 82,
-    "grade": 18,
-    "class": "SolarSentinel",
-    "guild": "해거름인면수",
-    "world": "27-3"
-  },
-  {
     "name": "해머",
     "level": 82,
     "grade": 20,
     "class": "Enforcer",
     "guild": "미르",
+    "world": "27-3"
+  },
+  {
+    "name": "지나가는나그네",
+    "level": 82,
+    "grade": 18,
+    "class": "SolarSentinel",
+    "guild": "해거름인면수",
     "world": "27-3"
   },
   {
