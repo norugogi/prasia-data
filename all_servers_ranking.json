@@ -3592,19 +3592,19 @@
     "world": "2-5"
   },
   {
-    "name": "TL",
-    "level": 82,
-    "grade": 17,
-    "class": "RuneScribe",
-    "guild": "Earth",
-    "world": "2-5"
-  },
-  {
     "name": "재범형",
     "level": 82,
     "grade": 19,
     "class": "Enforcer",
     "guild": "불도그",
+    "world": "2-5"
+  },
+  {
+    "name": "TL",
+    "level": 82,
+    "grade": 17,
+    "class": "RuneScribe",
+    "guild": "Earth",
     "world": "2-5"
   },
   {
@@ -4912,14 +4912,6 @@
     "world": "3-2"
   },
   {
-    "name": "건달",
-    "level": 92,
-    "grade": 25,
-    "class": "WildWarrior",
-    "guild": "유니크",
-    "world": "3-2"
-  },
-  {
     "name": "지존전사나나",
     "level": 92,
     "grade": 26,
@@ -4933,6 +4925,14 @@
     "grade": 25,
     "class": "Enforcer",
     "guild": "싸이월드",
+    "world": "3-2"
+  },
+  {
+    "name": "건달",
+    "level": 92,
+    "grade": 25,
+    "class": "WildWarrior",
+    "guild": "유니크",
     "world": "3-2"
   },
   {
@@ -8928,18 +8928,18 @@
     "world": "5-2"
   },
   {
-    "name": "센쥬",
-    "level": 91,
-    "grade": 25,
-    "class": "RuneScribe",
-    "guild": "돈타치",
-    "world": "5-2"
-  },
-  {
     "name": "몽형",
     "level": 91,
     "grade": 25,
     "class": "WildWarrior",
+    "guild": "돈타치",
+    "world": "5-2"
+  },
+  {
+    "name": "센쥬",
+    "level": 91,
+    "grade": 25,
+    "class": "RuneScribe",
     "guild": "돈타치",
     "world": "5-2"
   },
@@ -10504,18 +10504,18 @@
     "world": "5-4"
   },
   {
-    "name": "Rex",
-    "level": 91,
-    "grade": 25,
-    "class": "IncenseArcher",
-    "guild": "금쪽이",
-    "world": "5-4"
-  },
-  {
     "name": "무하",
     "level": 91,
     "grade": 25,
     "class": "Enforcer",
+    "guild": "금쪽이",
+    "world": "5-4"
+  },
+  {
+    "name": "Rex",
+    "level": 91,
+    "grade": 25,
+    "class": "IncenseArcher",
     "guild": "금쪽이",
     "world": "5-4"
   },
@@ -10616,7 +10616,7 @@
     "world": "5-4"
   },
   {
-    "name": "코리",
+    "name": "밤바",
     "level": 91,
     "grade": 25,
     "class": "Enforcer",
@@ -10624,7 +10624,7 @@
     "world": "5-4"
   },
   {
-    "name": "밤바",
+    "name": "코리",
     "level": 91,
     "grade": 25,
     "class": "Enforcer",
@@ -17224,18 +17224,18 @@
     "world": "10-2"
   },
   {
-    "name": "뜌감자",
-    "level": 85,
-    "grade": 20,
-    "class": "RuneScribe",
-    "guild": "이장님",
-    "world": "10-2"
-  },
-  {
     "name": "유비할인",
     "level": 85,
     "grade": 20,
     "class": "Enforcer",
+    "guild": "이장님",
+    "world": "10-2"
+  },
+  {
+    "name": "뜌감자",
+    "level": 85,
+    "grade": 20,
+    "class": "RuneScribe",
     "guild": "이장님",
     "world": "10-2"
   },
@@ -21712,7 +21712,7 @@
     "world": "11-3"
   },
   {
-    "name": "미나사나모모",
+    "name": "리센느",
     "level": 88,
     "grade": 22,
     "class": "RuneScribe",
@@ -21720,7 +21720,7 @@
     "world": "11-3"
   },
   {
-    "name": "리센느",
+    "name": "미나사나모모",
     "level": 88,
     "grade": 22,
     "class": "RuneScribe",
@@ -23600,19 +23600,19 @@
     "world": "11-5"
   },
   {
-    "name": "아빠홈런볼",
-    "level": 89,
-    "grade": 25,
-    "class": "Enforcer",
-    "guild": "제과점",
-    "world": "11-5"
-  },
-  {
     "name": "피해자",
     "level": 89,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "정복자",
+    "world": "11-5"
+  },
+  {
+    "name": "아빠홈런볼",
+    "level": 89,
+    "grade": 25,
+    "class": "Enforcer",
+    "guild": "제과점",
     "world": "11-5"
   },
   {
@@ -26920,19 +26920,19 @@
     "world": "12-4"
   },
   {
-    "name": "톰토",
-    "level": 89,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "골드중독",
-    "world": "12-4"
-  },
-  {
     "name": "뻡꾸",
     "level": 89,
     "grade": 23,
     "class": "RuneScribe",
     "guild": "블랙중독",
+    "world": "12-4"
+  },
+  {
+    "name": "톰토",
+    "level": 89,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "골드중독",
     "world": "12-4"
   },
   {
@@ -27176,6 +27176,14 @@
     "world": "12-4"
   },
   {
+    "name": "모해",
+    "level": 88,
+    "grade": 24,
+    "class": "RuneScribe",
+    "guild": "봄봄",
+    "world": "12-4"
+  },
+  {
     "name": "오구",
     "level": 88,
     "grade": 21,
@@ -27189,14 +27197,6 @@
     "grade": 22,
     "class": "Enforcer",
     "guild": "냐오",
-    "world": "12-4"
-  },
-  {
-    "name": "모해",
-    "level": 88,
-    "grade": 24,
-    "class": "RuneScribe",
-    "guild": "봄봄",
     "world": "12-4"
   },
   {
@@ -36025,7 +36025,7 @@
   },
   {
     "name": "료멘스쿠나",
-    "level": 91,
+    "level": 92,
     "grade": 25,
     "class": "RuneScribe",
     "guild": "TOP",
@@ -36193,7 +36193,7 @@
   },
   {
     "name": "진짜창동이",
-    "level": 89,
+    "level": 90,
     "grade": 25,
     "class": "RuneScribe",
     "guild": "TOP",
@@ -36832,18 +36832,18 @@
     "world": "27-2"
   },
   {
-    "name": "료마",
-    "level": 91,
-    "grade": 25,
-    "class": "RuneScribe",
-    "guild": "북두칠성",
-    "world": "27-2"
-  },
-  {
     "name": "뉴월",
     "level": 91,
     "grade": 25,
     "class": "WildWarrior",
+    "guild": "북두칠성",
+    "world": "27-2"
+  },
+  {
+    "name": "료마",
+    "level": 91,
+    "grade": 25,
+    "class": "RuneScribe",
     "guild": "북두칠성",
     "world": "27-2"
   },
@@ -37120,6 +37120,14 @@
     "world": "27-2"
   },
   {
+    "name": "실프",
+    "level": 88,
+    "grade": 22,
+    "class": "RuneScribe",
+    "guild": "월하익송",
+    "world": "27-2"
+  },
+  {
     "name": "이것참난감하구먼",
     "level": 88,
     "grade": 24,
@@ -37132,14 +37140,6 @@
     "level": 88,
     "grade": 24,
     "class": "SolarSentinel",
-    "guild": "월하익송",
-    "world": "27-2"
-  },
-  {
-    "name": "실프",
-    "level": 88,
-    "grade": 22,
-    "class": "RuneScribe",
     "guild": "월하익송",
     "world": "27-2"
   },
@@ -37320,18 +37320,18 @@
     "world": "27-2"
   },
   {
-    "name": "몰리",
-    "level": 87,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "북두칠성",
-    "world": "27-2"
-  },
-  {
     "name": "액터",
     "level": 87,
     "grade": 22,
     "class": "AbyssRevenant",
+    "guild": "북두칠성",
+    "world": "27-2"
+  },
+  {
+    "name": "몰리",
+    "level": 87,
+    "grade": 23,
+    "class": "RuneScribe",
     "guild": "북두칠성",
     "world": "27-2"
   },
