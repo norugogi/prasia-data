@@ -2608,19 +2608,19 @@
     "world": "2-4"
   },
   {
-    "name": "박망꼬",
-    "level": 83,
-    "grade": 18,
-    "class": "Enforcer",
-    "guild": null,
-    "world": "2-4"
-  },
-  {
     "name": "나이샷",
     "level": 83,
     "grade": 20,
     "class": "IncenseArcher",
     "guild": "참이슬",
+    "world": "2-4"
+  },
+  {
+    "name": "박망꼬",
+    "level": 83,
+    "grade": 18,
+    "class": "Enforcer",
+    "guild": null,
     "world": "2-4"
   },
   {
@@ -7112,14 +7112,6 @@
     "world": "3-4"
   },
   {
-    "name": "슈스",
-    "level": 90,
-    "grade": 24,
-    "class": "IncenseArcher",
-    "guild": "극야",
-    "world": "3-4"
-  },
-  {
     "name": "개곰",
     "level": 90,
     "grade": 25,
@@ -7141,6 +7133,14 @@
     "grade": 25,
     "class": "RuneScribe",
     "guild": "츄",
+    "world": "3-4"
+  },
+  {
+    "name": "슈스",
+    "level": 90,
+    "grade": 24,
+    "class": "IncenseArcher",
+    "guild": "극야",
     "world": "3-4"
   },
   {
@@ -9424,14 +9424,6 @@
     "world": "5-2"
   },
   {
-    "name": "잭팟",
-    "level": 89,
-    "grade": 23,
-    "class": "RuneScribe",
-    "guild": "노타치",
-    "world": "5-2"
-  },
-  {
     "name": "피에프",
     "level": 88,
     "grade": 23,
@@ -9453,6 +9445,14 @@
     "grade": 24,
     "class": "Enforcer",
     "guild": "돈타치",
+    "world": "5-2"
+  },
+  {
+    "name": "잭팟",
+    "level": 88,
+    "grade": 23,
+    "class": "RuneScribe",
+    "guild": "노타치",
     "world": "5-2"
   },
   {
@@ -11257,7 +11257,7 @@
   },
   {
     "name": "고독한나그네",
-    "level": 88,
+    "level": 89,
     "grade": 22,
     "class": "WildWarrior",
     "guild": "킹덤",
@@ -13920,18 +13920,18 @@
     "world": "8-3"
   },
   {
-    "name": "노랑닭",
-    "level": 89,
-    "grade": 23,
-    "class": "IncenseArcher",
-    "guild": "악연",
-    "world": "8-3"
-  },
-  {
     "name": "가은",
     "level": 89,
     "grade": 24,
     "class": "RuneScribe",
+    "guild": "악연",
+    "world": "8-3"
+  },
+  {
+    "name": "노랑닭",
+    "level": 89,
+    "grade": 23,
+    "class": "IncenseArcher",
     "guild": "악연",
     "world": "8-3"
   },
@@ -17560,19 +17560,19 @@
     "world": "10-2"
   },
   {
-    "name": "일호점썸남",
-    "level": 83,
-    "grade": 18,
-    "class": "IncenseArcher",
-    "guild": "호얌",
-    "world": "10-2"
-  },
-  {
     "name": "독자",
     "level": 83,
     "grade": 20,
     "class": "AbyssRevenant",
     "guild": "우왕",
+    "world": "10-2"
+  },
+  {
+    "name": "일호점썸남",
+    "level": 83,
+    "grade": 18,
+    "class": "IncenseArcher",
+    "guild": "호얌",
     "world": "10-2"
   },
   {
@@ -18928,7 +18928,7 @@
     "world": "10-4"
   },
   {
-    "name": "문감자는살아있다",
+    "name": "쉿피치는세수중",
     "level": 90,
     "grade": 25,
     "class": "RuneScribe",
@@ -18936,7 +18936,7 @@
     "world": "10-4"
   },
   {
-    "name": "쉿피치는세수중",
+    "name": "문감자는살아있다",
     "level": 90,
     "grade": 25,
     "class": "RuneScribe",
@@ -23992,11 +23992,11 @@
     "world": "11-5"
   },
   {
-    "name": "초코콘",
+    "name": "쿄주로",
     "level": 86,
     "grade": 20,
-    "class": "IncenseArcher",
-    "guild": "제과점",
+    "class": "SolarSentinel",
+    "guild": "센스",
     "world": "11-5"
   },
   {
@@ -26856,19 +26856,19 @@
     "world": "12-4"
   },
   {
-    "name": "우럭형",
-    "level": 90,
-    "grade": 23,
-    "class": "Enforcer",
-    "guild": "골드중독",
-    "world": "12-4"
-  },
-  {
     "name": "킹짱아",
     "level": 90,
     "grade": 25,
     "class": "RuneScribe",
     "guild": "블랙중독",
+    "world": "12-4"
+  },
+  {
+    "name": "우럭형",
+    "level": 90,
+    "grade": 23,
+    "class": "Enforcer",
+    "guild": "골드중독",
     "world": "12-4"
   },
   {
@@ -28930,7 +28930,7 @@
   {
     "name": "흑웅",
     "level": 88,
-    "grade": 23,
+    "grade": 24,
     "class": "RuneScribe",
     "guild": "그림자",
     "world": "14-2"
@@ -39192,11 +39192,11 @@
     "world": "27-4"
   },
   {
-    "name": "무재",
+    "name": "구글",
     "level": 81,
     "grade": 18,
-    "class": "AbyssRevenant",
-    "guild": null,
+    "class": "Enforcer",
+    "guild": "Nan",
     "world": "27-4"
   },
   {
@@ -39504,19 +39504,19 @@
     "world": "27-5"
   },
   {
-    "name": "득구",
-    "level": 82,
-    "grade": 22,
-    "class": "Enforcer",
-    "guild": null,
-    "world": "27-5"
-  },
-  {
     "name": "김사장",
     "level": 82,
     "grade": 19,
     "class": "Enforcer",
     "guild": "바람",
+    "world": "27-5"
+  },
+  {
+    "name": "득구",
+    "level": 82,
+    "grade": 22,
+    "class": "Enforcer",
+    "guild": null,
     "world": "27-5"
   },
   {
