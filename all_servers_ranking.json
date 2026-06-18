@@ -4568,18 +4568,18 @@
     "world": "3-1"
   },
   {
-    "name": "라희파파",
-    "level": 87,
-    "grade": 22,
-    "class": "RuneScribe",
-    "guild": "토끼",
-    "world": "3-1"
-  },
-  {
     "name": "소주토끼",
     "level": 87,
     "grade": 21,
     "class": "IncenseArcher",
+    "guild": "토끼",
+    "world": "3-1"
+  },
+  {
+    "name": "라희파파",
+    "level": 87,
+    "grade": 22,
+    "class": "RuneScribe",
     "guild": "토끼",
     "world": "3-1"
   },
@@ -10488,18 +10488,18 @@
     "world": "5-4"
   },
   {
-    "name": "어둠라미",
-    "level": 91,
-    "grade": 25,
-    "class": "SolarSentinel",
-    "guild": "금쪽이",
-    "world": "5-4"
-  },
-  {
     "name": "조심",
     "level": 91,
     "grade": 25,
     "class": "WildWarrior",
+    "guild": "금쪽이",
+    "world": "5-4"
+  },
+  {
+    "name": "어둠라미",
+    "level": 91,
+    "grade": 25,
+    "class": "SolarSentinel",
     "guild": "금쪽이",
     "world": "5-4"
   },
@@ -10776,7 +10776,7 @@
     "world": "5-4"
   },
   {
-    "name": "쏘는중",
+    "name": "깅정은",
     "level": 89,
     "grade": 23,
     "class": "IncenseArcher",
@@ -10784,7 +10784,7 @@
     "world": "5-4"
   },
   {
-    "name": "깅정은",
+    "name": "쏘는중",
     "level": 89,
     "grade": 23,
     "class": "IncenseArcher",
@@ -10912,14 +10912,6 @@
     "world": "5-4"
   },
   {
-    "name": "불량스님",
-    "level": 88,
-    "grade": 24,
-    "class": "WildWarrior",
-    "guild": "은쪽이",
-    "world": "5-4"
-  },
-  {
     "name": "나몽",
     "level": 88,
     "grade": 23,
@@ -10941,6 +10933,14 @@
     "grade": 22,
     "class": "RuneScribe",
     "guild": "동쪽이",
+    "world": "5-4"
+  },
+  {
+    "name": "불량스님",
+    "level": 88,
+    "grade": 24,
+    "class": "WildWarrior",
+    "guild": "은쪽이",
     "world": "5-4"
   },
   {
@@ -22072,19 +22072,19 @@
     "world": "11-3"
   },
   {
-    "name": "위쳐",
-    "level": 84,
-    "grade": 19,
-    "class": "MirageBlade",
-    "guild": "HERO",
-    "world": "11-3"
-  },
-  {
     "name": "사가미오노",
     "level": 84,
     "grade": 19,
     "class": "Enforcer",
     "guild": "일본",
+    "world": "11-3"
+  },
+  {
+    "name": "위쳐",
+    "level": 84,
+    "grade": 19,
+    "class": "MirageBlade",
+    "guild": "HERO",
     "world": "11-3"
   },
   {
@@ -28768,19 +28768,19 @@
     "world": "14-1"
   },
   {
-    "name": "호이",
-    "level": 79,
-    "grade": 15,
-    "class": "RuneScribe",
-    "guild": null,
-    "world": "14-1"
-  },
-  {
     "name": "주니빠",
     "level": 79,
     "grade": 19,
     "class": "Enforcer",
     "guild": "시간의힘",
+    "world": "14-1"
+  },
+  {
+    "name": "호이",
+    "level": 79,
+    "grade": 15,
+    "class": "RuneScribe",
+    "guild": null,
     "world": "14-1"
   },
   {
